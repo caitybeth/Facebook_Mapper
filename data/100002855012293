@@ -1,0 +1,259 @@
+(dp1
+S'current_text'
+p2
+VNagpur\u000aCurrent City
+p3
+sS'name'
+p4
+S'Ganesh Shanker Saxena'
+p5
+sS'current_class'
+p6
+S'india'
+p7
+sS'friends'
+p8
+(lp9
+(S'100000583260219'
+S'Laina Balan'
+tp10
+a(S'100003173622593'
+S'Deependra Singh'
+tp11
+a(S'100001224057872'
+S'Umakant Dhrupati'
+tp12
+a(S'100002062578295'
+S'Senthil Kumar'
+tp13
+a(S'625135916'
+S'Girish N Pande'
+tp14
+a(S'100000105577467'
+S'Jitendra Patel'
+tp15
+a(S'100005403307015'
+S'Upendra Singh'
+tp16
+a(S'100000098863298'
+S'DrGagan Kundra Thori'
+tp17
+a(S'1029713428'
+S'Sandip Garg'
+tp18
+a(S'100000739387034'
+S'Sahil Bansal'
+tp19
+a(S'1691330891'
+S'Rahul Singhania Irs'
+tp20
+a(S'100002799855233'
+S'Namrata Singhal'
+tp21
+a(S'1562513161'
+S'Ankita Singh'
+tp22
+a(S'100001609023606'
+S'Sonal Jourihar'
+tp23
+a(S'100002491113666'
+S'Sathiya Sivaprakasam'
+tp24
+a(S'100001206762112'
+S'Suhas Dabade'
+tp25
+a(S'100001800287410'
+S'Swapnil Patil'
+tp26
+a(S'100006685630126'
+S'Anjali Saxena'
+tp27
+a(S'100002928127822'
+S'Satya Narayan Takhar'
+tp28
+a(S'100001070102665'
+S'Barjinder Randhawa'
+tp29
+a(S'1156341983'
+S'Ved Prakash'
+tp30
+a(S'682245662'
+S'Rijula Uniyal'
+tp31
+a(S'100001371190317'
+S'Pooja Hali Tikoo'
+tp32
+a(S'100002456750776'
+S'Deepak Kapoor'
+tp33
+a(S'100001093792617'
+S'Ajit Jnu'
+tp34
+a(S'221400003'
+S'Saikrishna Budamgunta'
+tp35
+a(S'100001633697072'
+S'Anuj Bhatt Bhatt'
+tp36
+a(S'100000360685212'
+S'Maninder Kaur Biswas'
+tp37
+a(S'100002008624239'
+S'Harsha Kumar'
+tp38
+a(S'100001168644050'
+S'Abhishek Anand'
+tp39
+a(S'100003120519726'
+S'Randhir Singh'
+tp40
+a(S'734608651'
+S'Anadee Nath Misshra'
+tp41
+a(S'1301269385'
+S'Dheeraj Kumar Jaiswal'
+tp42
+a(S'1207910600'
+S'Shiv Sewak'
+tp43
+a(S'100001428748425'
+S'Jeevan Bachhav'
+tp44
+a(S'1216435107'
+S'Rajeev Ranade'
+tp45
+a(S'100002713446725'
+S'Sowmya Sudhakar'
+tp46
+a(S'100002326605912'
+S'Shoba G Gunasekaran'
+tp47
+a(S'541530031'
+S'Chandra Mohan Thakur'
+tp48
+a(S'1552389638'
+S'Manish J Ajudiya'
+tp49
+a(S'530227622'
+S'Subhash Jangala'
+tp50
+a(S'598071496'
+S'Gopi Donthireddy'
+tp51
+a(S'100001080324783'
+S'Ashwin Gowda'
+tp52
+a(S'100002050906195'
+S'Abhinav Prakash Mishra'
+tp53
+a(S'100003360690164'
+S'Amar Bahadur Singh'
+tp54
+a(S'100000338232567'
+S'Anand Kumar'
+tp55
+a(S'719291458'
+S'Mathivanan Sa'
+tp56
+a(S'1042256913'
+S'Atul Kumar Pandey'
+tp57
+a(S'100000994108603'
+S'Bhawna Bhuvnesh'
+tp58
+a(S'648542075'
+S'Swaroop Mannava'
+tp59
+a(S'100001228444076'
+S'Prabhat Saxena'
+tp60
+a(S'100005955544067'
+S'Prateek Mishra'
+tp61
+a(S'100003462411435'
+S'Uday Mani Patel'
+tp62
+a(S'100002371692464'
+S'Vismiju Viswanathan'
+tp63
+a(S'100002395511062'
+S'Yogee Sharma'
+tp64
+a(S'668836057'
+S'Deevan Reddy'
+tp65
+a(S'100001963035825'
+S'Gm Doss'
+tp66
+a(S'100000647808553'
+S'Dhiraj Gajbhiye'
+tp67
+a(S'100000783842650'
+S'Pooja Vinit'
+tp68
+a(S'100002582136383'
+S'Srivijay Venkatesan'
+tp69
+a(S'561431554'
+S'Sudhanshu Dhar Mishra'
+tp70
+a(S'100002159548102'
+S'Sachin Singh'
+tp71
+a(S'1832762926'
+S'Shailendra Singh'
+tp72
+a(S'100002815612074'
+S'Mani Kandan'
+tp73
+a(S'1102325408'
+S'Ruchir Singhal'
+tp74
+a(S'623204462'
+S'M Karthi Keyan'
+tp75
+a(S'100004519093127'
+S'Girish Pande'
+tp76
+a(S'710114137'
+S'\\u0f62\\u0fa1\\u0f7c\\u0f0b\\u0f62\\u0f97\\u0f7a\\u0f0b \\u0f51\\u0f56\\u0f44\\u0f0b\\u0f55\\u0fb1\\u0f74\\u0f42\\u0f0d'
+tp77
+a(S'682032629'
+S'Amar Gahlot'
+tp78
+a(S'100000457429861'
+S'Aditya Divakar Prabhudesai'
+tp79
+a(S'1738777463'
+S'Ajay Jadeja Irs'
+tp80
+a(S'100000215692627'
+S'Senthil N P Senthil'
+tp81
+a(S'100001984137083'
+S'Kamal Kant Rahul'
+tp82
+a(S'220900125'
+S'Amrit Agrahari'
+tp83
+a(S'1821561557'
+S'Vivek Singh'
+tp84
+a(S'100000546042430'
+S'Navaneet Agrawal'
+tp85
+a(S'100000280374252'
+S'Anand Upadhyay'
+tp86
+a(S'612704316'
+S'Abhinav Gupta'
+tp87
+asS'id'
+p88
+S'100002855012293'
+p89
+sS'current_link'
+p90
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D21.070000345948%252C%2B79.269104003906%26name%3DNagpur%26mkt%3Den-IN&h=hAQFnqTm6&s=1
+p91
+s.

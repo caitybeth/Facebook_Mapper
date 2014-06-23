@@ -1,0 +1,31 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100003620979426'
+S'Deepak Sharma'
+tp4
+a(S'100004006272267'
+S'Narendra Kumar'
+tp5
+a(S'100003036545063'
+S'Arvind Kumar'
+tp6
+a(S'100003970639057'
+S'Ruchir Agarwal'
+tp7
+a(S'100003816508314'
+S'Stylie Deepak Thakur'
+tp8
+a(S'100004187202238'
+S'Manish Kumar'
+tp9
+asS'id'
+p10
+S'100003970639057'
+p11
+sS'name'
+p12
+S'Ruchir Agarwal'
+p13
+s.

@@ -1,0 +1,310 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100002627652771'
+S'Homayoun Watan'
+tp4
+a(S'100000350315370'
+S'Matiullah Noori'
+tp5
+a(S'100000605097683'
+S'Naqibullah Akhtar'
+tp6
+a(S'100003678259468'
+S'Nasratullah Wardak'
+tp7
+a(S'100001082001025'
+S'Enayatullah Hemat'
+tp8
+a(S'100000824194313'
+S'Fareed Ullah Wardak'
+tp9
+a(S'100002160978111'
+S'Esmatullah Noori'
+tp10
+a(S'100000332155585'
+S'Speen Storee Mustafa Noorzai'
+tp11
+a(S'100002013884590'
+S'Narges Hosai'
+tp12
+a(S'100001863232440'
+S'Hekmatullah Zafarzai'
+tp13
+a(S'100001650559985'
+S'Rohullah Azizi Sekander'
+tp14
+a(S'100004857548312'
+S'Assad Babury'
+tp15
+a(S'100002922692160'
+S'Najibullah Sadee'
+tp16
+a(S'1231220193'
+S'\\u0646\\u0627\\u0647\\u06cc\\u062f \\u0641\\u0631\\u06cc\\u062f'
+tp17
+a(S'100001455356451'
+S'Tamo Patton Wardak'
+tp18
+a(S'100003699210169'
+S'Gulrahman Rahmani'
+tp19
+a(S'1143212845'
+S'Allh Nazar Naqibi'
+tp20
+a(S'100000733637202'
+S'Hekmmatullah Nasrat'
+tp21
+a(S'100005098170589'
+S'Wardak Noori'
+tp22
+a(S'100000087416620'
+S'Mahbobullah Hakimi'
+tp23
+a(S'100003776438399'
+S'Sadin Wafa'
+tp24
+a(S'100002074810516'
+S'Mohammad Omar Asmati'
+tp25
+a(S'100004524633149'
+S'Habiburahman Haqpal'
+tp26
+a(S'100000717002992'
+S'Sarwar Yaqubi'
+tp27
+a(S'100001623006163'
+S'Basir Ibrahimee'
+tp28
+a(S'100000510723102'
+S'Ali Patan'
+tp29
+a(S'100005236622041'
+S'Sultan M Banaris Khan'
+tp30
+a(S'100002642444434'
+S'Sayed Mohammad Ghayoor'
+tp31
+a(S'100001382484084'
+S'Siddiq Ullah Salari Wardak'
+tp32
+a(S'100003333023350'
+S'Hasib Ullah Nazari'
+tp33
+a(S'100000455683621'
+S'Omar Patan'
+tp34
+a(S'100003547123120'
+S'Khalid Noori'
+tp35
+a(S'100003476139142'
+S'Rafiullah Noori Wardak'
+tp36
+a(S'100002370122033'
+S'Zubaid Noori'
+tp37
+a(S'100000878382385'
+S'Raihana Jallal'
+tp38
+a(S'645087337'
+S'Farzad Lameh'
+tp39
+a(S'100006993189855'
+S'Hashmatullah Kalemzai'
+tp40
+a(S'100001852170893'
+S'Anbia Noori'
+tp41
+a(S'100001821875292'
+S'Rohullah Sahil'
+tp42
+a(S'100000510452396'
+S'Habiab Habib'
+tp43
+a(S'100004241672739'
+S'Ihsan Ullha Noori Wardak'
+tp44
+a(S'100002085311776'
+S'Mena Mangal'
+tp45
+a(S'100002665481494'
+S'Abubaker Patan'
+tp46
+a(S'100005311033932'
+S'\\u0627\\u0644\\u062d\\u0627\\u062c \\u0627\\u0646\\u062c\\u064a\\u0646\\u0631 \\u0634\\u0647\\u0632\\u0627\\u062f\\u0647 \\u0648\\u0631\\u062f\\u06ab'
+tp47
+a(S'100003239936144'
+S'Akbary Wardak'
+tp48
+a(S'1401504728'
+S'Safiullah Amid'
+tp49
+a(S'100002047312253'
+S'Mustafa Kalemzai'
+tp50
+a(S'100002649685362'
+S'Farzana Naz'
+tp51
+a(S'1796870364'
+S'Hekmat Wardak'
+tp52
+a(S'100004386965545'
+S'Khalid Patan'
+tp53
+a(S'100001643773948'
+S'Ehsan Nikzad'
+tp54
+a(S'100004273684057'
+S'Naqib Aram'
+tp55
+a(S'100002067645334'
+S'\\u062f\\u0648\\u0637\\u0646 \\u062e\\u062f\\u0645\\u062a \\u06af\\u0627\\u0631'
+tp56
+a(S'100000961724630'
+S'Mohammad Aslam Nasrat'
+tp57
+a(S'100003221640293'
+S'Ajmal Hasanzay'
+tp58
+a(S'100000950430536'
+S'Mohammad Amin Wardak'
+tp59
+a(S'100001474746149'
+S'Naeem Ahmadzai'
+tp60
+a(S'100003931278356'
+S'Ahmadullah Aziziwardak'
+tp61
+a(S'100001946108027'
+S'Mohammad Khalilzai Wardak'
+tp62
+a(S'100004223714167'
+S'Abdul Khaliq Rafiqi'
+tp63
+a(S'100003463163675'
+S'M Ishaq Wardak'
+tp64
+a(S'100003225021231'
+S'Bahar Hamraz'
+tp65
+a(S'715334102'
+S'Farid Ghafari'
+tp66
+a(S'100004125813261'
+S'Noor Gul Sabery'
+tp67
+a(S'1777911109'
+S'Khalilullah Mayar'
+tp68
+a(S'100000919421651'
+S'Nasir Ahmad Matin'
+tp69
+a(S'100002562970598'
+S'Shafiq Tariq'
+tp70
+a(S'100001554412169'
+S'Fazalrahim Modaser'
+tp71
+a(S'100001156796054'
+S'Zabi Rahimee'
+tp72
+a(S'100000305392907'
+S'Siddiq Ullah Wardak'
+tp73
+a(S'100004476284103'
+S'Nasir Hiwad'
+tp74
+a(S'100002049892836'
+S'M Naseer Noori'
+tp75
+a(S'100000755766157'
+S'Fahim Noori'
+tp76
+a(S'100004004772409'
+S'Esmatullah Wardak'
+tp77
+a(S'100000593198820'
+S'Amanullah Noori'
+tp78
+a(S'100000374431254'
+S'Samiullah Patyal Wardak'
+tp79
+a(S'100003726825716'
+S'Ahmadullah Rahimzai'
+tp80
+a(S'100001736775461'
+S'Mohammad Hassan Hamkar'
+tp81
+a(S'100000105503702'
+S'Haseeb Ata'
+tp82
+a(S'100000104803252'
+S'Haseeb Yaquby'
+tp83
+a(S'100002195563807'
+S'Monawar Wardak'
+tp84
+a(S'100003088452965'
+S'Mahmood Habibi'
+tp85
+a(S'100001411066385'
+S'Sayed Omer Omer'
+tp86
+a(S'100002562923234'
+S'Yalda Qader'
+tp87
+a(S'100006299827556'
+S'\\u062a\\u0639\\u0644\\u0646 \\u0631\\u0642\\u0645 \\u0627\\u0644\\u0645\\u0637\\u0627\\u0631'
+tp88
+a(S'100000956154664'
+S'Zarlasht Noorian'
+tp89
+a(S'100001365890112'
+S'Helal Wahidi'
+tp90
+a(S'100002269661047'
+S'Habibullah Momand'
+tp91
+a(S'100004365873168'
+S'Fazlullah Azizi'
+tp92
+a(S'519170107'
+S'Sayed Esmatullah Hashmat'
+tp93
+a(S'100003988991205'
+S'Hedayatullah Noori'
+tp94
+a(S'100004960926135'
+S'Fazlullah Azizi'
+tp95
+a(S'100001947738543'
+S'Shafiq Wahdi'
+tp96
+a(S'1067234892'
+S'\\u0645\\u062d\\u0645\\u062f \\u0648\\u0644\\u0649'
+tp97
+a(S'100000173774218'
+S'Zabihullah Noori'
+tp98
+a(S'100000839521170'
+S'Najibrahman Rahmany'
+tp99
+a(S'100002259693098'
+S'Hamid Noori'
+tp100
+a(S'100001406058672'
+S'Mohammad Haseeb Yaquobi'
+tp101
+a(S'100000635628940'
+S'Imran Saeed'
+tp102
+asS'id'
+p103
+S'100000808604750'
+p104
+sS'name'
+p105
+S'Enayatullah Noori'
+p106
+s.

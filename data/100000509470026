@@ -1,0 +1,217 @@
+(dp1
+S'name'
+p2
+S'Rajib Hota'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vbhubaneshwar, odisha, india
+p7
+sS'home_text'
+p8
+VBhubaneshwar, Orissa, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D13.083900104874%252C%2B80.268859863281%26name%3DChennai%252C%2BTamil%2BNadu%26mkt%3Den-IN&h=UAQGiDwqb&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D20.233300594568%252C%2B85.832061767578%26name%3DBhubaneshwar%252C%2BOrissa%252C%2BIndia%26mkt%3Den-IN&h=_AQGOt-RO&s=1
+p13
+sS'current_text'
+p14
+VChennai, Tamil Nadu\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100002255948620'
+S'Avinash Tadavarthy'
+tp18
+a(S'100001167068627'
+S'Yogender Chaudhry'
+tp19
+a(S'1609927202'
+S'Sanjay Puri'
+tp20
+a(S'100000184633762'
+S'Prithviraj Patnaik'
+tp21
+a(S'100004753720430'
+S'Khiroda Kumar Jena'
+tp22
+a(S'1264643399'
+S'Sitanshu Kar'
+tp23
+a(S'1090457076'
+S'Susie Varghese'
+tp24
+a(S'1361925689'
+S'Meenakshi J Goswami'
+tp25
+a(S'571380579'
+S'Anamika Gupta Kajaria'
+tp26
+a(S'100000693799869'
+S'Mithu Ghosh'
+tp27
+a(S'780843935'
+S'Ashish Abrol'
+tp28
+a(S'1275115583'
+S'Naren Rajan'
+tp29
+a(S'100001959227988'
+S'Anjali Mohanty'
+tp30
+a(S'100001992672906'
+S'Monisha Tripathy'
+tp31
+a(S'683501705'
+S'Priya Kanungo'
+tp32
+a(S'642153893'
+S'Udhayaraja Drj'
+tp33
+a(S'567708456'
+S'Shishir Srivastava'
+tp34
+a(S'755445209'
+S'Dharitri Patnaik'
+tp35
+a(S'517619013'
+S'Madhup Mohta'
+tp36
+a(S'1497690573'
+S'Sanjeev Sharma'
+tp37
+a(S'100001257168543'
+S'Pushpalatha Murugesan'
+tp38
+a(S'100005624472251'
+S'Preeta Harit'
+tp39
+a(S'100000397748183'
+S'Mita Tripathy'
+tp40
+a(S'100002125983950'
+S'Lal Chand'
+tp41
+a(S'1610890250'
+S'Sudha Ramalingam'
+tp42
+a(S'100000084111089'
+S'Chinmoyansu Hota'
+tp43
+a(S'100000407468246'
+S'Uttara Tripathy'
+tp44
+a(S'1395476505'
+S'Nilay Baran Som'
+tp45
+a(S'100000862862541'
+S'Chinmay Hota'
+tp46
+a(S'1508636113'
+S'Sunita Billa'
+tp47
+a(S'1496400927'
+S'Shyam Benupani'
+tp48
+a(S'789468621'
+S'Arun S Bhatnagar'
+tp49
+a(S'100002411833235'
+S'Rajsekhar Pramanick'
+tp50
+a(S'100002323983665'
+S'Feroz Banu'
+tp51
+a(S'673830812'
+S'Chetan W. Bhende'
+tp52
+a(S'1110949980'
+S'Sanjay Panigrahi'
+tp53
+a(S'100000126657856'
+S'Md Mohsin Alam'
+tp54
+a(S'617986611'
+S'Shraddha Tripathy'
+tp55
+a(S'100000611075409'
+S'Feroz Khan'
+tp56
+a(S'697141046'
+S'Chiranjiv Mohanty'
+tp57
+a(S'587274694'
+S'Sujata Patnaik'
+tp58
+a(S'100001285322160'
+S'Sarat Dash'
+tp59
+a(S'783505006'
+S'Millie Misra'
+tp60
+a(S'100003032268633'
+S'Rinnkie K Gill'
+tp61
+a(S'557919759'
+S'Rakesh Bhaskar'
+tp62
+a(S'641919565'
+S'Kumar Sanjay'
+tp63
+a(S'555921113'
+S'Utkarsh Rana'
+tp64
+a(S'100000485194593'
+S'Ritwick Hota'
+tp65
+a(S'100002448528845'
+S'Archana Choudhary'
+tp66
+a(S'100000081970216'
+S'Kasturi Pattanaik'
+tp67
+a(S'1044549593'
+S'Akunuru Sitarama Rao'
+tp68
+a(S'100001905866795'
+S'Sukesh Mishra'
+tp69
+a(S'1427071599'
+S'Ashok Bal'
+tp70
+a(S'100001905953809'
+S'Sucheta Tripathy'
+tp71
+a(S'1415598660'
+S'Sunil Ojha'
+tp72
+a(S'1136029428'
+S'Shruti Kumar'
+tp73
+a(S'100001492882531'
+S'Debraj Pradhan'
+tp74
+a(S'615562093'
+S'Bobby Shrivastav'
+tp75
+a(S'100000280374252'
+S'Anand Upadhyay'
+tp76
+a(S'100000796801229'
+S'Upendra Prasad Singh'
+tp77
+asS'id'
+p78
+S'100000509470026'
+p79
+s.

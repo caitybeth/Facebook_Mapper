@@ -1,0 +1,46 @@
+(dp1
+S'current_text'
+p2
+VLondon, United Kingdom\u000aCurrent City
+p3
+sS'name'
+p4
+S'Akbar Ali'
+p5
+sS'current_class'
+p6
+Vlondon, uk
+p7
+sS'friends'
+p8
+(lp9
+(S'100006760560220'
+p10
+S'Ali Khan Khan'
+tp11
+a(S'100001879552739'
+p12
+S'Prince Goga'
+tp13
+a(S'100007153150322'
+p14
+S'Sadaf Javed'
+tp15
+a(g12
+S'Prince Goga'
+tp16
+a(g10
+S'Ali Khan Khan'
+tp17
+a(g14
+S'Sadaf Javed'
+tp18
+asS'id'
+p19
+S'100008303942962'
+p20
+sS'current_link'
+p21
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D51.507199912582%252C%2B-0.12771606445312%26name%3DLondon%252C%2BUnited%2BKingdom%26mkt%3Den-IN&h=OAQGc5-a4&s=1
+p22
+s.

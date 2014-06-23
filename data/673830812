@@ -1,0 +1,262 @@
+(dp1
+S'current_text'
+p2
+VMumbai, Maharashtra, India\u000aCurrent City
+p3
+sS'name'
+p4
+S'Chetan W. Bhende'
+p5
+sS'current_class'
+p6
+S'india'
+p7
+sS'friends'
+p8
+(lp9
+(S'713682778'
+S'Karan Bir Singh Sidhu'
+tp10
+a(S'740988464'
+S'Vivek Raj Singh Kukrele'
+tp11
+a(S'741529381'
+S'Rekha Singh'
+tp12
+a(S'567519852'
+S'Bharat Bhushan'
+tp13
+a(S'789985556'
+S'Aditi Kapadia'
+tp14
+a(S'628017442'
+S'John Kane'
+tp15
+a(S'100001320514941'
+S'Maninder Anand'
+tp16
+a(S'100001298964729'
+S'Amitbhanu Pandey'
+tp17
+a(S'100001492882531'
+S'Debraj Pradhan'
+tp18
+a(S'1427388634'
+S'Anil Khurana'
+tp19
+a(S'740328647'
+S'Anjani Tiwari'
+tp20
+a(S'100001210588022'
+S'Vijay Singh Lamba'
+tp21
+a(S'1621646077'
+S'Hemant Nagrale'
+tp22
+a(S'529360729'
+S'Debashis Chakraborty'
+tp23
+a(S'100000213183130'
+S'Himanshu Vijay Bhatt'
+tp24
+a(S'100001636305362'
+S'Saunu Yadav'
+tp25
+a(S'100001398791772'
+S'Kumar Aditya'
+tp26
+a(S'1362386272'
+S'Vijay Shanker Singh'
+tp27
+a(S'100001584948090'
+S'Vaibhav Nimbalkar'
+tp28
+a(S'100002913523518'
+S'Rajani Kanth Reddy. T'
+tp29
+a(S'824637019'
+S'Basanta Rajkumar'
+tp30
+a(S'100000818150557'
+S'Dr-Mahesh Naykude'
+tp31
+a(S'766664420'
+S'Vishan Prakash'
+tp32
+a(S'100001555357518'
+S'Pandey Ashish'
+tp33
+a(S'555995449'
+S'Johan Sta\\u00ebl Von Holstein'
+tp34
+a(S'734608651'
+S'Anadee Nath Misshra'
+tp35
+a(S'1031410763'
+S'Alberto Silini'
+tp36
+a(S'517619013'
+S'Madhup Mohta'
+tp37
+a(S'508681398'
+S'Anita Patil'
+tp38
+a(S'100004148133494'
+S'Ausaf Sayeed'
+tp39
+a(S'775978137'
+S'Ray Douglas'
+tp40
+a(S'1440362848'
+S'Alok K Madhvan'
+tp41
+a(S'621602409'
+S'\\u0905\\u091c\\u092f \\u0938\\u093f\\u0902\\u0939'
+tp42
+a(S'1554401779'
+S'Awanish Sharan'
+tp43
+a(S'1428112386'
+S'Rama Solanki'
+tp44
+a(S'571308302'
+S'Luke Davis'
+tp45
+a(S'1189158577'
+S'Krishna Kumar Yadav'
+tp46
+a(S'501137557'
+S'Vishal Maya Shetty'
+tp47
+a(S'100001365862130'
+S'Atul Mishra'
+tp48
+a(S'1709637223'
+S'Saket Sudhanshu Sharma'
+tp49
+a(S'286601199'
+S'Catherine Mason'
+tp50
+a(S'100001491506851'
+S'Chunaram Kaswan'
+tp51
+a(S'100001167068627'
+S'Yogender Chaudhry'
+tp52
+a(S'1128570682'
+S'Sonmoni Borah'
+tp53
+a(S'100002105013173'
+S'Devindera Negi'
+tp54
+a(S'1514103358'
+S'Ajay Chagti'
+tp55
+a(S'517329884'
+S'Amarendra Khatua'
+tp56
+a(S'582636842'
+S'Sharad Malhotra'
+tp57
+a(S'100001237193843'
+S'Ashish Jain'
+tp58
+a(S'1261140688'
+S'Mohit Lila'
+tp59
+a(S'100002930670190'
+S'Prateek Jhajharia'
+tp60
+a(S'100002840238397'
+S'Birendra Kumar Singh'
+tp61
+a(S'100000633614011'
+S'Lalit Pandey'
+tp62
+a(S'1360684903'
+S'Prasad Pujari'
+tp63
+a(S'100000576237555'
+S'Satyendra Sagar'
+tp64
+a(S'100000708442022'
+S'Sanjay Dhingra'
+tp65
+a(S'100000178208278'
+S'Leena Saigal'
+tp66
+a(S'621374827'
+S'Sachin Mittal'
+tp67
+a(S'572151895'
+S'Inbavijayan Veeraraghavan'
+tp68
+a(S'1045908562'
+S'Raja Sekar'
+tp69
+a(S'703695963'
+S'Rajanvir Singh Kapur'
+tp70
+a(S'586262036'
+S'Stefan Sahlin'
+tp71
+a(S'784073126'
+S'Nitin J\\u00e0wal\\u00e9'
+tp72
+a(S'512229714'
+S'Joydeep Mukherjee'
+tp73
+a(S'1216039443'
+S'Wade Garrett'
+tp74
+a(S'551842373'
+S'Rikard Rosvinge'
+tp75
+a(S'100002957601472'
+S'Anurag Verma'
+tp76
+a(S'616784933'
+S'Nanik Rupani'
+tp77
+a(S'100000470271273'
+S'Ashok Saroha'
+tp78
+a(S'100004090657996'
+S'Mohammed Cedric Ips'
+tp79
+a(S'100000452271521'
+S'Mahendra Singh Rathore'
+tp80
+a(S'1419705006'
+S'Roshan Anurag'
+tp81
+a(S'1114457433'
+S'Avinash Mishra'
+tp82
+a(S'100002515381848'
+S'Sunil Verma'
+tp83
+a(S'562842188'
+S'Dharmesh Thakkar'
+tp84
+a(S'1496127764'
+S'DrSuhas Awchat'
+tp85
+a(S'647250481'
+S'Jens-Christian Venividivici'
+tp86
+a(S'1171323969'
+S'Sarah Hobrock Popovich'
+tp87
+a(S'100000796801229'
+S'Upendra Prasad Singh'
+tp88
+asS'id'
+p89
+S'673830812'
+p90
+sS'current_link'
+p91
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D18.975000641097%252C%2B72.825622558594%26name%3DMumbai%252C%2BMaharashtra%252C%2BIndia%26mkt%3Den-IN&h=zAQFG6p6j&s=1
+p92
+s.

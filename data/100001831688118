@@ -1,0 +1,265 @@
+(dp1
+S'current_text'
+p2
+VDelhi, India\u000aCurrent City
+p3
+sS'name'
+p4
+S'Alka Gautam'
+p5
+sS'current_class'
+p6
+S'india'
+p7
+sS'friends'
+p8
+(lp9
+(S'100002601255201'
+S'Rashmi Meena'
+tp10
+a(S'100006876849567'
+S'Shipra Srivastava'
+tp11
+a(S'579357976'
+S'Nishant Shukla'
+tp12
+a(S'1486153338'
+S'Sanjay Lawania'
+tp13
+a(S'570086179'
+S'Minakshi Lal'
+tp14
+a(S'631323495'
+S'Solgy Kottaram'
+tp15
+a(S'100003560435651'
+S'Subhash Bhardwaj'
+tp16
+a(S'100003546766808'
+S'Punam Chalia'
+tp17
+a(S'100005403307015'
+S'Upendra Singh'
+tp18
+a(S'673959810'
+S'Gargi Sharma'
+tp19
+a(S'1029713428'
+S'Sandip Garg'
+tp20
+a(S'100000561901527'
+S'Anjani Pandey'
+tp21
+a(S'1054321138'
+S'Tushar K Behera'
+tp22
+a(S'1126915956'
+S'Rohit Sinha'
+tp23
+a(S'1172951587'
+S'Ranu B Gupta'
+tp24
+a(S'1340746858'
+S'Urvashi Saxena'
+tp25
+a(S'1824108493'
+S'Vivek Verma'
+tp26
+a(S'1432985261'
+S'Kunal Satyarthi'
+tp27
+a(S'100003961818896'
+S'Vimmy Dubey Tewary'
+tp28
+a(S'100000097980083'
+S'Prathvi Raj'
+tp29
+a(S'100002732311594'
+S'Seema Singh'
+tp30
+a(S'100000566815778'
+S'Jaishree Sharma'
+tp31
+a(S'100001398992216'
+S'Monika Lal'
+tp32
+a(S'1307493332'
+S'Suboor Usmani'
+tp33
+a(S'1271753039'
+S'Prajna Paramita'
+tp34
+a(S'757329345'
+S'Tricha Vatsa'
+tp35
+a(S'1553361006'
+S'Raman Gautam'
+tp36
+a(S'734608651'
+S'Anadee Nath Misshra'
+tp37
+a(S'100002627140501'
+S'Anu Meena'
+tp38
+a(S'100000405043117'
+S'Kamal Yadav'
+tp39
+a(S'577999639'
+S'Sonam Chombay'
+tp40
+a(S'100000728014351'
+S'Atiq Ahmad Khan'
+tp41
+a(S'100002002400168'
+S'Ashish Kandhway'
+tp42
+a(S'100001500710023'
+S'Saumya Lal'
+tp43
+a(S'100000166674887'
+S'Anupam Suman'
+tp44
+a(S'514876006'
+S'Noor Rahman Sheikh'
+tp45
+a(S'100001135555624'
+S'Nidhi Verma'
+tp46
+a(S'1082104496'
+S'Suman Malik Joshi'
+tp47
+a(S'1735645389'
+S'Neena Kumar'
+tp48
+a(S'100001807811803'
+S'Vrunda Dayal'
+tp49
+a(S'531783746'
+S'Vimal Anand'
+tp50
+a(S'100002495687208'
+S'Binay Kumar'
+tp51
+a(S'100005744826351'
+S'Kitto Sood'
+tp52
+a(S'100004207145436'
+S'Manju Ravi'
+tp53
+a(S'1340015065'
+S'Krishna G Goyal'
+tp54
+a(S'1573729708'
+S'Chittaranjan Dash'
+tp55
+a(S'100001659633874'
+S'Mehar Singh Chalia'
+tp56
+a(S'1047936349'
+S'Mona Singh'
+tp57
+a(S'100001116995904'
+S'Kanhaiya Lal Kanak'
+tp58
+a(S'802784895'
+S'Surabhi Sharma'
+tp59
+a(S'100001404953347'
+S'Meena Pandey'
+tp60
+a(S'100002434962129'
+S'Sweta Keshri'
+tp61
+a(S'1144740205'
+S'Murali Marappan'
+tp62
+a(S'100004011563357'
+S'Rajeev Ranjan Sinha'
+tp63
+a(S'1398851312'
+S'Jigyassa Salat'
+tp64
+a(S'548319408'
+S'Narendra Malhotra'
+tp65
+a(S'749358326'
+S'Manjula R Natarajan'
+tp66
+a(S'100000353150605'
+S'Prachi Priyanka'
+tp67
+a(S'1766106525'
+S'Sarita Kumari'
+tp68
+a(S'100000787736306'
+S'Manoj Kumar'
+tp69
+a(S'1207910600'
+S'Shiv Sewak'
+tp70
+a(S'100003124420519'
+S'Ajay Teza'
+tp71
+a(S'1330965333'
+S'Shruti Nigam Sinha'
+tp72
+a(S'100000477841995'
+S'Vivek Ojha'
+tp73
+a(S'100000537302063'
+S'Praveen Karanth'
+tp74
+a(S'1366787464'
+S'Ajit Pal Singh Daia'
+tp75
+a(S'1391916980'
+S'Gaurav Kanaujia'
+tp76
+a(S'1768257123'
+S'Rashmita Jha'
+tp77
+a(S'100001388147360'
+S'Kitto Sood'
+tp78
+a(S'828799599'
+S'Shubhrata Verma Prakash'
+tp79
+a(S'100001520075793'
+S'Rajesh Ranjan'
+tp80
+a(S'100000504647190'
+S'Swarnashree Rao Rajashekar'
+tp81
+a(S'678921450'
+S'Mini Verma'
+tp82
+a(S'100001373037646'
+S'Jaweplu Chai'
+tp83
+a(S'738245834'
+S'Abhay Damle'
+tp84
+a(S'1186952857'
+S'Dheeraj Garg'
+tp85
+a(S'100004225027428'
+S'Poonam Lal'
+tp86
+a(S'586449721'
+S'Kamal Kumar'
+tp87
+a(S'100000280374252'
+S'Anand Upadhyay'
+tp88
+a(S'1555911475'
+S'Amisha Srivastava Gupt'
+tp89
+asS'id'
+p90
+S'100001831688118'
+p91
+sS'current_link'
+p92
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D28.610000412388%252C%2B77.229766845703%26name%3DDelhi%252C%2BIndia%26mkt%3Den-IN&h=fAQEwDd7k&s=1
+p93
+s.

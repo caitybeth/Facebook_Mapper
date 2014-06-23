@@ -1,0 +1,37 @@
+(dp1
+S'current_text'
+p2
+VLahore, Pakistan\u000aCurrent City
+p3
+sS'name'
+p4
+S'Ali Boxer'
+p5
+sS'current_class'
+p6
+S'pakistan'
+p7
+sS'friends'
+p8
+(lp9
+(S'100004729664635'
+S'Pinky Je'
+tp10
+a(S'100003201620866'
+S'Sadia Khan'
+tp11
+a(S'100004171925270'
+S'Gohar Alyia'
+tp12
+a(S'100003208448083'
+S'Ali Boxer'
+tp13
+asS'id'
+p14
+S'100003208448083'
+p15
+sS'current_link'
+p16
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D31.549700669186%252C%2B74.343109130859%26name%3DLahore%252C%2BPakistan%26mkt%3Den-IN&h=JAQFA2xRi&s=1
+p17
+s.

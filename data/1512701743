@@ -1,0 +1,37 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100003438026782'
+S'Saira Khan'
+tp4
+a(S'100003362052165'
+S'Mohsin Ali'
+tp5
+a(S'100003899178663'
+S'Usman Khan'
+tp6
+a(S'100003262746935'
+S'Arsalan Idrees'
+tp7
+a(S'100001688017533'
+S'Umar Zulfiqar'
+tp8
+a(S'100000473471883'
+S'Haider Ali'
+tp9
+a(S'1512701743'
+p10
+S'Faheem Ahmed'
+tp11
+a(S'100003281017442'
+S'Yiyit Evelyn'
+tp12
+asS'id'
+p13
+g10
+sS'name'
+p14
+S'Faheem Ahmed'
+p15
+s.

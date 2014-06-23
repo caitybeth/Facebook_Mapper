@@ -1,0 +1,43 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100005312469921'
+S'Manjit Singh Laddi'
+tp4
+a(S'100002612418442'
+S'Devendra Singh'
+tp5
+a(S'100008241965396'
+S'Annu Rana'
+tp6
+a(S'583550236'
+S'Manish Babu'
+tp7
+a(S'100006554161300'
+S'Manish Rawat'
+tp8
+a(S'100008193970730'
+S'Nirmalya Majumder'
+tp9
+a(S'100001655218517'
+S'Kapil Kumar'
+tp10
+a(S'100006192300581'
+S'Gurmeet Singh'
+tp11
+a(S'100005127095418'
+S'Manoj Kumar'
+tp12
+a(S'100004044589372'
+S'Rahul Rai'
+tp13
+asS'id'
+p14
+S'583550236'
+p15
+sS'name'
+p16
+S'Manish Babu'
+p17
+s.

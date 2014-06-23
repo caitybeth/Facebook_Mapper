@@ -1,0 +1,22 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100002895198128'
+S'Vishal Baju'
+tp4
+a(S'100005001482714'
+S'Mohit Verma'
+tp5
+a(S'100000114542097'
+S'Nishant Yadav'
+tp6
+asS'id'
+p7
+S'100000114542097'
+p8
+sS'name'
+p9
+S'Nishant Yadav'
+p10
+s.

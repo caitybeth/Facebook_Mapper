@@ -1,0 +1,73 @@
+(dp1
+S'name'
+p2
+S'Anamika Chakraborty'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vbhopal, madhya pradesh, india
+p7
+sS'home_text'
+p8
+VBhopal, Madhya Pradesh\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D23.166701141433%252C%2B79.948883056641%26name%3DJabalpur%252C%2BMadhya%2BPradesh%26mkt%3Den-IN&h=UAQGiDwqb&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D23.250000088842%252C%2B77.419281005859%26name%3DBhopal%252C%2BMadhya%2BPradesh%26mkt%3Den-IN&h=8AQFN85pf&s=1
+p13
+sS'current_text'
+p14
+VJabalpur, Madhya Pradesh\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100003467941966'
+S'Anamika Chakraborty'
+tp18
+a(S'100006757861521'
+S'Vivek Yadav'
+tp19
+a(S'100004850672663'
+S'Kamal Kumar'
+tp20
+a(S'100005557471106'
+S'Tejas Patil'
+tp21
+a(S'100006434374033'
+S'Mukesh Kumar'
+tp22
+a(S'100006308582369'
+S'Sanjay Sharma'
+tp23
+a(S'100003044020481'
+S'Lallesh Kumar'
+tp24
+a(S'100008180891992'
+S'Vikash Prakash Agrawal'
+tp25
+a(S'100006236734856'
+S'Amritpal Singh'
+tp26
+a(S'100003943624334'
+S'Anil Gupta'
+tp27
+a(S'100007384891318'
+S'Ajay Mishra'
+tp28
+a(S'100004932421709'
+S'Raj Kumar'
+tp29
+asS'id'
+p30
+S'100003467941966'
+p31
+s.

@@ -1,0 +1,43 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100003755875129'
+S'Manjeet Singh'
+tp4
+a(S'100008383926069'
+S'Ashish Verma'
+tp5
+a(S'100002831396797'
+S'Roohan Pannu'
+tp6
+a(S'100005101630177'
+S'Amrinder Singh'
+tp7
+a(S'100006487583256'
+S'Aman Singh'
+tp8
+a(S'100006637249415'
+S'Aditya Raj'
+tp9
+a(S'1842082724'
+S'Harjot Singh'
+tp10
+a(S'100008236158049'
+S'Satnam Singh'
+tp11
+a(S'100007504021336'
+S'Shalini Sharma'
+tp12
+a(S'100006477782454'
+S'Deepak Kumar'
+tp13
+asS'id'
+p14
+S'100002831396797'
+p15
+sS'name'
+p16
+S'Roohan Pannu'
+p17
+s.

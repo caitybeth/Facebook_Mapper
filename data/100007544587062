@@ -1,0 +1,55 @@
+(dp1
+S'name'
+p2
+S'Pradeep Kumar'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vhometown, street number 104, sub-central business district(action area 1), action area i, rajarhat newtown, kolkata, west bengal 700156, india
+p7
+sS'home_text'
+p8
+VCalcutta, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D22.569700842892%252C%2B88.368530273438%26name%3DCalcutta%252C%2BIndia%26mkt%3Den-IN&h=kAQHXFGJJ&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D22.569700842892%252C%2B88.368530273438%26name%3DCalcutta%252C%2BIndia%26mkt%3Den-IN&h=vAQHkhsIO&s=1
+p13
+sS'current_text'
+p14
+VCalcutta, India\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100007544587062'
+S'Pradeep Kumar'
+tp18
+a(S'100004692222246'
+S'Sunil Sharma'
+tp19
+a(S'100001521390828'
+S'Arun Kumar'
+tp20
+a(S'100000560827215'
+S'Dinesh Kumar'
+tp21
+a(S'100000565097558'
+S'Rakesh Kumar'
+tp22
+a(S'100002879062441'
+S'Ravi Gupta'
+tp23
+asS'id'
+p24
+S'100007544587062'
+p25
+s.

@@ -1,0 +1,37 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100002901592786'
+S'Singh Rajinder'
+tp4
+a(S'100002063255184'
+S'Manika Tomar'
+tp5
+a(S'100006921379023'
+S'Sachin Agarwal'
+tp6
+a(S'100008159443759'
+S'Sapna Awasthi'
+tp7
+a(S'100008273282658'
+S'Rahul Khanna'
+tp8
+a(S'100007244734978'
+S'Robin Singh'
+tp9
+a(S'100005027884516'
+S'Gagan Singh'
+tp10
+a(S'100008281055051'
+S'Deepak Rathi'
+tp11
+asS'id'
+p12
+S'100002063255184'
+p13
+sS'name'
+p14
+S'Manika Tomar'
+p15
+s.

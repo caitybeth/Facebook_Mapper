@@ -1,0 +1,34 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100005211121492'
+S'Harish Singh'
+tp4
+a(S'100004706132459'
+S'Mandeep Kaur'
+tp5
+a(S'100003499705735'
+S'Sandeep Singh Rawat'
+tp6
+a(S'100005265373082'
+S'Asif Khan'
+tp7
+a(S'650696145'
+S'Anmol Soin'
+tp8
+a(S'100008252890464'
+S'Payal Chauhan'
+tp9
+a(S'100002804036734'
+S'Ramesh Tiwari'
+tp10
+asS'id'
+p11
+S'650696145'
+p12
+sS'name'
+p13
+S'Anmol Soin'
+p14
+s.

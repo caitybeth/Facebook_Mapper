@@ -1,0 +1,223 @@
+(dp1
+S'name'
+p2
+S'Amir Khan'
+p3
+sS'current_class'
+p4
+S'pakistan'
+p5
+sS'home_class'
+p6
+Vkarachi, pakistan
+p7
+sS'home_text'
+p8
+VKarachi, Pakistan\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D24.859999933159%252C%2B67.009735107422%26name%3DKarachi%252C%2BPakistan%26mkt%3Den-IN&h=nAQGTtK7j&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D24.859999933159%252C%2B67.009735107422%26name%3DKarachi%252C%2BPakistan%26mkt%3Den-IN&h=pAQFSnKZl&s=1
+p13
+sS'current_text'
+p14
+VKarachi, Pakistan\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100006784532346'
+S'Zahid Khan'
+tp18
+a(S'100003641254795'
+S'Akhter Sani'
+tp19
+a(S'100008263242560'
+S'Punam Kumari'
+tp20
+a(S'100008216974808'
+S'M Alam Khan Afridi'
+tp21
+a(S'100007703105376'
+S'Saheena Khatoon'
+tp22
+a(S'100008094852037'
+S'Nadeem Mughal'
+tp23
+a(S'100004347397948'
+S'Tahmeena Khan'
+tp24
+a(S'100000686013816'
+S'Faniiy Fitreya'
+tp25
+a(S'100007531893058'
+S'Zahid Khan'
+tp26
+a(S'100008014239974'
+S'Zahid Khan Hope'
+tp27
+a(S'100007916589542'
+S'Riya Roy'
+tp28
+a(S'100005754551530'
+S'Tahmina Tanha'
+tp29
+a(S'100008016001551'
+S'Rehman Jee'
+tp30
+a(S'100007790113061'
+S'Aasma Bano'
+tp31
+a(S'100005482962106'
+S'Himani Sharma'
+tp32
+a(S'100007944850346'
+S'Neha Rani'
+tp33
+a(S'100004087054349'
+S'Mehwish Kiran Mishi'
+tp34
+a(S'100008245446913'
+S'Neha Raina'
+tp35
+a(S'100008128334566'
+S'Nadia Khan'
+tp36
+a(S'100007755938515'
+S'Sidra Chohan'
+tp37
+a(S'100007899973681'
+S'Meher Kaur'
+tp38
+a(S'100008271610307'
+S'\\u0639\\u0628\\u062f\\u0627\\u0644\\u062c\\u0628\\u0627\\u0631 \\u062c\\u0628\\u0627\\u0631'
+tp39
+a(S'100007798174022'
+S'Farisha Farsana'
+tp40
+a(S'100008286211003'
+S'Sumy Maryany'
+tp41
+a(S'100008242447419'
+S'Shehnaz Faraz'
+tp42
+a(S'100008265877159'
+S'Reysha Poetry Doankz'
+tp43
+a(S'100008196277488'
+S'Renu Boro'
+tp44
+a(S'100008062596595'
+S'\\u09a8\\u09c0\\u09b2 \\u09a6\\u09b0\\u09bf\\u09af\\u09bc\\u09be'
+tp45
+a(S'100006539804374'
+S'Abdul Rauf'
+tp46
+a(S'100007226075755'
+S'Azeem Tkd'
+tp47
+a(S'100007614362054'
+S'Khalid Ali'
+tp48
+a(S'100008114044215'
+S'Mahima Sharma'
+tp49
+a(S'100007995180991'
+S'Aliana Parvin'
+tp50
+a(S'100008097603341'
+S'Shiza Akhtar'
+tp51
+a(S'100008298390135'
+S'Sidra Chohan'
+tp52
+a(S'100008281566995'
+S'Pooja Baraiya'
+tp53
+a(S'100007963992162'
+S'Azeem Habib'
+tp54
+a(S'100004575907988'
+S'Saima Noor'
+tp55
+a(S'100006810455899'
+S'Sonam Das'
+tp56
+a(S'100006170970666'
+S'Roozi Rizvi'
+tp57
+a(S'100008131032072'
+S'Desperado Rock'
+tp58
+a(S'100008163254014'
+S'Siyma Jaan'
+tp59
+a(S'100008289990086'
+S'Preeti Sharma'
+tp60
+a(S'100005797175010'
+S'Anu Sharma'
+tp61
+a(S'100007551631370'
+S'Zahid Khan'
+tp62
+a(S'100007917312481'
+S'Irfan Khan'
+tp63
+a(S'100008067850687'
+S'Arshi Quershi'
+tp64
+a(S'100007661825242'
+S'Farha Shaikh'
+tp65
+a(S'100007576753080'
+S'Muzammil Khan'
+tp66
+a(S'100007792770963'
+S'Saima Swati'
+tp67
+a(S'100007957544207'
+S'Meena Parmar'
+tp68
+a(S'100008227784753'
+S'Chinnu Manu'
+tp69
+a(S'100006061232546'
+S'Avantika Yemul'
+tp70
+a(S'100006255362898'
+S'Sadaf Khan'
+tp71
+a(S'100006865123472'
+S'Moyna Phaki'
+tp72
+a(S'100005007882913'
+S'Anshika Chaudhary'
+tp73
+a(S'100006296672280'
+S'Priyanka Patel'
+tp74
+a(S'100007974637493'
+S'Zeent Noor U'
+tp75
+a(S'100007668459389'
+S'Safya Khan'
+tp76
+a(S'100007276058726'
+S'Ibrar Hussain Awan'
+tp77
+a(S'100007824573224'
+S'Dev Raaj'
+tp78
+a(S'100006021849770'
+S'Naveed Miandad'
+tp79
+asS'id'
+p80
+S'100007988079638'
+p81
+s.

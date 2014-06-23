@@ -1,0 +1,233 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100008293721409'
+S'Rawan Dadwall'
+tp4
+a(S'100008102200647'
+S'\\u0645\\u06cc\\u0646\\u06c1 \\u0633\\u0644\\u06af\\u06cc'
+tp5
+a(S'100006770914521'
+S'Moeez Jaan'
+tp6
+a(S'100007311939036'
+S'Masood Syed'
+tp7
+a(S'100008261075862'
+S'Chokraghan da Swat'
+tp8
+a(S'100007936448133'
+S'\\u062f\\u0646\\u06cc\\u0627\\u0632\\u06cc\\u0648 \\u062e\\u06a9\\u0644\\u06cc'
+tp9
+a(S'100008110953769'
+S'Hira Khan'
+tp10
+a(S'100008124043426'
+S'\\u0633\\u062c\\u0627\\u062f \\u0627\\u062d\\u0645\\u062f'
+tp11
+a(S'100007990419611'
+S'Alyas Madhosh'
+tp12
+a(S'100007454672723'
+S'Atif Baloch'
+tp13
+a(S'100007579291585'
+S'\\u0631\\u062d\\u064a\\u0645\\u0647 \\u0648\\u064a\\u0633\\u0627\\u0644'
+tp14
+a(S'100003877312379'
+S'Ami Sh'
+tp15
+a(S'100008122478220'
+S'Hamad King'
+tp16
+a(S'100008141735015'
+S'Arslan Marwat'
+tp17
+a(S'100006622783759'
+S'Said Raouf Hamidi'
+tp18
+a(S'100008013154558'
+S'Aziz Kamawal'
+tp19
+a(S'100007956157232'
+S'\\u062a\\u0648\\u0643\\u064a \\u0627\\u0648 \\u062e\\u0646\\u062f\\u0627'
+tp20
+a(S'1628806973'
+S'Awad Alhag Mohammed'
+tp21
+a(S'100004990357691'
+S'Qudratullah Barhan'
+tp22
+a(S'100004224512047'
+S'Mohib Shinwari'
+tp23
+a(S'100008015261364'
+S'Nasir Alli'
+tp24
+a(S'100003086787096'
+S'Nabi Afghan'
+tp25
+a(S'100008280903875'
+S'Munnaraja Munnaraja'
+tp26
+a(S'100008074713653'
+S'Hamza Ali'
+tp27
+a(S'100003464648861'
+S'Saiduallah Mohammadzoy'
+tp28
+a(S'100008223734217'
+S'\\u0639\\u0628\\u062f\\u0648 \\u0639\\u0628\\u062f\\u0648'
+tp29
+a(S'100008072563189'
+S'Raja Sadam'
+tp30
+a(S'100008229720088'
+S'Salma Rahmani'
+tp31
+a(S'100008123554542'
+S'Safia \\u0160\\u00e3f\\u00ed\\u00e4'
+tp32
+a(S'100007376135376'
+S'\\u06af\\u0644\\u0627\\u0628\\u06cc \\u0647\\u0648\\u0646\\u0679'
+tp33
+a(S'100005258280391'
+S'Naqib Salimi'
+tp34
+a(S'100006858126917'
+S'Naqib Salimi'
+tp35
+a(S'100007406790818'
+S'Rishab Malhotra'
+tp36
+a(S'100007854905593'
+S'\\u0645\\u0648\\u0646\\u06af \\u0627\\u0634\\u0631\\u0641 \\u063a\\u0646\\u064a \\u063a\\u0648\\u0627\\u0693\\u0648'
+tp37
+a(S'100007990624623'
+S'Deven Khatri'
+tp38
+a(S'100008190156365'
+S'Tanweer Ahmed'
+tp39
+a(S'100007482880420'
+S'\\u0627\\u0646\\u0627 \\u062a\\u0628\\u0627\\u062f\\u0644 \\u0647\\u0627\\u0631\\u062f'
+tp40
+a(S'100008128625451'
+S'Tender Heart'
+tp41
+a(S'100008192412204'
+S'Prince Zahoor Ahmed'
+tp42
+a(S'100007012923732'
+S'Arman Khan'
+tp43
+a(S'100006510662138'
+S'Ahmadullah Hamid'
+tp44
+a(S'100007812492266'
+S'Mohammad Afghan'
+tp45
+a(S'100007457349333'
+S'Musharaf Khan Wazir'
+tp46
+a(S'100008153735296'
+S'Fariha Afg'
+tp47
+a(S'100007113600959'
+S'Umar Sohil'
+tp48
+a(S'100008308693812'
+S'Miwand Pasoon'
+tp49
+a(S'100007910253041'
+S'\\u0633\\u062c\\u0649 \\u0639\\u0633\\u0648\\u0644\\u0629'
+tp50
+a(S'100005405582238'
+S'Kabul Peshawar Prp'
+tp51
+a(S'100005292813403'
+S'Raja Jabran'
+tp52
+a(S'100002085311776'
+S'Mena Mangal'
+tp53
+a(S'100007737515642'
+S'Tariq Khan'
+tp54
+a(S'100008201373676'
+S'Farhan Baba'
+tp55
+a(S'100005067611236'
+S'Prince Hassan'
+tp56
+a(S'100002606435276'
+S'Habib Rahman Danish'
+tp57
+a(S'100006145481911'
+S'Gul Waziristan'
+tp58
+a(S'100004522187792'
+S'Sapna Khan'
+tp59
+a(S'100004506090362'
+S'ArOoj RahEel'
+tp60
+a(S'100008217452152'
+S'Ahsan Jan'
+tp61
+a(S'100002913121957'
+S'Saifurahman Zahid'
+tp62
+a(S'100006922475305'
+S'Farhad Fardous'
+tp63
+a(S'100002545353434'
+S'Khalilullah Hamid'
+tp64
+a(S'100003822473580'
+S'Sabawoon Khostai'
+tp65
+a(S'100005713385707'
+S'Humair Atif'
+tp66
+a(S'100006900704356'
+S'Sorab Masood'
+tp67
+a(S'100008054503133'
+S'Sameer Khan'
+tp68
+a(S'100007619675513'
+S'Takoor Khwazak'
+tp69
+a(S'100007486896840'
+S'Punjbi Monda'
+tp70
+a(S'100005739002800'
+S'Waheed Jan'
+tp71
+a(S'100005381047722'
+S'Ali Laal'
+tp72
+a(S'100008028043107'
+S'Farhad Hassanzi'
+tp73
+a(S'100005134995041'
+S'Ahmadullah Hamid'
+tp74
+a(S'100006766754245'
+p75
+S'Shawkat Afghan Zazai'
+tp76
+a(S'100008139490527'
+S'Khan Top'
+tp77
+asS'id'
+p78
+S'100007960087951'
+p79
+sS'name'
+p80
+S'\\u062a\\u0644 \\u062f\\u06d0 \\u064a\\u0627\\u062f\\u0648\\u0645'
+p81
+s.

@@ -1,0 +1,325 @@
+(dp1
+S'current_text'
+p2
+VKarachi, Pakistan\u000aCurrent City
+p3
+sS'name'
+p4
+S'Qadeer Yaseen'
+p5
+sS'current_class'
+p6
+S'pakistan'
+p7
+sS'friends'
+p8
+(lp9
+(S'100005512144720'
+S'Nadeem Rasheed'
+tp10
+a(S'100005364008139'
+S'Raja Saeed'
+tp11
+a(S'100004137643665'
+S'Rukhsar Chaudary'
+tp12
+a(S'100004626571209'
+S'Bilal Raja'
+tp13
+a(S'100005687172836'
+S'Raja Aqeel Zaman'
+tp14
+a(S'100004850676529'
+S'Malik Usman Saeed'
+tp15
+a(S'100006582007241'
+S'\\u0646\\u0648\\u0631 \\u0627\\u0644\\u0633\\u0627\\u0645\\u0631\\u0627\\u0626\\u064a\\u0629'
+tp16
+a(S'100006069453211'
+S'Ch Safyan'
+tp17
+a(S'100004019453523'
+S'Noor Fatima'
+tp18
+a(S'100005741913643'
+S'Farah Fari'
+tp19
+a(S'100004730112981'
+S'Tabish Hussain'
+tp20
+a(S'100001496609060'
+S'Hanif Muhammad Attari'
+tp21
+a(S'100004594990048'
+S'Aaliya Eman'
+tp22
+a(S'100004911163867'
+S'Raja Raj Raja'
+tp23
+a(S'100003355811816'
+S'Asim Malik'
+tp24
+a(S'100003972455714'
+S'Aparna Singh'
+tp25
+a(S'100001797702820'
+S'Badar Raja'
+tp26
+a(S'100004733190575'
+S'Malik Shakeel Abbas'
+tp27
+a(S'100005049634312'
+S'Waqas Jutt Jhelum'
+tp28
+a(S'1249483694'
+S'M Abdul Wadood'
+tp29
+a(S'100006266317156'
+S'Sadaf Jutt'
+tp30
+a(S'100001445778467'
+S'Sahil Lzw'
+tp31
+a(S'100003109619060'
+S'Sami Malik'
+tp32
+a(S'100006702006812'
+S'Syed Nomi King'
+tp33
+a(S'100006573791973'
+S'Jag Jindeyane Mele'
+tp34
+a(S'100004594715295'
+S'Diya Rana'
+tp35
+a(S'100004713674114'
+S'Ahmad Raza'
+tp36
+a(S'100003973715470'
+S'Ladla Bhatti'
+tp37
+a(S'100004054035791'
+S'Ch Aashar'
+tp38
+a(S'100004233243439'
+S'Raja Jamal'
+tp39
+a(S'100004875254214'
+S'Roy John'
+tp40
+a(S'100004081238225'
+S'Sadia Noor'
+tp41
+a(S'100001406105807'
+S'Ahsan Ali'
+tp42
+a(S'100006880176438'
+S'Sharyar Bhatti'
+tp43
+a(S'100004947540014'
+S'Naseer Ahmad'
+tp44
+a(S'100006499934583'
+S'Atifali Jutt'
+tp45
+a(S'100007125156557'
+S'Malik Tahir'
+tp46
+a(S'100002671482001'
+S'Muhammad Zubair Ahmed'
+tp47
+a(S'100004386550782'
+S'Raja Noshi Latif'
+tp48
+a(S'100004517558906'
+S'Farhan Ehsan'
+tp49
+a(S'100004195832251'
+S'Raja Nisar'
+tp50
+a(S'100006714630054'
+S'Raja Arslan'
+tp51
+a(S'100004006452125'
+S'Mehwish Sweet'
+tp52
+a(S'100002271453232'
+S'Waqas Iqbal Ahktar'
+tp53
+a(S'100004717444859'
+S'Zeeshan Akram'
+tp54
+a(S'100003997425919'
+S'Ghaffar Raja'
+tp55
+a(S'100006406003539'
+S'Mohsin Faiz'
+tp56
+a(S'100006460736869'
+S'Hassan Raja'
+tp57
+a(S'100004859737312'
+S'Raja Awais Adhi'
+tp58
+a(S'100006466846940'
+S'Semab Hussain'
+tp59
+a(S'100002251370931'
+S'Imran Salim'
+tp60
+a(S'100006628920865'
+S'Ibrar Ahmad'
+tp61
+a(S'100005109280124'
+S'Hania Rao'
+tp62
+a(S'100005699532087'
+S'Ayesha Khan'
+tp63
+a(S'100005777979115'
+S'Bilal Hassan'
+tp64
+a(S'100001840200693'
+S'Mian Wakaas'
+tp65
+a(S'100003776398706'
+S'Arslan Ahmad'
+tp66
+a(S'100004925227563'
+S'M Ahtasham Ali Awan'
+tp67
+a(S'100006368972208'
+S'Jal Pari'
+tp68
+a(S'100004313374004'
+S'Raja Farhan Ali'
+tp69
+a(S'100006717193305'
+S'Raja Amjad'
+tp70
+a(S'100003372755119'
+S'Bilal Wadka'
+tp71
+a(S'100001433718374'
+S'Waqas Lumber'
+tp72
+a(S'100006475002859'
+S'M Abrar Ali'
+tp73
+a(S'100004109736136'
+S'Fiaz Ahmed'
+tp74
+a(S'100003922268725'
+S'Shoukat Hussain'
+tp75
+a(S'100005615560762'
+S'Khuram Raja'
+tp76
+a(S'100005379128538'
+S'Raja Shahid Pehlwan'
+tp77
+a(S'100004647127459'
+S'Kiran Ahmad'
+tp78
+a(S'100004214258584'
+S'Mawra Hocane'
+tp79
+a(S'100004103543837'
+S'Noreen Khan'
+tp80
+a(S'100004501532409'
+S'Usman Abbas'
+tp81
+a(S'100006424048154'
+S'Yasir Awan'
+tp82
+a(S'100005475634116'
+S'Mehtab Azam'
+tp83
+a(S'100007922400346'
+S'Bilal Ch'
+tp84
+a(S'100004122639624'
+S'Saud Ishaq Ansari'
+tp85
+a(S'100006587793416'
+S'Awais Ur Rehman'
+tp86
+a(S'100006487656360'
+S'Amber Rao'
+tp87
+a(S'100006669663154'
+S'Mubashar Raja'
+tp88
+a(S'100005404684709'
+S'Ali Jutt'
+tp89
+a(S'100006326041402'
+S'Naeem Jaan'
+tp90
+a(S'100003972967362'
+S'Alia Noor'
+tp91
+a(S'100005857720009'
+S'Syed Falak Ali'
+tp92
+a(S'100005033911344'
+S'Sona Bacha'
+tp93
+a(S'100005457612164'
+S'Shakeel Shah'
+tp94
+a(S'100006721864097'
+S'\\u0639\\u0644\\u0627 \\u0645\\u0642\\u062f\\u0633\\u064a'
+tp95
+a(S'100004503910192'
+S'HamZa Butt'
+tp96
+a(S'100005478550141'
+S'Raja Zafar'
+tp97
+a(S'100006003161924'
+S'Muhammad Bilal'
+tp98
+a(S'100006458206432'
+S'Syed Ali Haidar'
+tp99
+a(S'100005529362298'
+S'Hafiz Jani'
+tp100
+a(S'100004000007388'
+S'Syed Matloob'
+tp101
+a(S'100006087873211'
+S'Abid Ali'
+tp102
+a(S'100006462609730'
+S'Muskan Khan'
+tp103
+a(S'100005867440710'
+S'Muzammil Hussain'
+tp104
+a(S'100006582121898'
+S'Rizwan Ali'
+tp105
+a(S'100003969885962'
+S'Abdul Jabbar Malik'
+tp106
+a(S'100008059530991'
+S'Abdul Muttal'
+tp107
+a(S'100002459146258'
+S'Qurban Ali'
+tp108
+a(S'100000725654768'
+S'Mian Waqas'
+tp109
+asS'id'
+p110
+S'100007103070668'
+p111
+sS'current_link'
+p112
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D24.859999933159%252C%2B67.009735107422%26name%3DKarachi%252C%2BPakistan%26mkt%3Den-IN&h=UAQGiDwqb&s=1
+p113
+s.

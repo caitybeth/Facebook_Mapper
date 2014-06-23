@@ -1,0 +1,277 @@
+(dp1
+S'name'
+p2
+S'Arti Kachroo'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vnew delhi, delhi, india
+p7
+sS'home_text'
+p8
+VNew Delhi, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D28.613900916609%252C%2B77.207794189453%26name%3DNew%2BDelhi%252C%2BIndia%26mkt%3Den-IN&h=YAQEHQ5x2&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D28.613900916609%252C%2B77.207794189453%26name%3DNew%2BDelhi%252C%2BIndia%26mkt%3Den-IN&h=AAQGtNztp&s=1
+p13
+sS'current_text'
+p14
+VNew Delhi, India\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'735056065'
+S'Joy Mitra'
+tp18
+a(S'649269245'
+S'Namita Kaul Bhattacharya'
+tp19
+a(S'100002109011566'
+S'Sonia Soni'
+tp20
+a(S'807925293'
+S'Pankaj Sharma'
+tp21
+a(S'765712932'
+S'Lauren Kathleen Sherry'
+tp22
+a(S'100000659434106'
+S'Anju Bhagat'
+tp23
+a(S'717525864'
+S'Minie Kapila'
+tp24
+a(S'654226015'
+S'Mithun Bhattacharya'
+tp25
+a(S'707675967'
+S'Pooja Kachroo Bakshi'
+tp26
+a(S'100003263635601'
+S'Vocational Courses'
+tp27
+a(S'100000091456093'
+S'Shrikumar Bandopadhyay'
+tp28
+a(S'738530035'
+S'Jagjit Pavadia'
+tp29
+a(S'564737414'
+S'Nidhi Mittal'
+tp30
+a(S'1258595349'
+S'Vishal Dayal'
+tp31
+a(S'100006078820794'
+S'Meenu Jain'
+tp32
+a(S'668890466'
+S'Dipti Goel'
+tp33
+a(S'1069471268'
+S'Noopur Srivastava'
+tp34
+a(S'8118061'
+S'Esther T'
+tp35
+a(S'779079680'
+S'Vikram Doraiswami'
+tp36
+a(S'100006497110660'
+S'Ambika Gowli'
+tp37
+a(S'1167236952'
+S'Preeti Khachroo'
+tp38
+a(S'100000981853670'
+S'Suhasini Mulay'
+tp39
+a(S'599904330'
+S'Suma Varughese'
+tp40
+a(S'731524936'
+S'Divya Seth'
+tp41
+a(S'725171462'
+S'Franz Andrini'
+tp42
+a(S'1106841980'
+S'Shiva Sharma'
+tp43
+a(S'587680599'
+S'Khullar Mukesh'
+tp44
+a(S'681593271'
+S'Rimjhim Datt Mukherjee'
+tp45
+a(S'1123353585'
+S'Archana Ranjan'
+tp46
+a(S'728696236'
+S'Neelam Naidu'
+tp47
+a(S'542847757'
+S'Raman Walia'
+tp48
+a(S'100001362338401'
+S'Parag Gyani'
+tp49
+a(S'547181774'
+S'Reeta Raina Gangwani'
+tp50
+a(S'1119745634'
+S'Neerja Datt'
+tp51
+a(S'698972971'
+S'Kapil Tyagi'
+tp52
+a(S'1246114139'
+S'Savita Sethi'
+tp53
+a(S'100002121325837'
+S'Preiti Gautam'
+tp54
+a(S'505730943'
+S'Vinit Taneja'
+tp55
+a(S'1072073524'
+S'Milan Bhattacharjee'
+tp56
+a(S'795272445'
+S'Anil Kohli'
+tp57
+a(S'1070949474'
+S'Hemant Chaturvedi'
+tp58
+a(S'652128136'
+S'Averee Chaurey'
+tp59
+a(S'100001091240868'
+S'Meenakshi Talwar Image Makeovers'
+tp60
+a(S'821596903'
+S'Shubhashansha Bakshi'
+tp61
+a(S'100002122677881'
+S'Geethanjali Varanasi'
+tp62
+a(S'100001122558266'
+S'Anesha Verma'
+tp63
+a(S'1096839120'
+S'Anu Bakshi'
+tp64
+a(S'689413155'
+S'Ishani K Dutta'
+tp65
+a(S'664079220'
+S'Sammy Mukerji'
+tp66
+a(S'1575825675'
+S'Neena Singh'
+tp67
+a(S'1409795991'
+S'Hemant Sarangi'
+tp68
+a(S'741139433'
+S'Amish Chandra'
+tp69
+a(S'100000969076225'
+S'Sharad Chaturvedi'
+tp70
+a(S'550139175'
+S'Sangeeta Gupta'
+tp71
+a(S'1416957353'
+S'Hannah Walia'
+tp72
+a(S'537518007'
+S'DrRashmi Menon'
+tp73
+a(S'573574925'
+S'Nandita Atal Bose'
+tp74
+a(S'517455623'
+S'Ajay Bisaria'
+tp75
+a(S'560013636'
+S'H\\u00fcsniye Cicekcioglu Andrini'
+tp76
+a(S'100000935633167'
+S'Aruna Kachru'
+tp77
+a(S'783542840'
+S'Anu Datt'
+tp78
+a(S'1116601718'
+S'Jasmine Amar Asher'
+tp79
+a(S'508318009'
+S'Akriti Datt'
+tp80
+a(S'100002331420582'
+S'Jaideep Mazumdar'
+tp81
+a(S'1709013092'
+S'Shivani Bakshi'
+tp82
+a(S'696727100'
+S'Jessica Singh'
+tp83
+a(S'551771950'
+S'Christina Julius'
+tp84
+a(S'795648069'
+S'Neeru Ganju'
+tp85
+a(S'539695952'
+S'Arun Kaul'
+tp86
+a(S'1169367087'
+S'Roshi Baig'
+tp87
+a(S'564294778'
+S'Krishna Nishan'
+tp88
+a(S'718163062'
+S'R Narasimha Murthy'
+tp89
+a(S'100001863261571'
+S'Lokesh Jain'
+tp90
+a(S'634399249'
+S'Nathasha Vieyra Kaul'
+tp91
+a(S'100000975402517'
+S'Mona Kaul'
+tp92
+a(S'1327190306'
+S'Priyam Tripathi'
+tp93
+a(S'1304714347'
+S'Anjali Chawla'
+tp94
+a(S'655913502'
+S'Soumitra Dasgupta'
+tp95
+a(S'100000280374252'
+S'Anand Upadhyay'
+tp96
+a(S'1691482193'
+S'Shibban Ganju'
+tp97
+asS'id'
+p98
+S'565287595'
+p99
+s.

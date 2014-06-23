@@ -1,0 +1,43 @@
+(dp1
+S'name'
+p2
+S'Rajeev Ghotar'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vbhiwani, haryana, india
+p7
+sS'home_text'
+p8
+VBhiwani\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D28.613900916609%252C%2B77.207794189453%26name%3DNew%2BDelhi%252C%2BIndia%26mkt%3Den-IN&h=_AQGOt-RO&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D28.780000825207%252C%2B76.129760742188%26name%3DBhiwani%26mkt%3Den-IN&h=GAQH7Ym8E&s=1
+p13
+sS'current_text'
+p14
+VNew Delhi, India\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100004179126847'
+S'Manoj Manu'
+tp18
+a(S'100002270411937'
+p19
+S'Rajeev Ghotar'
+tp20
+asS'id'
+p21
+g19
+s.

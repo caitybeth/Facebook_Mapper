@@ -1,0 +1,43 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100007110370060'
+S'Abhay Singh'
+tp4
+a(S'100004872365534'
+S'Harjit Singh'
+tp5
+a(S'100001567367542'
+S'Rahul Mani'
+tp6
+a(S'100004114054595'
+S'Gurvinder Singh'
+tp7
+a(S'100007810752299'
+S'Avtar Singh'
+tp8
+a(S'100003929413802'
+S'Bhupendra Saini'
+tp9
+a(S'100006557854442'
+S'Vikas Saini'
+tp10
+a(S'1460233605'
+S'Gagandeep Singh'
+tp11
+a(S'100004726897973'
+S'Bittu Mehraj'
+tp12
+a(S'100006129490400'
+S'Gagandeep Singh'
+tp13
+asS'id'
+p14
+S'1460233605'
+p15
+sS'name'
+p16
+S'Gagandeep Singh'
+p17
+s.

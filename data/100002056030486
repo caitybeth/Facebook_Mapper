@@ -1,0 +1,55 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100004430354148'
+S'Manpreet Singh'
+tp4
+a(S'100006312373895'
+S'Ramesh Kumar'
+tp5
+a(S'100008201198904'
+S'Jatin Saini'
+tp6
+a(S'100005090769753'
+S'Sushil Yadav'
+tp7
+a(S'100006626108811'
+S'Ashish Gupta'
+tp8
+a(S'100004434193601'
+S'Abhishek Rajput'
+tp9
+a(S'100004843024437'
+S'Vinod Kumar Lunaich'
+tp10
+a(S'100006602171548'
+S'Shreya Singh'
+tp11
+a(S'100008310426086'
+S'Hari Singh'
+tp12
+a(S'100006053974783'
+S'Jyoti Sharma'
+tp13
+a(S'100002056030486'
+S'Abhishek Singh'
+tp14
+a(S'100002902935476'
+S'Naveen Kumar Chauhan'
+tp15
+a(S'100004382584662'
+S'Mayank Singh'
+tp16
+a(S'100008388400521'
+S'Aakas Nehra'
+tp17
+asS'id'
+p18
+S'100002056030486'
+p19
+sS'name'
+p20
+S'Abhishek Singh'
+p21
+s.

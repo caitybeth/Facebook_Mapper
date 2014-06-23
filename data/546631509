@@ -1,0 +1,273 @@
+(dp1
+S'name'
+p2
+S'Ashok Mittal'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_text'
+p6
+VKurukshetra, India\u000aHometown
+p7
+sS'current_link'
+p8
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D28.613900916609%252C%2B77.207794189453%26name%3DNew%2BDelhi%252C%2BIndia%26mkt%3Den-IN&h=SAQHWfQhG&s=1
+p9
+sS'home_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D29.976300653769%252C%2B76.891937255859%26name%3DKurukshetra%252C%2BIndia%26mkt%3Den-IN&h=WAQF60_Fb&s=1
+p11
+sS'current_text'
+p12
+VNew Delhi, India\u000aCurrent City
+p13
+sS'friends'
+p14
+(lp15
+(S'1370554854'
+S'Oma Sharma'
+tp16
+a(S'1807790056'
+S'Manoj Joshi'
+tp17
+a(S'1120697074'
+S'Rakesh Gupta'
+tp18
+a(S'823488501'
+S'Sobhan Kar'
+tp19
+a(S'1140524850'
+S'Sanjeev Singh'
+tp20
+a(S'1490490599'
+S'Rahul Navin'
+tp21
+a(S'531783746'
+S'Vimal Anand'
+tp22
+a(S'543760762'
+S'Anand Kumar Kedia'
+tp23
+a(S'568249708'
+S'Ritu Jain'
+tp24
+a(S'1248986825'
+S'Upender Gupta'
+tp25
+a(S'100000468610681'
+S'Mk Dhar'
+tp26
+a(S'100000593772952'
+S'Shyamsundar Keshkamat'
+tp27
+a(S'749133437'
+S'Yogesh Verma'
+tp28
+a(S'1532139990'
+S'Anshu Shukla Pandey'
+tp29
+a(S'572793560'
+S'Zakir Thomas'
+tp30
+a(S'1466015771'
+S'Jasdeep Singh'
+tp31
+a(S'1496400927'
+S'Shyam Benupani'
+tp32
+a(S'713170827'
+S'Shahid Khan'
+tp33
+a(S'1340746858'
+S'Urvashi Saxena'
+tp34
+a(S'780843935'
+S'Ashish Abrol'
+tp35
+a(S'1325190196'
+S'Rajeev P Singh'
+tp36
+a(S'562981106'
+S'Mamta Kochar'
+tp37
+a(S'1222959180'
+S'Suresh Yadav'
+tp38
+a(S'738539735'
+S'Deepak Tralshawala'
+tp39
+a(S'100000417199565'
+S'Gangadhar Panda'
+tp40
+a(S'1100703227'
+S'Raman Kant Garg'
+tp41
+a(S'1577889574'
+S'Ajay Pandey'
+tp42
+a(S'773174354'
+S'Jagmohan Gupta'
+tp43
+a(S'797241958'
+S'Sumedha Verma Ojha'
+tp44
+a(S'1789895039'
+S'Milap Jain'
+tp45
+a(S'100002069681842'
+S'Pirthi Lal'
+tp46
+a(S'1766709413'
+S'Binod Kumar'
+tp47
+a(S'734608651'
+S'Anadee Nath Misshra'
+tp48
+a(S'100000328975078'
+S'LK Agarwal'
+tp49
+a(S'1417767463'
+S'Renuka Jaingupta'
+tp50
+a(S'601463147'
+S'Amit Jain'
+tp51
+a(S'100000316006534'
+S'Yogesh Verma'
+tp52
+a(S'100006313929082'
+S'Sudhir Chandra'
+tp53
+a(S'547510861'
+S'Paresh Johri'
+tp54
+a(S'1745483154'
+S'Prafulla Prusty'
+tp55
+a(S'1251675189'
+S'Munish Kr Gupta'
+tp56
+a(S'1484520200'
+S'Sunil Chander Sharma'
+tp57
+a(S'100002221931926'
+S'Sunita Singh'
+tp58
+a(S'1057808456'
+S'Ramesh Narain Parbat'
+tp59
+a(S'1508636113'
+S'Sunita Billa'
+tp60
+a(S'517253924'
+S'Dinesh Bhatia'
+tp61
+a(S'1079950134'
+S'Manu Malik'
+tp62
+a(S'1587991248'
+S'Virendra Ojha'
+tp63
+a(S'789468621'
+S'Arun S Bhatnagar'
+tp64
+a(S'100000216930960'
+S'Rupinder Pannu Brar'
+tp65
+a(S'1268243548'
+S'Rahul Dhawan'
+tp66
+a(S'591459029'
+S'Krishna Kumar Pande'
+tp67
+a(S'1569571220'
+S'Naval Kapoor'
+tp68
+a(S'100000031899095'
+S'Jayasankar Neelakantan'
+tp69
+a(S'1011872859'
+S'Madhu Wadhawan Sinha'
+tp70
+a(S'1428332344'
+S'Laxmi Narayan Pant'
+tp71
+a(S'1277236948'
+S'Ansuman Pattnaik'
+tp72
+a(S'100000107628946'
+S'Bhim Singh'
+tp73
+a(S'740893050'
+S'Sandeep Gupta'
+tp74
+a(S'648074265'
+S'Ashok Mittal'
+tp75
+a(S'100000428966758'
+S'Kalika Singh'
+tp76
+a(S'759424765'
+S'Gulshan Raj'
+tp77
+a(S'688072801'
+S'Sameer Sharma'
+tp78
+a(S'1768257123'
+S'Rashmita Jha'
+tp79
+a(S'1615472194'
+S'Shruti Bansal'
+tp80
+a(S'1465966631'
+S'Sunil Bajpai'
+tp81
+a(S'586937020'
+S'Pramod Shrivastava'
+tp82
+a(S'100000159486283'
+S'Ashok Jha'
+tp83
+a(S'1427071599'
+S'Ashok Bal'
+tp84
+a(S'1567385476'
+S'Yagya Dutt Sharma'
+tp85
+a(S'573032079'
+S'Shravan Gotru'
+tp86
+a(S'574925895'
+S'Leticia DeCastro'
+tp87
+a(S'1052958592'
+S'Adarsh Modi'
+tp88
+a(S'586849951'
+S'Nabha Thapa'
+tp89
+a(S'1234507026'
+S'Amaresh Singh'
+tp90
+a(S'100000051174510'
+S'Suresh Battini'
+tp91
+a(S'100002588226238'
+S'Ishtiyaque Ahmed'
+tp92
+a(S'100000280374252'
+S'Anand Upadhyay'
+tp93
+a(S'100001979433943'
+S'RK Bajaj'
+tp94
+a(S'100002697554300'
+S'Ajay K. Garg'
+tp95
+asS'id'
+p96
+S'546631509'
+p97
+s.

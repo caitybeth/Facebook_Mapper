@@ -1,0 +1,43 @@
+(dp1
+S'name'
+p2
+S'Sharad Gupta'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vnew delhi, delhi, india
+p7
+sS'home_text'
+p8
+VNew Delhi, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D22.725301152831%252C%2B75.864715576172%26name%3DIndore%252C%2BIndia%26mkt%3Den-IN&h=rAQHpTyr_&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D28.613900916609%252C%2B77.207794189453%26name%3DNew%2BDelhi%252C%2BIndia%26mkt%3Den-IN&h=SAQHWfQhG&s=1
+p13
+sS'current_text'
+p14
+VIndore, India\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100002491504067'
+S'\\u0921\\u0949. \\u092a\\u094d\\u0930\\u0940\\u0924 \\u0905\\u0930\\u094b\\u095c\\u093e'
+tp18
+a(S'743214051'
+S'Sharad Gupta'
+tp19
+asS'id'
+p20
+S'743214051'
+p21
+s.

@@ -1,0 +1,37 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100004773879741'
+S'Baba Khan'
+tp4
+a(S'100004369573623'
+S'Ameer Khan Gandapur'
+tp5
+a(S'100004885183101'
+S'Aman Ali'
+tp6
+a(S'100003233375135'
+S'Yasir Khan'
+tp7
+a(S'100004559730936'
+S'Saleem Khan'
+tp8
+a(S'100004570178243'
+S'Shameer Jani'
+tp9
+a(S'100004508498503'
+S'Tariq Anwar Baloch'
+tp10
+a(S'100002373398885'
+S'Huma Islamian'
+tp11
+asS'id'
+p12
+S'100002373398885'
+p13
+sS'name'
+p14
+S'Huma Islamian'
+p15
+s.

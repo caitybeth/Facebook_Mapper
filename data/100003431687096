@@ -1,0 +1,313 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100000693235236'
+S'Ashish Kumar'
+tp4
+a(S'100006829081162'
+S'Amit Upadhyay'
+tp5
+a(S'100003218215627'
+S'Atul Baluni'
+tp6
+a(S'100000969565065'
+S'Pankaj Thapliyal'
+tp7
+a(S'100004523710352'
+S'Acharya Sumit Upadhyay'
+tp8
+a(S'100001534443289'
+S'Atul Baluni'
+tp9
+a(S'100007924653227'
+S'Bhola Bhai'
+tp10
+a(S'100007927380088'
+S'Anup Biswas'
+tp11
+a(S'100008160662225'
+S'Randhir Singh'
+tp12
+a(S'100003217961713'
+S'Deepu Upadhyay'
+tp13
+a(S'100003221405362'
+S'Anuj Nautiyal'
+tp14
+a(S'100002115384204'
+S'Amit Upadhyay'
+tp15
+a(S'100004755487358'
+S'Pritam Singh'
+tp16
+a(S'645338494'
+S'Malti Sharma'
+tp17
+a(S'100003199579400'
+S'Mahesh Bisht'
+tp18
+a(S'100007126952000'
+S'Hemanti Ghildiyal'
+tp19
+a(S'100003811791657'
+S'Pankaj Tariyal'
+tp20
+a(S'100006539820735'
+S'Naveen Chandra'
+tp21
+a(S'100003748430290'
+S'Susheel Singh Jamwal'
+tp22
+a(S'100002192244276'
+S'Pintu Nautiyal'
+tp23
+a(S'100000049442250'
+S'Pooja D. Naudiyal'
+tp24
+a(S'100003067086809'
+S'Pradeep Bahuguna'
+tp25
+a(S'100001935266957'
+S'Vishnu Murali'
+tp26
+a(S'100004689759116'
+S'Anoop Nautiyal'
+tp27
+a(S'100006200165458'
+S'Neeraj Nautiyal'
+tp28
+a(S'100002375457098'
+S'Kamal K Kandwal'
+tp29
+a(S'100002267184312'
+S'Laxmi Chamoli'
+tp30
+a(S'100004660093437'
+S'Tika Upadhyay'
+tp31
+a(S'100002971179643'
+S'Laxmi Bamrara'
+tp32
+a(S'100005710922110'
+S'Sushil Kumar'
+tp33
+a(S'100004351444360'
+S'Amit Upadhyay'
+tp34
+a(S'100002901132885'
+S'Gopi Nauti'
+tp35
+a(S'100002963714853'
+S'Suman Thapliyal'
+tp36
+a(S'100001605012773'
+S'Poonam Kandwal'
+tp37
+a(S'100005201948149'
+S'Shishupal Rawat'
+tp38
+a(S'100001451616539'
+S'Himanshu Nautiyal'
+tp39
+a(S'100001255875709'
+S'Shikha Nautiyal'
+tp40
+a(S'668987305'
+S'Deepak Bhandari'
+tp41
+a(S'100003769667877'
+S'Navin Bamrara'
+tp42
+a(S'100006051540807'
+S'Daleep Bisht'
+tp43
+a(S'100003382658029'
+S'Kiran Bamrara'
+tp44
+a(S'100002950659696'
+S'Rahul Juyal'
+tp45
+a(S'100002515037118'
+S'Pankaj Bahuguna'
+tp46
+a(S'100002652704859'
+S'Rakesh Rawat'
+tp47
+a(S'100003896057435'
+S'Parth Barthwal'
+tp48
+a(S'100001125784633'
+S'Shashi Upadhyay'
+tp49
+a(S'100006845949100'
+S'Shibu Sukumaran'
+tp50
+a(S'100002848480439'
+S'Asheesh Singh'
+tp51
+a(S'100002074241549'
+S'Arvind Jhons'
+tp52
+a(S'100003369645105'
+S'Sandeep Singh'
+tp53
+a(S'100003545703719'
+S'Ashwani Kumar'
+tp54
+a(S'100003148084652'
+S'Amit Choudhary'
+tp55
+a(S'100002219690156'
+S'Debesh Bahuguna'
+tp56
+a(S'100003171797372'
+S'Puneet Thapliyal'
+tp57
+a(S'100007581704167'
+S'Rimpal Rana'
+tp58
+a(S'100000003304753'
+S'Sanjay Joshi'
+tp59
+a(S'100007862435617'
+S'Teetu Singh'
+tp60
+a(S'100003231705146'
+S'Pankaj Dobriyal'
+tp61
+a(S'100004271251351'
+S'Utsav Bahuguna'
+tp62
+a(S'100002097967330'
+S'Ranjeet Singh'
+tp63
+a(S'100003400992876'
+S'Vikram Goswami'
+tp64
+a(S'100007751826522'
+S'Ishika Bhandari'
+tp65
+a(S'100004986305519'
+S'Ashok Ashok Bamrara'
+tp66
+a(S'100003862452112'
+S'Shweta Bhandari'
+tp67
+a(S'100001763417627'
+S'Apni Devbhumi Uttarakhand'
+tp68
+a(S'100003903645728'
+S'Bikesh Vedwal'
+tp69
+a(S'100007799193976'
+S'Jitendra Kumar'
+tp70
+a(S'100002507613436'
+S'Pradeep Singh'
+tp71
+a(S'100003382991294'
+S'Snow Leopard'
+tp72
+a(S'100004850473348'
+S'Manish Kumar Singh'
+tp73
+a(S'100007070945558'
+S'Manoj Bhoi'
+tp74
+a(S'100003227034101'
+S'Alka Tailwal'
+tp75
+a(S'100003431544827'
+S'Sohan Singh Bhandari'
+tp76
+a(S'100006161440785'
+S'Upadhyay Bro'
+tp77
+a(S'591086257'
+S'Sumit Nautiyal'
+tp78
+a(S'100002605471266'
+S'Shailesh Godiyal'
+tp79
+a(S'100002918048095'
+S'Amit Singh'
+tp80
+a(S'100002072595048'
+S'Vijay Kumar'
+tp81
+a(S'100000176722332'
+S'Girdhari Lal Nautiyal'
+tp82
+a(S'100004635811553'
+S'Sumit Upadhyay'
+tp83
+a(S'100002186311750'
+S'Gokaran Bamrara'
+tp84
+a(S'100001669123112'
+S'Alok Nautiyal'
+tp85
+a(S'100003194455379'
+S'Pooja Rawat'
+tp86
+a(S'100001637742118'
+S'Alok Baluni'
+tp87
+a(S'100007385821238'
+S'Sonu Shidharth Nautiyal'
+tp88
+a(S'100005207617060'
+S'Anish Nautiyal'
+tp89
+a(S'100006505183909'
+S'Anoop Singh'
+tp90
+a(S'100002628994261'
+S'Umesh Chamoli'
+tp91
+a(S'100000052910018'
+S'Ganesh Prasasd'
+tp92
+a(S'100004766920095'
+S'Vineet Upadhyay'
+tp93
+a(S'100007506847001'
+S'Nagaraj Sai'
+tp94
+a(S'100003857511982'
+S'Rajesh Nautiyal'
+tp95
+a(S'100002434395782'
+S'Atul Nautiyal'
+tp96
+a(S'100006163600099'
+S'Neeraj Nautiyal'
+tp97
+a(S'100004076191770'
+S'Rajni Nautiyal'
+tp98
+a(S'100002140604256'
+S'Deepak Nailwal'
+tp99
+a(S'100005242719857'
+S'Mukesh Singh'
+tp100
+a(S'100001667971554'
+S'\\u092c\\u0917\\u094b\\u091f \\u091a\\u0941\\u0917\\u0932\\u0948\\u0930'
+tp101
+a(S'576452661'
+S'Chander P Dimri'
+tp102
+a(S'100007504331488'
+S'Riya Bamrara'
+tp103
+asS'id'
+p104
+S'100003431687096'
+p105
+sS'name'
+p106
+S'Rajnish Nautiyal'
+p107
+s.

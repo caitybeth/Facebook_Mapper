@@ -1,0 +1,277 @@
+(dp1
+S'name'
+p2
+S'Tuhin Shankar'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vpatna, bihar, india
+p7
+sS'home_text'
+p8
+VPatna, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D25.611000475074%252C%2B85.142669677734%26name%3DPatna%252C%2BIndia%26mkt%3Den-IN&h=VAQF8Fqve&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D25.611000475074%252C%2B85.142669677734%26name%3DPatna%252C%2BIndia%26mkt%3Den-IN&h=LAQHvCdHC&s=1
+p13
+sS'current_text'
+p14
+VPatna, India\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100001143131526'
+S'Vinay Singh'
+tp18
+a(S'1012050213'
+S'Vijay Kumar'
+tp19
+a(S'100002146142010'
+S'Sangita Verma'
+tp20
+a(S'630719045'
+S'Jyotsna Varma'
+tp21
+a(S'100000475192932'
+S'Aakanksha Jha'
+tp22
+a(S'100000137630273'
+S'Powel Navokov'
+tp23
+a(S'100000064487328'
+S'Mukesh Kant'
+tp24
+a(S'1494454259'
+S'Prabir Jha'
+tp25
+a(S'1173049064'
+S'Amulya Singh'
+tp26
+a(S'100000588640714'
+S'CA Anju Sharma'
+tp27
+a(S'738179695'
+S'Rohit Jha'
+tp28
+a(S'100001156700740'
+S'Rajnish Sharma'
+tp29
+a(S'100000019723889'
+S'Neeta Keskar Choudhary'
+tp30
+a(S'1838473140'
+S'Vishwanath Chandan'
+tp31
+a(S'559292639'
+S'Jyotsna Roy'
+tp32
+a(S'554814376'
+S'Sumit Kumar'
+tp33
+a(S'1728417677'
+S'Poonam Jalan Khandelwal'
+tp34
+a(S'100001638365685'
+S'Nivedita Nirvikar'
+tp35
+a(S'100003187051156'
+S'Ansul Raj'
+tp36
+a(S'100000449243074'
+S'Anil Singh'
+tp37
+a(S'100004745520214'
+S'Nutan Mishra'
+tp38
+a(S'100001545790101'
+S'Nishant Sharma'
+tp39
+a(S'1613522117'
+S'DrSanjeev Dhari Sinha'
+tp40
+a(S'100000333675048'
+S'Anita Verma'
+tp41
+a(S'1281973282'
+S'Bindu Singh'
+tp42
+a(S'100001464893506'
+S'Sameer Handa'
+tp43
+a(S'1242123021'
+S'Amit Vats'
+tp44
+a(S'717470469'
+S'Ashish Giri'
+tp45
+a(S'100000215508517'
+S'Pyarelal Rajiv Kumar Singh'
+tp46
+a(S'631333576'
+S'Tanuja Shankar'
+tp47
+a(S'100000052584319'
+S'Vishal Singh'
+tp48
+a(S'1495606838'
+S'Rakesh Ranjan'
+tp49
+a(S'644667763'
+S'Saday Krishna Kanoria'
+tp50
+a(S'712277524'
+S'Shampa Banerjee'
+tp51
+a(S'100006513045208'
+S'Nupur Prasad'
+tp52
+a(S'633464672'
+S'Tejrashi Mehrotra'
+tp53
+a(S'100000039695048'
+S'Amber Banerjee'
+tp54
+a(S'100001168711990'
+S'Namrata Nath'
+tp55
+a(S'100004252693871'
+S'Alok Prasad'
+tp56
+a(S'592225690'
+S'Prabhakar Kumar'
+tp57
+a(S'100000172441783'
+S'Ashwini Bhargav'
+tp58
+a(S'1405237099'
+S'Rajesh Kataruka'
+tp59
+a(S'100002401989134'
+S'R.n. Sharma'
+tp60
+a(S'730858674'
+S'Sanjay Arora'
+tp61
+a(S'100001282691459'
+S'Dimpy Prasad'
+tp62
+a(S'1152556915'
+S'Rtn Namrata Singh'
+tp63
+a(S'671794427'
+S'Vidya Guha'
+tp64
+a(S'592317017'
+S'Rupali Sinha'
+tp65
+a(S'661786417'
+S'Shobhit Gupta'
+tp66
+a(S'100001311427380'
+S'Sandeep Sahay'
+tp67
+a(S'633532717'
+S'Ashok Mehrotra'
+tp68
+a(S'100001554326090'
+S'Abha Thakur'
+tp69
+a(S'1281820476'
+S'Ajay Kumar Singh'
+tp70
+a(S'100007322856167'
+S'Bhramar Kumar'
+tp71
+a(S'100002927108171'
+S'Rajesh Singh'
+tp72
+a(S'100002261095190'
+S'Kalpana Choudhary'
+tp73
+a(S'100000618099969'
+S'Rajesh Kumar'
+tp74
+a(S'1324167224'
+S'Diwakar Tejaswi'
+tp75
+a(S'100001013733174'
+S'Avinash Prakash'
+tp76
+a(S'894130003'
+S'Navin Gupta'
+tp77
+a(S'100000849324805'
+S'Amrita Bhushan'
+tp78
+a(S'1083970591'
+S'Ashish Anshu'
+tp79
+a(S'100000026706286'
+S'Mihir Bholey'
+tp80
+a(S'627215491'
+S'Harsh Srivastava'
+tp81
+a(S'1679693458'
+S'Leena Lall'
+tp82
+a(S'100001252058671'
+S'Anand K. Ojha'
+tp83
+a(S'100000635144111'
+S'Amit Singh'
+tp84
+a(S'100000189970072'
+S'Sanjeev Kumar'
+tp85
+a(S'100005196761152'
+S'Subrat Kant'
+tp86
+a(S'100001110207514'
+S'Santosh Singh'
+tp87
+a(S'100002125701357'
+S'Atul Singh'
+tp88
+a(S'100000144699885'
+S'Supriyo Sengupta'
+tp89
+a(S'1174972943'
+S'Sanjay Khemka'
+tp90
+a(S'100003348002764'
+S'Kanupriya Shankar Pandit'
+tp91
+a(S'1641447114'
+S'Vartika Nanda'
+tp92
+a(S'1296124881'
+S'Vibhoo Sharan Lall'
+tp93
+a(S'100000167276655'
+S'Sonali Prasad'
+tp94
+a(S'1419705006'
+S'Roshan Anurag'
+tp95
+a(S'100007489480285'
+S'Sunil Sinha'
+tp96
+a(S'100000489090553'
+S'Vivek Kumar'
+tp97
+asS'id'
+p98
+S'1201930425'
+p99
+s.

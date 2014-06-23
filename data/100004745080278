@@ -1,0 +1,313 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100006754929697'
+S'Tejas Salunke'
+tp4
+a(S'100001694610065'
+S'Snehal Katke Balwadkar'
+tp5
+a(S'100001852596465'
+S'Sanket Tingre'
+tp6
+a(S'100007839276318'
+S'Aniket Vitkar'
+tp7
+a(S'100001818829287'
+S'Atul Gaikwad'
+tp8
+a(S'100002289568631'
+S'Shubhada Memane'
+tp9
+a(S'100003499658740'
+S'Vidya Navale'
+tp10
+a(S'100002951314114'
+S'Aniket Mhaske'
+tp11
+a(S'100006510440734'
+S'Balasaheb Prabhat'
+tp12
+a(S'100005668595572'
+S'Aparna Salunke Sutar'
+tp13
+a(S'100007748201562'
+S'Ankita Nikam'
+tp14
+a(S'100002504024524'
+S'Puja Nanavate'
+tp15
+a(S'100002000115898'
+S'Somnath Sorte'
+tp16
+a(S'100003078197889'
+S'Rj Jagtap'
+tp17
+a(S'100008378820704'
+S'Radhika Jarande'
+tp18
+a(S'100002494776448'
+S'Sadanand Balgude'
+tp19
+a(S'100002377093144'
+S'Komal Kalate'
+tp20
+a(S'100002825798711'
+S'Archana V Balgude'
+tp21
+a(S'100005860026447'
+S'Vallabh Balgude'
+tp22
+a(S'100000202777763'
+S'Akshata Kochale Balgude'
+tp23
+a(S'100005357376315'
+S'Pooja Kate'
+tp24
+a(S'100000905809929'
+S'Shridhar Balgude'
+tp25
+a(S'100003820822529'
+S'Pratik Sorte'
+tp26
+a(S'100002973724314'
+S'Pallavi Mahale'
+tp27
+a(S'100006131585995'
+S'Varsha Zombade'
+tp28
+a(S'100002764023613'
+S'Hrushi Navale'
+tp29
+a(S'100002946864798'
+S'Vasudha Shinde Balgude'
+tp30
+a(S'100002675336126'
+S'Namrata Balgude Mate'
+tp31
+a(S'715103747'
+S'Yogesh Mokate'
+tp32
+a(S'100001328702630'
+S'Girish Balgude'
+tp33
+a(S'100003948739090'
+S'Mohini Sathe-more'
+tp34
+a(S'100002406416387'
+S'Mahendra Bhegade'
+tp35
+a(S'100008073603662'
+S'Vidya Charwad'
+tp36
+a(S'100001322730717'
+S'Deepak Tingre'
+tp37
+a(S'100002891723854'
+S'Vivekanand Shastree'
+tp38
+a(S'100000506571982'
+S'Pratik Bhegade'
+tp39
+a(S'100001795377610'
+S'Mayuri Tingre'
+tp40
+a(S'100006074831868'
+S'Utkarsha Yadav'
+tp41
+a(S'100003658893459'
+S'Pooja Katke Balwadkar'
+tp42
+a(S'100008310345179'
+S'Minal Yadav'
+tp43
+a(S'100008007906768'
+S'Sayali Dhage'
+tp44
+a(S'100002351195323'
+S'Mayur Mungase'
+tp45
+a(S'100004027555951'
+S'Vaibhav Balgude'
+tp46
+a(S'100000746297706'
+S'Omkar Gite'
+tp47
+a(S'100005289721265'
+S'Omkar Lokhande'
+tp48
+a(S'100002512131571'
+S'Payal Balgude'
+tp49
+a(S'100001289088016'
+S'Minal Ghadge'
+tp50
+a(S'100007468987017'
+S'Pranita Adsul'
+tp51
+a(S'100008203268608'
+S'Komal Tingre'
+tp52
+a(S'100002098471585'
+S'Ashwini Jagtap Gavali'
+tp53
+a(S'100003731750422'
+S'Amit Wadekar'
+tp54
+a(S'100007137942567'
+S'Dipti Kharde Patil'
+tp55
+a(S'100002038787183'
+S'Vishal Tingre'
+tp56
+a(S'100002502859059'
+S'Priyanka Salunke'
+tp57
+a(S'100003678156981'
+S'Kaveri S Thakar'
+tp58
+a(S'100002916840138'
+S'Komal Shinde Shisode'
+tp59
+a(S'100002182890216'
+S'Dhanraj Tingre'
+tp60
+a(S'100002904979873'
+S'Radhika Jadhav'
+tp61
+a(S'100001397325381'
+S'Kedar Mokate'
+tp62
+a(S'100002964438524'
+S'Momina Shinde'
+tp63
+a(S'100007797576207'
+S'Mayur Salunke'
+tp64
+a(S'100005253042247'
+S'Manthan Bhilare'
+tp65
+a(S'100000117483437'
+S'SanSkruti BaLgude'
+tp66
+a(S'100002444053342'
+S'Abhay Kadam'
+tp67
+a(S'100001293385070'
+S'Vikas Dighe'
+tp68
+a(S'100002924911752'
+S'Someshwar Abba Balgude'
+tp69
+a(S'100003468763775'
+S'Abhijit Sorte'
+tp70
+a(S'100001500530961'
+S'Vikram Balgude'
+tp71
+a(S'100002442435828'
+S'Milind Jawalkar'
+tp72
+a(S'100001497550954'
+S'Amol Birdawade'
+tp73
+a(S'100001703023577'
+S'Yuvraj Balgude'
+tp74
+a(S'100001365835648'
+S'Neha Galande'
+tp75
+a(S'100003963294843'
+S'Shobhana Palande'
+tp76
+a(S'100003300248811'
+S'Ashwini Mahadik'
+tp77
+a(S'100005538546662'
+S'Siddhi Chougule'
+tp78
+a(S'100000373568771'
+S'Rushikesh Balgude'
+tp79
+a(S'100001054522781'
+S'Rutuja Nikam'
+tp80
+a(S'100004138536502'
+S'Sonali Yadav'
+tp81
+a(S'100002692823625'
+S'Rashmi Sutar'
+tp82
+a(S'100003935112298'
+S'Hari Balgude'
+tp83
+a(S'100002927992520'
+S'Shweta Ranawade'
+tp84
+a(S'100002256182095'
+S'Priyanka Sakore'
+tp85
+a(S'100006518649542'
+S'Tukaram Awhale'
+tp86
+a(S'100002331228293'
+S'Kunal Patekar'
+tp87
+a(S'100004140393074'
+S'Aiman Shaikh'
+tp88
+a(S'100002258539967'
+S'Sachin Tingre'
+tp89
+a(S'100000535645753'
+S'Shubhangi Magar Balgude'
+tp90
+a(S'100001439766938'
+S'Priyanka Yadav'
+tp91
+a(S'100002239420715'
+S'Mayurraje Kharde Patil'
+tp92
+a(S'100001371665695'
+S'Vaishali Bhanusghare Nigade'
+tp93
+a(S'100000873383990'
+S'Takale Sanjay'
+tp94
+a(S'100002897090542'
+S'Yogita Bhapkar'
+tp95
+a(S'100006986440182'
+S'Ramkrishna Awhale'
+tp96
+a(S'100002523114100'
+S'Chaitrali Bandal'
+tp97
+a(S'100003801581292'
+S'Shweta More'
+tp98
+a(S'100002669193104'
+S'Pooja Takle'
+tp99
+a(S'100000760721490'
+S'Rahul Nigade'
+tp100
+a(S'100001999847008'
+S'Nana Balgude'
+tp101
+a(S'100004337130639'
+S'Corporator Rekha C Tingre'
+tp102
+a(S'100001992566891'
+S'Priyanka Kale'
+tp103
+asS'id'
+p104
+S'100004745080278'
+p105
+sS'name'
+p106
+S'Chetna Balgude'
+p107
+s.

@@ -1,0 +1,31 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100005420412620'
+S'Himanshu Goyal'
+tp4
+a(S'100007067920455'
+S'Mojahid Ansari'
+tp5
+a(S'100006849870364'
+S'Shubham Surana'
+tp6
+a(S'100008242203745'
+S'Megha Sharma'
+tp7
+a(S'100007396958615'
+S'Kajal Jain'
+tp8
+a(S'100001925923451'
+S'Sahil Samar'
+tp9
+asS'id'
+p10
+S'100001925923451'
+p11
+sS'name'
+p12
+S'Sahil Samar'
+p13
+s.

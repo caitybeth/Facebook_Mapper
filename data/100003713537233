@@ -1,0 +1,65 @@
+(dp1
+S'name'
+p2
+S'Mian Mohsin'
+p3
+sS'current_class'
+p4
+S'pakistan'
+p5
+sS'home_class'
+p6
+Vichhra, lahore, pakistan
+p7
+sS'home_text'
+p8
+VIchhra, Punjab, Pakistan\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D31.549700669186%252C%2B74.343109130859%26name%3DLahore%252C%2BPakistan%26mkt%3Den-IN&h=3AQF2uSAv&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D31.532200526236%252C%2B74.3115234375%26name%3DIchhra%252C%2BPunjab%252C%2BPakistan%26mkt%3Den-IN&h=eAQG6t3jS&s=1
+p13
+sS'current_text'
+p14
+VLahore, Pakistan\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100002358388087'
+p18
+S'Zainab Ali'
+tp19
+a(S'100005071180885'
+p20
+S'Zohaib Ali'
+tp21
+a(S'100006582722943'
+p22
+S'Manisha Bora'
+tp23
+a(S'100003713537233'
+p24
+S'Mian Mohsin'
+tp25
+a(g20
+S'Zohaib Ali'
+tp26
+a(g22
+S'Manisha Bora'
+tp27
+a(g18
+S'Zainab Ali'
+tp28
+a(g24
+S'Mian Mohsin'
+tp29
+asS'id'
+p30
+S'100003713537233'
+p31
+s.

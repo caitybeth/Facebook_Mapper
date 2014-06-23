@@ -1,0 +1,274 @@
+(dp1
+S'name'
+p2
+S'Sunita Billa'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vthe birthplace, andhra pradesh real estate, green valley, banjara hills, hyderabad, andhra pradesh 500034, india
+p7
+sS'home_text'
+p8
+VHyderabad, Andhra Pradesh\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D18.520300342657%252C%2B73.855590820312%26name%3DPune%252C%2BMaharashtra%26mkt%3Den-IN&h=YAQEHQ5x2&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D17.375300038283%252C%2B78.473968505859%26name%3DHyderabad%252C%2BAndhra%2BPradesh%26mkt%3Den-IN&h=dAQFb7sXA&s=1
+p13
+sS'current_text'
+p14
+VPune, Maharashtra\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100000509470026'
+S'Rajib Hota'
+tp18
+a(S'100001546974733'
+S'Rekha Raikarkumar'
+tp19
+a(S'100001302917830'
+S'Satish Athota'
+tp20
+a(S'591654428'
+S'Davidson Devasirvatham'
+tp21
+a(S'543760762'
+S'Anand Kumar Kedia'
+tp22
+a(S'100004984175575'
+S'Naveen Chaudhary'
+tp23
+a(S'703621333'
+S'Rajeev Harit'
+tp24
+a(S'100001238804568'
+S'Medisetti Tirumala Kumar'
+tp25
+a(S'100001671521298'
+S'Anjana Vashishtha'
+tp26
+a(S'1029713428'
+S'Sandip Garg'
+tp27
+a(S'1428486856'
+S'Abhay Bagmar'
+tp28
+a(S'1737208500'
+S'Yashwant Bhaskar'
+tp29
+a(S'1115496790'
+S'Amrita Ranjan'
+tp30
+a(S'704998225'
+S'Rajeev Harit'
+tp31
+a(S'821843851'
+S'Nirupama Kotru'
+tp32
+a(S'1361925689'
+S'Meenakshi J Goswami'
+tp33
+a(S'100003404553976'
+S'Suresh Gaikwad'
+tp34
+a(S'1340746858'
+S'Urvashi Saxena'
+tp35
+a(S'682379900'
+S'Sarah Khimjee'
+tp36
+a(S'100001217567223'
+S'Maimun Alam'
+tp37
+a(S'100000727801171'
+S'Satyapal Singh Meena'
+tp38
+a(S'750462361'
+S'Mala Paropkari'
+tp39
+a(S'1088921332'
+S'Sangram R Gaikwad'
+tp40
+a(S'1013367677'
+S'Anandarajan Vee'
+tp41
+a(S'100000593772952'
+S'Shyamsundar Keshkamat'
+tp42
+a(S'1034282055'
+S'Abhinay Kumbhar'
+tp43
+a(S'1577889574'
+S'Ajay Pandey'
+tp44
+a(S'100000001180862'
+S'Vikram Sankhala'
+tp45
+a(S'1478602987'
+S'Samuel Darse'
+tp46
+a(S'1530024680'
+S'Prashant Nannaparaju'
+tp47
+a(S'567708456'
+S'Shishir Srivastava'
+tp48
+a(S'594079068'
+S'Suman Billa'
+tp49
+a(S'734608651'
+S'Anadee Nath Misshra'
+tp50
+a(S'100001397974468'
+S'David Z. Chawngthu'
+tp51
+a(S'1735645389'
+S'Neena Kumar'
+tp52
+a(S'100006807906721'
+S'Madhu Panchadi'
+tp53
+a(S'1542945829'
+S'Shanteshwar Swami'
+tp54
+a(S'1323281030'
+S'Deepinder Kaur'
+tp55
+a(S'100000512014259'
+S'Shaik Zia'
+tp56
+a(S'100006313929082'
+S'Sudhir Chandra'
+tp57
+a(S'1044641886'
+S'Krishna Kishore Jasthi'
+tp58
+a(S'731057544'
+S'Nivedita Biswas'
+tp59
+a(S'1122336447'
+S'Maya Jaju Maheshwari'
+tp60
+a(S'1093273628'
+S'Nitin Dongare'
+tp61
+a(S'100002221931926'
+S'Sunita Singh'
+tp62
+a(S'100002292884766'
+S'Anuradha Achanta'
+tp63
+a(S'583857089'
+S'Niraj Kumar'
+tp64
+a(S'100000595091241'
+S'Usha Parbat'
+tp65
+a(S'1785805523'
+S'Abha Singh'
+tp66
+a(S'1851955089'
+S'Uday Bhaskar Billa'
+tp67
+a(S'100000216930960'
+S'Rupinder Pannu Brar'
+tp68
+a(S'1216435107'
+S'Rajeev Ranade'
+tp69
+a(S'1206332223'
+S'Srujani Mohanty'
+tp70
+a(S'686828266'
+S'Tarun Seem'
+tp71
+a(S'1569571220'
+S'Naval Kapoor'
+tp72
+a(S'1818756885'
+S'Karunakara Rao Dasari'
+tp73
+a(S'1441454060'
+S'Dinesh Sawkmie'
+tp74
+a(S'1039160443'
+S'Akundi Lakshmi'
+tp75
+a(S'100002053822750'
+S'Dorothy Lavanya'
+tp76
+a(S'1064440639'
+S'Anupama Anand'
+tp77
+a(S'553267215'
+S'Nidhi Srivastava'
+tp78
+a(S'1218107595'
+S'Arun C. Bharat'
+tp79
+a(S'100002523043072'
+S'Rajanikant Gupta'
+tp80
+a(S'824637019'
+S'Basanta Rajkumar'
+tp81
+a(S'100000867130472'
+S'Om Prakash Gupta'
+tp82
+a(S'1186180551'
+S'Tammisetti Rambabu'
+tp83
+a(S'1407826336'
+S'P Soma Shekar Reddy'
+tp84
+a(S'100002285225012'
+S'Sandipkumar Salunkhe'
+tp85
+a(S'100000280374252'
+S'Anand Upadhyay'
+tp86
+a(S'100000214695551'
+S'Komal Jogpal'
+tp87
+a(S'1256844376'
+S'Sharat Sarangi'
+tp88
+a(S'705003987'
+S'Tushar Dhawal Singh'
+tp89
+a(S'100000030084226'
+S'Chennugari Shailaja'
+tp90
+a(S'628835223'
+S'Shivani Bansal'
+tp91
+a(S'590153464'
+S'Rolee Agarwal'
+tp92
+a(S'100002272892059'
+S'Surabhi Ahluwalia'
+tp93
+a(S'100000593406681'
+S'Ushasri Parvataneni'
+tp94
+a(S'1345662977'
+S'Ananth Rupanagudi'
+tp95
+a(S'100001569070366'
+S'Sanyogitha Reddy'
+tp96
+asS'id'
+p97
+S'1508636113'
+p98
+s.

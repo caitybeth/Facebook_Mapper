@@ -1,0 +1,277 @@
+(dp1
+S'name'
+p2
+S'Archana Ranjan'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vnew delhi, delhi, india
+p7
+sS'home_text'
+p8
+VNew Delhi, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D26.286700885974%252C%2B73.028869628906%26name%3DJodhpur%26mkt%3Den-IN&h=mAQFWdodt&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D28.613900916609%252C%2B77.207794189453%26name%3DNew%2BDelhi%252C%2BIndia%26mkt%3Den-IN&h=bAQEmLiSX&s=1
+p13
+sS'current_text'
+p14
+VJodhpur\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'1405238165'
+S'Ranjana Dutta Roy'
+tp18
+a(S'1325319960'
+S'Brahma Prakash Gaur'
+tp19
+a(S'1403826093'
+S'Alok Ranjan'
+tp20
+a(S'100000834495636'
+S'Alka Tewari'
+tp21
+a(S'1435666413'
+S'Mudita Chaturvedi'
+tp22
+a(S'1070543420'
+S'Himani Dixit'
+tp23
+a(S'718537034'
+S'Surinder Cheema'
+tp24
+a(S'1051683795'
+S'Sangita Bajpai'
+tp25
+a(S'1623962285'
+S'Saurabh Mishra'
+tp26
+a(S'738530035'
+S'Jagjit Pavadia'
+tp27
+a(S'100002431980524'
+S'Kapil Agrawal'
+tp28
+a(S'100002078954762'
+S'Neena Buck'
+tp29
+a(S'1437966959'
+S'Bal Krishna Avasthi'
+tp30
+a(S'100000676814858'
+S'Aradhana Misra'
+tp31
+a(S'1480971320'
+S'Rajat Lal'
+tp32
+a(S'1408896026'
+S'Prerna Mimmi Bajpai Misra'
+tp33
+a(S'645241864'
+S'Seema Avasthi'
+tp34
+a(S'851680102'
+S'Kriti Dixit'
+tp35
+a(S'1518787883'
+S'Tishya Misra'
+tp36
+a(S'1077468058'
+S'Manisha Mishra-Dubey'
+tp37
+a(S'1340746858'
+S'Urvashi Saxena'
+tp38
+a(S'1712210258'
+S'Siddhartha Mukherjee'
+tp39
+a(S'845428359'
+S'Sanjeet Singh'
+tp40
+a(S'1011086018'
+S'Samita Tiwari'
+tp41
+a(S'750625128'
+S'Ananya Dixit'
+tp42
+a(S'739515268'
+S'Aditi Misra'
+tp43
+a(S'1245592277'
+S'Akanksha Mehra Shukla'
+tp44
+a(S'100002308311036'
+S'Meena Vajpayee'
+tp45
+a(S'735322663'
+S'Neerja Pande Tiwari'
+tp46
+a(S'100000810733218'
+S'Rati Shukla'
+tp47
+a(S'1028662313'
+S'Anurag Bajpai'
+tp48
+a(S'734608651'
+S'Anadee Nath Misshra'
+tp49
+a(S'1735645389'
+S'Neena Kumar'
+tp50
+a(S'696521084'
+S'Shivam Misra'
+tp51
+a(S'660649687'
+S'Meeta Nayar'
+tp52
+a(S'607832438'
+S'Surabhi Sinha'
+tp53
+a(S'100000327520997'
+S'Sonia Pawar'
+tp54
+a(S'783542840'
+S'Anu Datt'
+tp55
+a(S'100002208216442'
+S'Balbir Verma'
+tp56
+a(S'724163872'
+S'Sanjiv Singh'
+tp57
+a(S'732757237'
+S'Yuthika Sharma'
+tp58
+a(S'100000146190833'
+S'Anindita Bhattacharyya'
+tp59
+a(S'686927970'
+S'Rati Misra'
+tp60
+a(S'760283133'
+S'Ruchika Srivastava'
+tp61
+a(S'100001579811289'
+S'Nandita Bajpai'
+tp62
+a(S'592688230'
+S'Sukhie Brar'
+tp63
+a(S'754774155'
+S'Kunal Mishra'
+tp64
+a(S'100002986805022'
+S'Rani Nair'
+tp65
+a(S'100001614235472'
+S'Usha Bajpai'
+tp66
+a(S'100000185323746'
+S'Reeta Misra'
+tp67
+a(S'632545111'
+S'Shashvat Dixit'
+tp68
+a(S'100004305933044'
+S'Mamta Mansingka'
+tp69
+a(S'740668923'
+S'Rachna Dikshit'
+tp70
+a(S'100001979433943'
+S'RK Bajaj'
+tp71
+a(S'521559791'
+S'Meena Misra'
+tp72
+a(S'1308404937'
+S'Pooja Tiwari'
+tp73
+a(S'100000611075409'
+S'Feroz Khan'
+tp74
+a(S'100000244373505'
+S'Sudhir Sharma'
+tp75
+a(S'100000715089999'
+S'Ravi Dutta Mishra'
+tp76
+a(S'1018874342'
+S'Rashmi Mishra'
+tp77
+a(S'552988503'
+S'Rohit Lal'
+tp78
+a(S'562282604'
+S'Anil Wadhwa'
+tp79
+a(S'633832082'
+S'Shefali Shah'
+tp80
+a(S'100002448528845'
+S'Archana Choudhary'
+tp81
+a(S'100002951995613'
+S'Sandy M. Wetzel'
+tp82
+a(S'565287595'
+S'Arti Kachroo'
+tp83
+a(S'656749119'
+S'Ram Ramasundaram'
+tp84
+a(S'832304950'
+S'Shashank Mishra'
+tp85
+a(S'100000875350187'
+S'Neeru Khanna Dixit'
+tp86
+a(S'1418516943'
+S'Anand Shukla'
+tp87
+a(S'1410726044'
+S'Anup Misra'
+tp88
+a(S'1409795991'
+S'Hemant Sarangi'
+tp89
+a(S'502568214'
+S'Azee Zaa'
+tp90
+a(S'503216900'
+S'Neerja Mishra'
+tp91
+a(S'1431437039'
+S'Anshuman Misra'
+tp92
+a(S'100001594940599'
+S'Jaishree Agnihotri'
+tp93
+a(S'739104408'
+S'Reetoopan Kaushik'
+tp94
+a(S'670625024'
+S'Shakti Sinha'
+tp95
+a(S'583530738'
+S'Anurag Dikshit'
+tp96
+a(S'100000280374252'
+S'Anand Upadhyay'
+tp97
+asS'id'
+p98
+S'1123353585'
+p99
+s.

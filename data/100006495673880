@@ -1,0 +1,28 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100000845922871'
+S'Rishabh Jain'
+tp4
+a(S'100003219123681'
+S'Sunny Sharma'
+tp5
+a(S'100007432746886'
+S'Nidhi Verma'
+tp6
+a(S'100006495673880'
+S'Shweta Rai'
+tp7
+a(S'100005429237474'
+S'Suhani Kapoor'
+tp8
+asS'id'
+p9
+S'100006495673880'
+p10
+sS'name'
+p11
+S'Shweta Rai'
+p12
+s.

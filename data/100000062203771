@@ -1,0 +1,307 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100002567353367'
+S'Pradeep Gupta'
+tp4
+a(S'695438791'
+S'Vishal Kejriwal'
+tp5
+a(S'100004174450904'
+S'Asha Goel'
+tp6
+a(S'500868102'
+S'Aanchal Goel'
+tp7
+a(S'100000241951546'
+S'Saurabh Banka'
+tp8
+a(S'100002627894566'
+S'Mohd Riyaz Mirza'
+tp9
+a(S'100000276354666'
+S'Sharad Sharma'
+tp10
+a(S'523519161'
+S'Prateek Agarwal'
+tp11
+a(S'588021578'
+S'Vishal Jajodia'
+tp12
+a(S'1104811606'
+S'Shiwani Modi'
+tp13
+a(S'100003822636241'
+S'Sushila Goel'
+tp14
+a(S'100000510973273'
+S'Pallavi Kejriwal'
+tp15
+a(S'100003205542998'
+S'Balwinder Singh Gogia'
+tp16
+a(S'615091158'
+S'Rajendra Kr Manandhar'
+tp17
+a(S'763564136'
+S'Deepika Seth Agarwal'
+tp18
+a(S'1525194279'
+S'Narendra Jain'
+tp19
+a(S'748787912'
+S'Shubham Makharia'
+tp20
+a(S'100001938135560'
+S'Navya Goel'
+tp21
+a(S'100001165020352'
+S'Govind D. Gupta'
+tp22
+a(S'100000632188123'
+S'NandKishore Kumawat'
+tp23
+a(S'100000584037337'
+S'Aanchal Gupta'
+tp24
+a(S'1415598660'
+S'Sunil Ojha'
+tp25
+a(S'100002308713563'
+S'Laxmikant Sharma'
+tp26
+a(S'100003307035527'
+S'Sudesh Roop Rai'
+tp27
+a(S'1115285179'
+S'Praveen Singhal'
+tp28
+a(S'100000227678407'
+S'Vishakha Rajgarhia'
+tp29
+a(S'100000382248950'
+S'Pranav Makharia'
+tp30
+a(S'1191505750'
+S'Lala Ram Bishnoi'
+tp31
+a(S'517342498'
+S'Rashi Agarwal'
+tp32
+a(S'517939651'
+S'Rishi Goel'
+tp33
+a(S'1424555831'
+S'Abhishek Rajgarhia'
+tp34
+a(S'1665921946'
+S'Suresh Bansal'
+tp35
+a(S'100002231889666'
+S'Gopal Arya'
+tp36
+a(S'100001877408458'
+S'Kailash Chand Nagori'
+tp37
+a(S'566984204'
+S'Swati Aggarwal'
+tp38
+a(S'100000091486970'
+S'Rajiva Verma'
+tp39
+a(S'100001426303771'
+S'Kumud Goel'
+tp40
+a(S'100003106884723'
+S'Vijay Kumar Poonia'
+tp41
+a(S'673542119'
+S'Aditya Banka'
+tp42
+a(S'1782815701'
+S'Satish Tandon'
+tp43
+a(S'502348055'
+S'Dinesh N Sujata'
+tp44
+a(S'100000027828677'
+S'Ratan Agarwal'
+tp45
+a(S'572106549'
+S'Ankita Musaddi Agarwal'
+tp46
+a(S'100002334364453'
+S'Nirmal Chittora'
+tp47
+a(S'648590013'
+S'Siddharth Banka'
+tp48
+a(S'725632476'
+S'Sanjay Goel'
+tp49
+a(S'1234370053'
+S'Ankeitaa Arora'
+tp50
+a(S'1791354252'
+S'Bhagwan Ahuja'
+tp51
+a(S'1781104394'
+S'Ashutosh Sharma'
+tp52
+a(S'100000036924583'
+S'Vandana Agarwal'
+tp53
+a(S'100000673440363'
+S'Uma Mahesh Dev'
+tp54
+a(S'609656233'
+S'Vijay Kumar Sajnani'
+tp55
+a(S'100006467052025'
+S'Rajinder Pal Singh'
+tp56
+a(S'1437202559'
+S'P.p. Sonkusare'
+tp57
+a(S'100000039255276'
+S'Parveen Goel'
+tp58
+a(S'100001330555335'
+S'Sumnesh Mittal'
+tp59
+a(S'100000237187223'
+S'Sunil Rajgarhia'
+tp60
+a(S'100002423926961'
+S'Prakashchandra Jain'
+tp61
+a(S'100000607164971'
+S'Nisha Jalan'
+tp62
+a(S'100003814686242'
+S'Ashok Goel'
+tp63
+a(S'665253021'
+S'Ansul Rajgharia'
+tp64
+a(S'537788794'
+S'Saket Jalan'
+tp65
+a(S'100000784206164'
+S'Pranav Makharia'
+tp66
+a(S'100001490291487'
+S'Kirti Goel'
+tp67
+a(S'748557408'
+S'Manav Goyal'
+tp68
+a(S'100000248808329'
+S'Urmila Chaudhary'
+tp69
+a(S'519856591'
+S'Sneha Goel'
+tp70
+a(S'100000297937302'
+S'Sanjay Goel'
+tp71
+a(S'683257413'
+S'Varun Saraogi'
+tp72
+a(S'1475631265'
+S'Sanjay Banka'
+tp73
+a(S'522908558'
+S'Neha Banka Saraf'
+tp74
+a(S'683138718'
+S'Ajay Goyal'
+tp75
+a(S'100005261190843'
+S'Mamta Rajgarhia'
+tp76
+a(S'688763031'
+S'Dileep Somani'
+tp77
+a(S'654199742'
+S'Prabir Chakraborty'
+tp78
+a(S'100001068197819'
+S'Bhupendra Samsukha'
+tp79
+a(S'100000628283796'
+S'Rajeev Makharia'
+tp80
+a(S'703102534'
+S'Mahipal Gupta'
+tp81
+a(S'1684361552'
+S'Prashant Srivastava'
+tp82
+a(S'100000345677043'
+S'Arvind Agrawal'
+tp83
+a(S'1077637368'
+S'Mahak Rajgarhia'
+tp84
+a(S'519453736'
+S'Anubhav Goel'
+tp85
+a(S'722739858'
+S'Rajesh Jain'
+tp86
+a(S'100000653116615'
+S'Ramachandra Kuloor'
+tp87
+a(S'100000261636706'
+S'Satish Tandon'
+tp88
+a(S'100000599679509'
+S'Nitin Dhimole'
+tp89
+a(S'100003100694955'
+S'Sp Vijay'
+tp90
+a(S'1630452706'
+S'Anshul Rajgarhia'
+tp91
+a(S'701964806'
+S'Arun Goel'
+tp92
+a(S'100001576633060'
+S'Rajendra Poonia'
+tp93
+a(S'1428730525'
+S'Arun Goel'
+tp94
+a(S'701868862'
+S'Rita Goel'
+tp95
+a(S'100003213723505'
+S'Kushagra Goel'
+tp96
+a(S'1654632860'
+S'Om Mehra'
+tp97
+a(S'1744680411'
+S'Vriddhee Goel'
+tp98
+a(S'1089864432'
+S'Murari Lal'
+tp99
+a(S'100000185111787'
+S'GL Sharma'
+tp100
+a(S'1397981659'
+S'Arpit Sunny Goel'
+tp101
+asS'id'
+p102
+S'100000062203771'
+p103
+sS'name'
+p104
+S'Praveen Changoiwala'
+p105
+s.

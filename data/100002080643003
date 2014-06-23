@@ -1,0 +1,37 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100008332397438'
+S'Manish Manish'
+tp4
+a(S'100007847888732'
+S'Khushi Gupta'
+tp5
+a(S'100007615355451'
+S'Shahid Ahmad'
+tp6
+a(S'100007073196125'
+S'Md Rehan Ansari'
+tp7
+a(S'100008272627374'
+S'Rahul Singh'
+tp8
+a(S'100007628377618'
+S'Abhishek Pandey'
+tp9
+a(S'100002080643003'
+p10
+S'Vishal Raj'
+tp11
+a(S'100004681595629'
+S'Shailendra Kumar'
+tp12
+asS'id'
+p13
+g10
+sS'name'
+p14
+S'Vishal Raj'
+p15
+s.

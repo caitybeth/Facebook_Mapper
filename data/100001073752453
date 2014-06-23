@@ -1,0 +1,256 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100003264594114'
+S'Abdulsami Karzai'
+tp4
+a(S'100001638413317'
+S'Sardar Khan'
+tp5
+a(S'100001509999185'
+S'Amna Huq'
+tp6
+a(S'100001308003604'
+S'Murtaza Tokhi'
+tp7
+a(S'100004059557352'
+S'Sia Singh'
+tp8
+a(S'100003705370270'
+S'Sadiqullah Amiri'
+tp9
+a(S'100005797322529'
+S'Bari Helal'
+tp10
+a(S'100007176900854'
+S'\\u062d\\u0633\\u0646\\u0627 \\u0648\\u0641\\u0627'
+tp11
+a(S'100001779735884'
+S'Sakha Sakhi'
+tp12
+a(S'100003735754655'
+S'Muhibullah Popal'
+tp13
+a(S'100000771600493'
+S'Nazar Kandahari'
+tp14
+a(S'100003810527444'
+S'Zarkah Salgai'
+tp15
+a(S'100002234188996'
+S'Elal Armani'
+tp16
+a(S'100002011764284'
+S'Leda Jan Wafa'
+tp17
+a(S'100003656396964'
+S'Mahnoor Jan'
+tp18
+a(S'100007309719725'
+S'Attiqullah Popal'
+tp19
+a(S'100000663633420'
+S'Zia Ul Haq Tokhi'
+tp20
+a(S'100004083314358'
+S'Prince Saima'
+tp21
+a(S'561125198'
+S'Bilal Ahmed Karzai'
+tp22
+a(S'100003928401798'
+S'Abdulshafi Karzai'
+tp23
+a(S'100001375735013'
+S'Zain Niaz'
+tp24
+a(S'100003613493531'
+S'Rafi Jegharkhon'
+tp25
+a(S'100007107061357'
+S'Shazia Wafa'
+tp26
+a(S'100003784908057'
+S'Edress Ahmad Ways A'
+tp27
+a(S'100000181399254'
+S'Ahmed Sulaiman'
+tp28
+a(S'100008271547444'
+S'Zahoor Ahmed'
+tp29
+a(S'100005487750504'
+S'Zubairahmad Faizi'
+tp30
+a(S'100003959627648'
+S'Nasrat Khan'
+tp31
+a(S'100001012284437'
+S'Mirwais Popal'
+tp32
+a(S'100001059895731'
+S'Shazia Amani'
+tp33
+a(S'100002172254158'
+S'Layla Khan'
+tp34
+a(S'100002614304148'
+S'Haji Mohammad Nabi'
+tp35
+a(S'100001473558403'
+S'Siddiqullah Nazari'
+tp36
+a(S'624432193'
+S'Farid Khan'
+tp37
+a(S'100004107668813'
+S'Mujeeb Rahman Karzai'
+tp38
+a(S'100007453420245'
+S'Sohail Alukozai'
+tp39
+a(S'100001065526807'
+S'Kalimullah Helale'
+tp40
+a(S'1802457229'
+S'Naqeeb Khan'
+tp41
+a(S'100001839407498'
+S'Sima Jan Doost'
+tp42
+a(S'100006613510237'
+S'\\u062f\\u0647 \\u0645\\u0633\\u0627\\u0641\\u0631 \\u062f\\u062e\\u0648\\u0644\\u06cc \\u0641\\u0631\\u06cc\\u0627\\u062f'
+tp43
+a(S'100000523616939'
+S'Jamil Karzai'
+tp44
+a(S'100003118326314'
+S'Anwaruddin Himmat'
+tp45
+a(S'100000906835268'
+S'Zarak Khan Kakar'
+tp46
+a(S'100001830649175'
+S'Aksa Reaz'
+tp47
+a(S'100000441920276'
+S'Javeed Sherzai'
+tp48
+a(S'100004138413787'
+S'Gul Alokozy'
+tp49
+a(S'100003052963783'
+S'Mukhtar Badosha'
+tp50
+a(S'100007360624506'
+S'Sharif Afghan'
+tp51
+a(S'100001308550434'
+S'Nazeer Nrk'
+tp52
+a(S'100006898661690'
+S'Jamil Barak'
+tp53
+a(S'100002056890489'
+S'Zubair Khilji'
+tp54
+a(S'100004764252490'
+S'Aimal Khan Pashtoon'
+tp55
+a(S'570631561'
+S'\\u0645\\u0633\\u0639\\u0648\\u062f \\u0627\\u062d\\u0645\\u062f \\u0641\\u0631\\u0632\\u0627\\u0646'
+tp56
+a(S'552271446'
+S'Farid Sherzai'
+tp57
+a(S'100006610143870'
+S'Zarlashta Kakar'
+tp58
+a(S'100004080767281'
+S'\\u0631\\u0648\\u0628\\u06cc\\u0646\\u0627 \\u0648\\u0637\\u0646\\u062f\\u0648\\u0633\\u062a \\u0627\\u0641\\u063a\\u0627\\u0646'
+tp59
+a(S'100007290043099'
+S'Bashir Mal'
+tp60
+a(S'100002085311776'
+p61
+S'Mena Mangal'
+tp62
+a(S'100004001785114'
+S'Abdulbasit Karzai'
+tp63
+a(S'100001780249373'
+S'Adil Khan'
+tp64
+a(S'100003660766338'
+S'Assad Khan'
+tp65
+a(S'100003482976043'
+S'\\u0160\\u00e4m\\u00ee \\u00d1\\u0101z\\u0101r\\u00ec'
+tp66
+a(S'100000746967435'
+S'Habibullah Khan'
+tp67
+a(S'100000412129850'
+S'Tokhi Sher Shah Shohab'
+tp68
+a(S'100001831554614'
+S'Farida Ahmadi'
+tp69
+a(S'100002201710027'
+S'Aryan Khan'
+tp70
+a(S'100007246952037'
+S'Mahmad Edress'
+tp71
+a(S'100002519441177'
+S'Fazal Bari Helal'
+tp72
+a(S'100003320662293'
+S'Rubina Kakar'
+tp73
+a(S'100000674420580'
+S'Florence Young'
+tp74
+a(S'100004038146156'
+S'Soonya Soonam'
+tp75
+a(S'100006084247841'
+S'Zubair Faizi'
+tp76
+a(S'100001992420210'
+p77
+S'Jumagull Ghmay Besmell'
+tp78
+a(S'100003284080298'
+S'Hakim Khan'
+tp79
+a(S'100000689985201'
+p80
+S'Khalid Khan Khillje'
+tp81
+a(S'100002190534378'
+S'Zakirya Khan'
+tp82
+a(S'100000484106224'
+S'Hk Kabuli'
+tp83
+a(S'100000334764067'
+S'Nisar Azizi'
+tp84
+a(S'100001775509535'
+S'Haroon Pathan'
+tp85
+a(S'100003555451299'
+S'Abdulwaris Jabarzay'
+tp86
+asS'id'
+p87
+S'100001073752453'
+p88
+sS'name'
+p89
+S'Sohail Ahmad Popal'
+p90
+s.

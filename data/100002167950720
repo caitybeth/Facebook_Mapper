@@ -1,0 +1,277 @@
+(dp1
+S'name'
+p2
+S'Ayesha Fahad'
+p3
+sS'current_class'
+p4
+S'pakistan'
+p5
+sS'home_class'
+p6
+Vrawalpindi, pakistan
+p7
+sS'home_text'
+p8
+VRawalpindi, Pakistan\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D33.699999951882%252C%2B73.166198730469%26name%3DIslamabad%252C%2BPakistan%26mkt%3Den-IN&h=pAQFSnKZl&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D33.600000785173%252C%2B73.032989501953%26name%3DRawalpindi%252C%2BPakistan%26mkt%3Den-IN&h=_AQGOt-RO&s=1
+p13
+sS'current_text'
+p14
+VIslamabad, Pakistan\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100000503346890'
+S'Infected Mushroom'
+tp18
+a(S'100000225113165'
+S'Moshikur Rahman'
+tp19
+a(S'713108347'
+S'Sadia Saeed'
+tp20
+a(S'100000084988291'
+S'Jilani Patel'
+tp21
+a(S'1013954935'
+S'Ayyaz Ahmad'
+tp22
+a(S'1581232910'
+S'Justin Hartman'
+tp23
+a(S'100000039988835'
+S'Abdullah Zamad'
+tp24
+a(S'100000506588265'
+S'Hafiz M Zahid'
+tp25
+a(S'573867677'
+S'Shehroz Hussain Siddiqui'
+tp26
+a(S'100000501298623'
+S'Mahafijur Rahman Sweet'
+tp27
+a(S'1514783009'
+S'Kadri Cevizli'
+tp28
+a(S'100000505763206'
+S'Netan Ahir'
+tp29
+a(S'100000976214103'
+S'Malik Usman Malikusman'
+tp30
+a(S'100000477318603'
+S'Rana Kaleem'
+tp31
+a(S'100000181708795'
+S'Jango Baloch'
+tp32
+a(S'100002255117010'
+S'Saba Mir'
+tp33
+a(S'100000103160485'
+S'Farhan Ahmed'
+tp34
+a(S'100000068321451'
+S'\\u015e\\u00e3\\u010d\\u0159\\u00ecf\\u012b\\u010d\\u0119 \\u0158\\u00eef\\u00e6\\u0163'
+tp35
+a(S'100000078242228'
+S'Wisnu Perdana'
+tp36
+a(S'100000288928901'
+S'Ayaan Khan'
+tp37
+a(S'677886471'
+S'Hassan Sikandar Baloch'
+tp38
+a(S'1362979584'
+S'Mani Cool'
+tp39
+a(S'703868344'
+S'Afshar KA'
+tp40
+a(S'100000001738315'
+S'Mohammed Ujef Mahabari'
+tp41
+a(S'1396468079'
+S'Jazib Kamboh'
+tp42
+a(S'100002185179320'
+S'Abhay Ranwat'
+tp43
+a(S'100000462792407'
+S'Naeem Khan'
+tp44
+a(S'1329165872'
+S'Djlimon Limon'
+tp45
+a(S'1239243205'
+S'Imran Ansari'
+tp46
+a(S'100000274837512'
+S'Qazi Uzmaa'
+tp47
+a(S'1654581699'
+S'Zakir Hossain'
+tp48
+a(S'100000279750202'
+S'Abdullah Khalid'
+tp49
+a(S'100000502677617'
+S'Naveed Butt'
+tp50
+a(S'1606166171'
+S'Akhtar Sapawala'
+tp51
+a(S'100000087863994'
+S'Ali Abbasi'
+tp52
+a(S'1556723274'
+S'Zeeshan Hassan'
+tp53
+a(S'1173129123'
+S'Hedayetul Islam'
+tp54
+a(S'1745059988'
+S'Saif Bero'
+tp55
+a(S'1140641667'
+S'Toshif Patel'
+tp56
+a(S'1354548905'
+S'Muhammad Ali Raja'
+tp57
+a(S'1595434228'
+S'Iqbal Anjillath'
+tp58
+a(S'100000191116857'
+S'Intoxicate Daxhing Angel'
+tp59
+a(S'1206843611'
+S'Ajit Kumar'
+tp60
+a(S'1529864566'
+S'Romesh Perera'
+tp61
+a(S'1328067344'
+S'Muhammad Usman'
+tp62
+a(S'761118903'
+S'Umaish Nawaz Jutt'
+tp63
+a(S'100000141448547'
+S'Ghafoor Ahmed'
+tp64
+a(S'1693018900'
+S'Kamran Manzoor'
+tp65
+a(S'100002179518541'
+S'Cyrus Butt'
+tp66
+a(S'100000525566467'
+S'Innocent Ahmed Deejay'
+tp67
+a(S'100002380735221'
+S'Naila Malik'
+tp68
+a(S'1691123576'
+S'Qamarshaid Khan'
+tp69
+a(S'100002113813745'
+S'HamZa SheIkh'
+tp70
+a(S'100000346536863'
+S'Imran Gee'
+tp71
+a(S'100000116457237'
+S'Asad Prada'
+tp72
+a(S'100000229170624'
+S'Adil Innocentpaki'
+tp73
+a(S'100000061113655'
+S'\\u0627\\u0628\\u0648 \\u0627\\u064a\\u0629 \\u0628\\u0634\\u064a\\u0631'
+tp74
+a(S'1591822072'
+S'Fayyaz Khalid Khan'
+tp75
+a(S'1148984810'
+S'Halit Yalman'
+tp76
+a(S'100001698486729'
+S'Haris Naveed'
+tp77
+a(S'100000003411352'
+S'Bhong Kamlian Hakam'
+tp78
+a(S'1787417366'
+S'Asif Kamran'
+tp79
+a(S'1188875849'
+S'Imran A Mir'
+tp80
+a(S'1671271692'
+S'Zeshan Ahmed'
+tp81
+a(S'100000298726083'
+S'Sohaib Iqbal'
+tp82
+a(S'100000331198058'
+S'Saqib Ilyas'
+tp83
+a(S'100000255745938'
+S'Zafrusya Schonovick'
+tp84
+a(S'1849485089'
+S'Harman Takhar'
+tp85
+a(S'100000498579275'
+S'Mohsin Riaz'
+tp86
+a(S'1253442458'
+S'Saqib Ali Khan'
+tp87
+a(S'100000502602555'
+S'Umar King'
+tp88
+a(S'725797602'
+S'Ahmed El Sinawy'
+tp89
+a(S'100000238452162'
+S'Suhel Patel'
+tp90
+a(S'100000478363919'
+S'Mahmood Ammad'
+tp91
+a(S'100000315123589'
+S'Muhammad Rafi Siddiqi'
+tp92
+a(S'1181304735'
+S'Ammar Alqershi'
+tp93
+a(S'100000441865227'
+S'Fahad Butt'
+tp94
+a(S'1126782759'
+S'Abdul Rahman'
+tp95
+a(S'1178116434'
+S'Zeeshan Farhat'
+tp96
+a(S'100000176344905'
+S'Bilal Ahmad Khan'
+tp97
+asS'id'
+p98
+S'100002167950720'
+p99
+s.

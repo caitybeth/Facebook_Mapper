@@ -1,0 +1,37 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100008228202340'
+S'Lala Gujjar'
+tp4
+a(S'100005285167765'
+S'Kamran Jan S'
+tp5
+a(S'100005210745869'
+S'Sheraz Pahore'
+tp6
+a(S'100004218134021'
+S'Haroon Rasheed'
+tp7
+a(S'100007880644164'
+S'Rizwan Shaikh'
+tp8
+a(S'100004366151948'
+S'Benny Benny Benny'
+tp9
+a(S'100007198723697'
+S'Pheek Malak'
+tp10
+a(S'100002608076543'
+S'Rana Zubair'
+tp11
+asS'id'
+p12
+S'100002608076543'
+p13
+sS'name'
+p14
+S'Rana Zubair'
+p15
+s.

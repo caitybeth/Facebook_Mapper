@@ -1,0 +1,298 @@
+(dp1
+S'name'
+p2
+S'Santana Khurana'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vnew delhi, delhi, india
+p7
+sS'home_text'
+p8
+VNew Delhi, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D-33.859999056029%252C%2B151.21032714844%26name%3DSydney%252C%2BAustralia%26mkt%3Den-IN&h=GAQH7Ym8E&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D28.613900916609%252C%2B77.207794189453%26name%3DNew%2BDelhi%252C%2BIndia%26mkt%3Den-IN&h=6AQHWjr0r&s=1
+p13
+sS'current_text'
+p14
+VSydney, Australia\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'870040226'
+S'Shivanjali Srivastava'
+tp18
+a(S'696745971'
+S'Jenny Biggin'
+tp19
+a(S'100001191549214'
+S'Venky Shankar'
+tp20
+a(S'760595240'
+S'Melly R'
+tp21
+a(S'100002412938853'
+S'Sarita Gill'
+tp22
+a(S'692293834'
+S'Deepali Parwal'
+tp23
+a(S'530639747'
+S'Toral Shah Chheda'
+tp24
+a(S'551051130'
+S'Freddy F'
+tp25
+a(S'1216300178'
+S'Neeta Madan'
+tp26
+a(S'1367111666'
+S'Sadhna Shanker'
+tp27
+a(S'759653641'
+S'Aparna Mohan Dhawan'
+tp28
+a(S'1274852017'
+S'Sheela Parwal'
+tp29
+a(S'600352513'
+S'Anjani Mandal'
+tp30
+a(S'100003548643596'
+S'Susan Pinnock'
+tp31
+a(S'755044891'
+S'Sucheta Govil'
+tp32
+a(S'560681567'
+S'Rima Gupta'
+tp33
+a(S'595505321'
+S"Delcie D'Mello"
+tp34
+a(S'100000166297264'
+S'Shabbir Imani'
+tp35
+a(S'696668652'
+S'Ingrid Srinath'
+tp36
+a(S'538055764'
+S'Mamta Parwal Nathany'
+tp37
+a(S'553088579'
+S'Bradley Kelly'
+tp38
+a(S'100003787899803'
+S'Ramesh Chatrath'
+tp39
+a(S'1474670320'
+S'Vasudha Hurkat'
+tp40
+a(S'549133206'
+S'Pratima Gupta'
+tp41
+a(S'830548560'
+S'Anuj Kacker'
+tp42
+a(S'700614046'
+S'Eva Hage'
+tp43
+a(S'1230758366'
+S'Rod Watts'
+tp44
+a(S'713083552'
+S'Udai Dhawan'
+tp45
+a(S'100000608291606'
+S'Prachi Gaggar'
+tp46
+a(S'1454271347'
+S'Sandip Dang'
+tp47
+a(S'507901615'
+S'Akshay Kamra'
+tp48
+a(S'701890640'
+S'Akshay Baheti'
+tp49
+a(S'676886755'
+S'Bruce Cowin'
+tp50
+a(S'1811479520'
+S'Bryan Rodgers'
+tp51
+a(S'1296469266'
+S'Suki Iyer'
+tp52
+a(S'100002425195829'
+S'Manju Parwal'
+tp53
+a(S'1305061799'
+S'Ina Mullick'
+tp54
+a(S'659027302'
+S'Claire Fowler'
+tp55
+a(S'627580771'
+S'Ila Imani'
+tp56
+a(S'785162058'
+S'Uma Gill'
+tp57
+a(S'592384163'
+S'Shan Collier'
+tp58
+a(S'1072145077'
+S'Malcolm Dubash'
+tp59
+a(S'590099357'
+S'Sangeeta Murthi Sahgal'
+tp60
+a(S'503418478'
+S'Beliana Kamra'
+tp61
+a(S'1539632732'
+S'Kiran Bhagat'
+tp62
+a(S'1366635463'
+S'Prachi Shah'
+tp63
+a(S'546572439'
+S'Alka Puri'
+tp64
+a(S'1617350697'
+S'Shobha Das'
+tp65
+a(S'1555493894'
+S'Kathy Dube'
+tp66
+a(S'564135593'
+S'Kimsuka Iyer'
+tp67
+a(S'100001821285257'
+S'Colleen Dombkins'
+tp68
+a(S'1217756101'
+S'Sunita Parwal'
+tp69
+a(S'100001288913962'
+S'Tina Bednal'
+tp70
+a(S'1516329890'
+S'Shiv Singh'
+tp71
+a(S'697756641'
+S'Susan Derwentsmith'
+tp72
+a(S'520778593'
+S'Kent Stoll'
+tp73
+a(S'1408028143'
+S'Lydia Krishnan'
+tp74
+a(S'1200626679'
+S'Saumitra Maheshwari'
+tp75
+a(S'625700538'
+S'Daphne Dmello'
+tp76
+a(S'1035110419'
+S'Mamta Arora'
+tp77
+a(S'826530323'
+S'Georgie Carroll'
+tp78
+a(S'591277645'
+S'Ruma Tavorath'
+tp79
+a(S'568009441'
+S'Renu Baheti'
+tp80
+a(S'1236375302'
+S'Sona Sikka Anand'
+tp81
+a(S'1321731314'
+S'Jaideep Billa'
+tp82
+a(S'100002184096960'
+S'David Pinn'
+tp83
+a(S'4803316'
+S'Vaibhav Kamra'
+tp84
+a(S'100000887141310'
+S'Suresh Gill'
+tp85
+a(S'100002121805103'
+S'Sadhna Kamra'
+tp86
+a(S'100001554223390'
+S'Ruchi Srivastava'
+tp87
+a(S'597038701'
+S'Sanjay Banerji'
+tp88
+a(S'100003662998128'
+S'Bindu Singhi'
+tp89
+a(S'100001191202062'
+S'Trupti Gilada Baheti'
+tp90
+a(S'765094017'
+S'Beena George'
+tp91
+a(S'100001813647915'
+S'Manjit Kaur'
+tp92
+a(S'1327085472'
+S'Rajan Malik'
+tp93
+a(S'613984872'
+S'Umesh Chatrath'
+tp94
+a(S'577027626'
+S'Susanne Dahal'
+tp95
+a(S'603420851'
+S'Ashis Bhattacharya'
+tp96
+a(S'100000701606155'
+S'Khushnam Dubash'
+tp97
+a(S'1282196760'
+S'Samarth Srivastava'
+tp98
+a(S'100007938314293'
+S'Alka Parwal'
+tp99
+a(S'1755511771'
+S'Kavita Rajaratnam'
+tp100
+a(S'1362167348'
+S'Nehchal Dhawan'
+tp101
+a(S'1070079082'
+S'Vijay Parwal'
+tp102
+a(S'219000446'
+S'Nishant Samuel'
+tp103
+a(S'100000657102144'
+S'Priti Gulati'
+tp104
+asS'id'
+p105
+S'674206406'
+p106
+s.

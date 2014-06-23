@@ -1,0 +1,256 @@
+(dp1
+S'current_text'
+p2
+VMumbai, Maharashtra, India\u000aCurrent City
+p3
+sS'name'
+p4
+S'Jagadish Irs'
+p5
+sS'current_class'
+p6
+S'india'
+p7
+sS'friends'
+p8
+(lp9
+(S'100000089901198'
+S'Madnesh Kumar Mishra'
+tp10
+a(S'601286730'
+S'Ajay Bharadwaj'
+tp11
+a(S'1243958866'
+S'Hemant Kumar Jha'
+tp12
+a(S'1009712369'
+S'Sanjay Kumar'
+tp13
+a(S'618177720'
+S'Sanjay Kumar'
+tp14
+a(S'799414665'
+S'Bhagwan Swarup Srivastava'
+tp15
+a(S'780190706'
+S'Ram Mohan Tiwari'
+tp16
+a(S'714786243'
+S'Rajiv Jain'
+tp17
+a(S'1477107871'
+S'Ajai Srivastava'
+tp18
+a(S'100000593772952'
+S'Shyamsundar Keshkamat'
+tp19
+a(S'749133437'
+S'Yogesh Verma'
+tp20
+a(S'1047828270'
+S'Devinder Kalyan'
+tp21
+a(S'1029713428'
+S'Sandip Garg'
+tp22
+a(S'1113836552'
+S'Abhai Rai'
+tp23
+a(S'505377315'
+S'Dhairya Shrivastava'
+tp24
+a(S'100000230176064'
+S'Vimal Sharma'
+tp25
+a(S'1065150644'
+S'Ullas Sharma'
+tp26
+a(S'686828266'
+S'Tarun Seem'
+tp27
+a(S'1496400927'
+S'Shyam Benupani'
+tp28
+a(S'1066405535'
+S'Shekhar Varma'
+tp29
+a(S'607466680'
+S'Rajat Moona'
+tp30
+a(S'1011548334'
+S'Surendra Kumar'
+tp31
+a(S'514797760'
+S'Randeep Bhasin'
+tp32
+a(S'708065305'
+S'Dhirendra Ojha'
+tp33
+a(S'729859750'
+S'Krishna Mohan Prasad'
+tp34
+a(S'633209247'
+S'Vineet Agrawal'
+tp35
+a(S'557549577'
+S'Jyoti Shree'
+tp36
+a(S'1020914771'
+S'Rajat Bansal'
+tp37
+a(S'1122206295'
+S'Prem Narayan Jha'
+tp38
+a(S'734608651'
+S'Anadee Nath Misshra'
+tp39
+a(S'100000145515915'
+S'Shailendra Singh Shaktishiromani'
+tp40
+a(S'819468699'
+S'Sanjay Agrawal'
+tp41
+a(S'100002720222148'
+S'Sanjiv Kumar'
+tp42
+a(S'1046540683'
+S'Vinod Kumar'
+tp43
+a(S'1731007433'
+S'Rajendra Bhattar'
+tp44
+a(S'644743570'
+S'Amalendu Sarkar'
+tp45
+a(S'100002125983950'
+S'Lal Chand'
+tp46
+a(S'1205814760'
+S'Sanjiv Shankar'
+tp47
+a(S'1044641886'
+S'Krishna Kishore Jasthi'
+tp48
+a(S'100000512541153'
+S'Vikas Srivastava'
+tp49
+a(S'763960071'
+S'Ashish Heliwal'
+tp50
+a(S'100004234239253'
+S'Kamlesh Chandra Varshney'
+tp51
+a(S'100000360998864'
+S'Rp Singh'
+tp52
+a(S'601003210'
+S'Tushar Gandhi'
+tp53
+a(S'819068068'
+S'Shyamalesh Khan'
+tp54
+a(S'618375718'
+S'Neel Madhav'
+tp55
+a(S'100002020612984'
+S'Chandraprakash Saroj'
+tp56
+a(S'1587991248'
+S'Virendra Ojha'
+tp57
+a(S'1016325388'
+S'Mohan Kumar Singhania'
+tp58
+a(S'517708371'
+S'Vijoy Madhukar'
+tp59
+a(S'663196732'
+S'Vimalendu Verma'
+tp60
+a(S'1504814092'
+S'Vijai Kishore'
+tp61
+a(S'599184525'
+S'Surya Mantha'
+tp62
+a(S'100001963035825'
+S'Gm Doss'
+tp63
+a(S'615632175'
+S'Prasenjit Singh'
+tp64
+a(S'1000083843'
+S'Vibhu Sen Agarwal'
+tp65
+a(S'520164800'
+S'Pradeep Kumar'
+tp66
+a(S'519669317'
+S'Manindra Agrawal'
+tp67
+a(S'548568953'
+S'Vijay Krishan Gupta'
+tp68
+a(S'1003793720'
+S'Paramjeet Singh'
+tp69
+a(S'732960358'
+S'Swee Krity'
+tp70
+a(S'1031096367'
+S'Prashant Gupta'
+tp71
+a(S'1048105330'
+S'Ramesh Bachani'
+tp72
+a(S'100000219278246'
+S'Mukti Kant Khare'
+tp73
+a(S'1100433121'
+S'Rajesh Piplani'
+tp74
+a(S'1465966631'
+S'Sunil Bajpai'
+tp75
+a(S'100002904670562'
+S'Satish Goyal'
+tp76
+a(S'672500233'
+S'Vaibhav Modi'
+tp77
+a(S'667462707'
+S'Ramendra Agarwal'
+tp78
+a(S'678921450'
+S'Mini Verma'
+tp79
+a(S'1052958592'
+S'Adarsh Modi'
+tp80
+a(S'747240796'
+S'Girdhar Lal Tripathi'
+tp81
+a(S'1001388084'
+S'Sanjiv Puri'
+tp82
+a(S'1115444668'
+S'Mithilesh Jha'
+tp83
+a(S'738339999'
+S'Pathlavath Peerya'
+tp84
+a(S'100000280374252'
+S'Anand Upadhyay'
+tp85
+a(S'1018072085'
+S'Navaneet Kumar'
+tp86
+asS'id'
+p87
+S'1288876382'
+p88
+sS'current_link'
+p89
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D18.975000641097%252C%2B72.825622558594%26name%3DMumbai%252C%2BMaharashtra%252C%2BIndia%26mkt%3Den-IN&h=xAQHCnE96&s=1
+p90
+s.

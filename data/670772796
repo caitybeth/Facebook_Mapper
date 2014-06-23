@@ -1,0 +1,277 @@
+(dp1
+S'name'
+p2
+S'Paramita M. Biswas'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vhometown, street number 104, sub-central business district(action area 1), action area i, rajarhat newtown, kolkata, west bengal 700156, india
+p7
+sS'home_text'
+p8
+VCalcutta, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D22.569700842892%252C%2B88.368530273438%26name%3DCalcutta%252C%2BIndia%26mkt%3Den-IN&h=SAQHWfQhG&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D22.569700842892%252C%2B88.368530273438%26name%3DCalcutta%252C%2BIndia%26mkt%3Den-IN&h=GAQH7Ym8E&s=1
+p13
+sS'current_text'
+p14
+VCalcutta, India\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'1766106525'
+S'Sarita Kumari'
+tp18
+a(S'543760762'
+S'Anand Kumar Kedia'
+tp19
+a(S'538653987'
+S'Sumit Kaur'
+tp20
+a(S'724163872'
+S'Sanjiv Singh'
+tp21
+a(S'100002530303802'
+S'Madhusudan Kodimyala'
+tp22
+a(S'566448852'
+S'Debjyoti Das'
+tp23
+a(S'100000394234831'
+S'Rajesh Bhoot'
+tp24
+a(S'100002551502121'
+S'Ranjan Srivastava'
+tp25
+a(S'1427913667'
+S'Meeta Singh'
+tp26
+a(S'100002447500771'
+S'Swati Joshi'
+tp27
+a(S'1480530641'
+S'Sree Kar'
+tp28
+a(S'827198747'
+S'Kranti Biswas'
+tp29
+a(S'1466015771'
+S'Jasdeep Singh'
+tp30
+a(S'1040277860'
+S'Nrusingh Swain'
+tp31
+a(S'1107802857'
+S'Amol Kamat'
+tp32
+a(S'1222036565'
+S'Sanjay Tripathi'
+tp33
+a(S'780843935'
+S'Ashish Abrol'
+tp34
+a(S'1639442933'
+S'Sanjay Kumar'
+tp35
+a(S'100000012799375'
+S'Santosh Amat'
+tp36
+a(S'1573729708'
+S'Chittaranjan Dash'
+tp37
+a(S'723659016'
+S'Gyeltshen Bhutan'
+tp38
+a(S'1844194497'
+S'Satya Prasant P'
+tp39
+a(S'100002244798938'
+S'Richa Khoda'
+tp40
+a(S'1358205707'
+S'Uma Venkatesan'
+tp41
+a(S'696414738'
+S'Vikram Gulati'
+tp42
+a(S'100003224998403'
+S'Sreeparna Dasgupta'
+tp43
+a(S'100002457624706'
+S'Shyam Adhikari'
+tp44
+a(S'646617673'
+S'Khyati Sharma'
+tp45
+a(S'565959635'
+S'Surendra Sharma'
+tp46
+a(S'627089234'
+S'Ajay Kumar'
+tp47
+a(S'599085641'
+S'Balvinder Kaur'
+tp48
+a(S'1393023706'
+S'Ranjita Mandal'
+tp49
+a(S'567708456'
+S'Shishir Srivastava'
+tp50
+a(S'780496978'
+S'Rajesh Gupta'
+tp51
+a(S'100000050780700'
+S'Subrata Biswas'
+tp52
+a(S'1608699390'
+S'Amrita Misra'
+tp53
+a(S'100000035288462'
+S'Himanshu Shekhar Sinha'
+tp54
+a(S'563126066'
+S'Vanita Sharma'
+tp55
+a(S'1552910105'
+S'Deepika Mittal'
+tp56
+a(S'100001618051204'
+S'Chandan Banerjee'
+tp57
+a(S'1268415419'
+S'Sangeeta Singh'
+tp58
+a(S'100000647556818'
+S'Sanjay Gupta'
+tp59
+a(S'1423512455'
+S'Archana Sharma'
+tp60
+a(S'1582472935'
+S'Vatsalya Saxena'
+tp61
+a(S'100002221931926'
+S'Sunita Singh'
+tp62
+a(S'100001062952469'
+S'Satender Singh Rana'
+tp63
+a(S'1508636113'
+S'Sunita Billa'
+tp64
+a(S'707279394'
+S'Mahua Sarkar'
+tp65
+a(S'1587991248'
+S'Virendra Ojha'
+tp66
+a(S'100007313765117'
+S'Jitendra Narain'
+tp67
+a(S'100003808518806'
+S'Ravi Ramachandran'
+tp68
+a(S'590153464'
+S'Rolee Agarwal'
+tp69
+a(S'100001681252194'
+S'Kalpana Kataria'
+tp70
+a(S'612136466'
+S'Arunav Mandal'
+tp71
+a(S'100006091536066'
+S'Ratan Singh'
+tp72
+a(S'1554637083'
+S'Gurusharan Singh'
+tp73
+a(S'1294811900'
+S'Naren Jangpangi'
+tp74
+a(S'561431554'
+S'Sudhanshu Dhar Mishra'
+tp75
+a(S'100000660555474'
+S'Barnali Roychowdhury'
+tp76
+a(S'1340474143'
+S'Prasad Reddy'
+tp77
+a(S'522102016'
+S'Shumeet Dai'
+tp78
+a(S'1824758200'
+S'Raman Chopra'
+tp79
+a(S'562981106'
+S'Mamta Kochar'
+tp80
+a(S'573032079'
+S'Shravan Gotru'
+tp81
+a(S'1472344034'
+S'Kc Badhok'
+tp82
+a(S'583196922'
+S'Jaidip Sarkar'
+tp83
+a(S'1465966631'
+S'Sunil Bajpai'
+tp84
+a(S'787449132'
+S'David Bay Appel'
+tp85
+a(S'100000166515109'
+S'Savita Bundas'
+tp86
+a(S'100000214695551'
+S'Komal Jogpal'
+tp87
+a(S'1484520200'
+S'Sunil Chander Sharma'
+tp88
+a(S'1062541387'
+S'Rajgopal Sharma'
+tp89
+a(S'1465873496'
+S'Aprajita Kashyap'
+tp90
+a(S'100001956117610'
+S'Subhakant Sahu'
+tp91
+a(S'100002406356640'
+S'Vivekanandan Vimalanandan'
+tp92
+a(S'1379745728'
+S'Ashok Kardam'
+tp93
+a(S'1234507026'
+S'Amaresh Singh'
+tp94
+a(S'100002588226238'
+S'Ishtiyaque Ahmed'
+tp95
+a(S'100000280374252'
+S'Anand Upadhyay'
+tp96
+a(S'100001484205123'
+S'Rajesh Ranjan Prasad'
+tp97
+asS'id'
+p98
+S'670772796'
+p99
+s.

@@ -1,0 +1,277 @@
+(dp1
+S'name'
+p2
+S'Parashivaiah Kullaiah'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vbangalore, karnataka, india
+p7
+sS'home_text'
+p8
+VBangalore, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D12.983300614779%252C%2B77.582702636719%26name%3DBangalore%252C%2BIndia%26mkt%3Den-IN&h=gAQETCLIc&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D12.983300614779%252C%2B77.582702636719%26name%3DBangalore%252C%2BIndia%26mkt%3Den-IN&h=QAQFsB5tp&s=1
+p13
+sS'current_text'
+p14
+VBangalore, India\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100003554515692'
+S'Sundari Naik'
+tp18
+a(S'100001581495969'
+S'Suresh Ramu'
+tp19
+a(S'100002975861975'
+S'Chinnaswamy Janarthan'
+tp20
+a(S'5744345'
+S'Ravi Kiran'
+tp21
+a(S'1490490599'
+S'Rahul Navin'
+tp22
+a(S'100000593772952'
+S'Shyamsundar Keshkamat'
+tp23
+a(S'100005612167090'
+S'Raghu R Irs'
+tp24
+a(S'100000546766803'
+S'Shashidhar Shet'
+tp25
+a(S'1107802857'
+S'Amol Kamat'
+tp26
+a(S'1737208500'
+S'Yashwant Bhaskar'
+tp27
+a(S'100000537302063'
+S'Praveen Karanth'
+tp28
+a(S'1466015771'
+S'Jasdeep Singh'
+tp29
+a(S'100001925466951'
+S'Bharathi Devate'
+tp30
+a(S'1496400927'
+S'Shyam Benupani'
+tp31
+a(S'747891867'
+S'DrNarendra Naik'
+tp32
+a(S'713170827'
+S'Shahid Khan'
+tp33
+a(S'1656909542'
+S'Binod Kumar Singh'
+tp34
+a(S'1503135308'
+S'Kalpalata Rajan'
+tp35
+a(S'780843935'
+S'Ashish Abrol'
+tp36
+a(S'1445354855'
+S'Vijayakumar Shetty'
+tp37
+a(S'742471799'
+S'Fouzia Taranum B'
+tp38
+a(S'100000899026455'
+S'Srikant Virgincar'
+tp39
+a(S'1762016654'
+S'Manjunath Karkihalli'
+tp40
+a(S'1724600839'
+S'Narayana Sharma'
+tp41
+a(S'100001349758311'
+S'Dharma Raju'
+tp42
+a(S'773649540'
+S'Janardhan Sanathan'
+tp43
+a(S'100000887596061'
+S'Shwetha Nischal'
+tp44
+a(S'799138135'
+S'Shefali Swaroop'
+tp45
+a(S'100000886552883'
+S'Krishna Nayak'
+tp46
+a(S'100001028809136'
+S'Rashmi Harsha'
+tp47
+a(S'100000652928882'
+S'Anurradaa S Goyal'
+tp48
+a(S'100000175177243'
+S'Shubha Sudhi'
+tp49
+a(S'1311446659'
+S'Sant Mantri'
+tp50
+a(S'1216435107'
+S'Rajeev Ranade'
+tp51
+a(S'1438047944'
+S'Amrish Bedi'
+tp52
+a(S'526063521'
+S'Rohit Kumar'
+tp53
+a(S'1205814760'
+S'Sanjiv Shankar'
+tp54
+a(S'1595192653'
+S'Sibichen Mathew'
+tp55
+a(S'100000750502328'
+S'Kumar GN'
+tp56
+a(S'100001306655772'
+S'Sastry Pendyala'
+tp57
+a(S'1115045329'
+S'Srinivasa KJ Ifs'
+tp58
+a(S'100000371091029'
+S'Latha Sateesh'
+tp59
+a(S'1508636113'
+S'Sunita Billa'
+tp60
+a(S'100002406356640'
+S'Vivekanandan Vimalanandan'
+tp61
+a(S'100002262353206'
+S'DrShweta Mishra'
+tp62
+a(S'665872814'
+S'KN Vinod'
+tp63
+a(S'789468621'
+S'Arun S Bhatnagar'
+tp64
+a(S'1457263756'
+S'Rajendra Karnawat'
+tp65
+a(S'1144740205'
+S'Murali Marappan'
+tp66
+a(S'601489260'
+S'Sunanda Seetharam'
+tp67
+a(S'100002103215315'
+S'Satya Tiwari'
+tp68
+a(S'100001383978744'
+S'Sopan Khillare'
+tp69
+a(S'100001963035825'
+S'Gm Doss'
+tp70
+a(S'839654303'
+S'Poonam Khaira Sidhu'
+tp71
+a(S'100000167159158'
+S'Sujatha Narendra'
+tp72
+a(S'100000565516679'
+S'Nagesh Rao K S'
+tp73
+a(S'1256533273'
+S'Meena Mahesh'
+tp74
+a(S'655809884'
+S'Ravichandran Ramasamy'
+tp75
+a(S'1220300255'
+S'Rashmi Murthy'
+tp76
+a(S'1481021910'
+S'Nagabhushana Maravanthe'
+tp77
+a(S'1218107595'
+S'Arun C. Bharat'
+tp78
+a(S'1489404274'
+S'Gnanamurthy Narasimha'
+tp79
+a(S'100002523043072'
+S'Rajanikant Gupta'
+tp80
+a(S'100002448528845'
+S'Archana Choudhary'
+tp81
+a(S'1014253983'
+S'Prabhakar Gowribidanur'
+tp82
+a(S'100002447500771'
+S'Swati Joshi'
+tp83
+a(S'100001584586028'
+S'Rajendra Prasad B B'
+tp84
+a(S'1040277860'
+S'Nrusingh Swain'
+tp85
+a(S'100000258296317'
+S'Ks Narayana Swamy Swamy'
+tp86
+a(S'1484520200'
+S'Sunil Chander Sharma'
+tp87
+a(S'1115496790'
+S'Amrita Ranjan'
+tp88
+a(S'100002017483503'
+S'Salil Khare'
+tp89
+a(S'1606870376'
+S'Savitha Bagalkot'
+tp90
+a(S'1006741620'
+S'Narasimha Raju'
+tp91
+a(S'100001908142529'
+S'Thyagaraja Ps'
+tp92
+a(S'1126458334'
+S'Shrikar Pardeshi'
+tp93
+a(S'100000730123009'
+S'Satish Gopalan'
+tp94
+a(S'1646598511'
+S'Kollur Showdappa Narayanaswamy'
+tp95
+a(S'100000280374252'
+S'Anand Upadhyay'
+tp96
+a(S'100000417199565'
+S'Gangadhar Panda'
+tp97
+asS'id'
+p98
+S'100001622109631'
+p99
+s.

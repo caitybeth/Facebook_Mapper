@@ -1,0 +1,43 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100008377443859'
+S'Shamsullah Wesal'
+tp4
+a(S'100003983718598'
+S'Shah Nawaz'
+tp5
+a(S'100002156486242'
+S'\\u0639\\u0628\\u062f\\u0627\\u0644\\u0631\\u062d\\u0645\\u0646 \\u0635\\u0644\\u062d'
+tp6
+a(S'100000610732062'
+p7
+S'Abdul Rahman Shagiwal'
+tp8
+a(S'100008297741629'
+S'\\u0628\\u0631\\u064a\\u0627\\u0644 \\u062a\\u0631\\u0647 \\u0643\\u0649'
+tp9
+a(S'100006304027467'
+S'Israr Khan'
+tp10
+a(S'100008064127854'
+S'Ahmad Khan'
+tp11
+a(S'100008329111122'
+S'Najm Pak'
+tp12
+a(S'100008301171908'
+S'Faizal Shaikh'
+tp13
+a(S'100006398556721'
+S'Umar Khan'
+tp14
+asS'id'
+p15
+g7
+sS'name'
+p16
+S'Abdul Rahman Shagiwal'
+p17
+s.

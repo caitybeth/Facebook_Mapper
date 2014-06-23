@@ -1,0 +1,379 @@
+(dp1
+S'name'
+p2
+S'Zahra Aamer'
+p3
+sS'current_class'
+p4
+S'pakistan'
+p5
+sS'home_class'
+p6
+Vlahore, pakistan
+p7
+sS'home_text'
+p8
+VLahore, Pakistan\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D31.549700669186%252C%2B74.343109130859%26name%3DLahore%252C%2BPakistan%26mkt%3Den-IN&h=5AQHpIP7t&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D31.549700669186%252C%2B74.343109130859%26name%3DLahore%252C%2BPakistan%26mkt%3Den-IN&h=dAQFb7sXA&s=1
+p13
+sS'current_text'
+p14
+VLahore, Pakistan\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'1375393600'
+S'Saad Maqsood'
+tp18
+a(S'100001307230346'
+S'Mehlab Jameel'
+tp19
+a(S'1808606792'
+S'Ilhaam Durrani'
+tp20
+a(S'710550236'
+S'Basmah Sakrani'
+tp21
+a(S'1370600390'
+S'Hassan Ishtiaq'
+tp22
+a(S'608070281'
+S'Rena Naqvi'
+tp23
+a(S'541735380'
+S'Amena Akram Hayat'
+tp24
+a(S'521980300'
+S'Ayza Bukhari'
+tp25
+a(S'511480834'
+S'Mahim Naveed'
+tp26
+a(S'571550536'
+S'Tania Sarfraz'
+tp27
+a(S'513735539'
+S'Zulfiqar Jabbar Khan'
+tp28
+a(S'511918837'
+S'Tania Zahidi'
+tp29
+a(S'1189855251'
+S'Aroosa Ijaz'
+tp30
+a(S'100003723400702'
+S'Minahil Amin'
+tp31
+a(S'100001220971979'
+S'Hira Salahuddin'
+tp32
+a(S'1050767630'
+S'Maheen Jahangir Nawabi'
+tp33
+a(S'100000029730531'
+S'Saima Abbas'
+tp34
+a(S'100000532385490'
+S'Kausar Shah'
+tp35
+a(S'100000233773821'
+S'Rabia Riaz'
+tp36
+a(S'547985286'
+S'Noor Ul Sabah Hussain'
+tp37
+a(S'1431676534'
+S'Atif Yasin'
+tp38
+a(S'1010231186'
+S'Meriam Saeed'
+tp39
+a(S'1610802675'
+S'Hananiah Beatrice'
+tp40
+a(S'674778092'
+S'Noorya Hayat'
+tp41
+a(S'100003322002949'
+S'Fatima Khan'
+tp42
+a(S'735160853'
+S'Natasha Khan'
+tp43
+a(S'100003201392248'
+S'DurreSameen Mirza'
+tp44
+a(S'719053145'
+S'Rumessa Abid Naqvi'
+tp45
+a(S'100000305515850'
+S'Sara Malik'
+tp46
+a(S'100001626787850'
+S'Xaid Khan'
+tp47
+a(S'723594611'
+S'Mahnoor Arshad'
+tp48
+a(S'863400117'
+S'Aaminah Sulaiman'
+tp49
+a(S'100002964746656'
+S"Sara's Rhinestones"
+tp50
+a(S'100000292791423'
+S'Rubab Shah'
+tp51
+a(S'622993101'
+S'Ayesha Fayyaz'
+tp52
+a(S'1130101756'
+S'Aisha Mushtaq'
+tp53
+a(S'100000654688892'
+S'Huda Kamran'
+tp54
+a(S'589035739'
+S'Amna Sultan'
+tp55
+a(S'836548350'
+S'Zarmina Khan'
+tp56
+a(S'900675264'
+S'Fatima Javed'
+tp57
+a(S'100004994972670'
+S'Xainab Haider'
+tp58
+a(S'100000807245993'
+S'Mahnoor Ather'
+tp59
+a(S'100004706433722'
+S'Asad Khan'
+tp60
+a(S'100001615269732'
+S'Wardah Ejaz'
+tp61
+a(S'851050533'
+S'Hadiqa Khan'
+tp62
+a(S'675633614'
+S'Tehniyat Nadir Ijaz'
+tp63
+a(S'650740112'
+S'Farwa Akhtar'
+tp64
+a(S'1281859948'
+S'Aakif Sultan'
+tp65
+a(S'100003548064685'
+S'Priya Sajjad'
+tp66
+a(S'100001061415139'
+S'Wajeeha Badar'
+tp67
+a(S'1322559303'
+S'Hina Hur'
+tp68
+a(S'712095440'
+S'Najia Sabahat Khan'
+tp69
+a(S'100003677240823'
+S'Zainab Zakira'
+tp70
+a(S'743402378'
+S'Rameez Abrar'
+tp71
+a(S'506361953'
+S'Zohra Nasir'
+tp72
+a(S'540355206'
+S'Hira Hur'
+tp73
+a(S'702296407'
+S'Minnan Ayesha'
+tp74
+a(S'703372737'
+S'Aniqa Sardar'
+tp75
+a(S'766980536'
+S'Momina Mustehsan'
+tp76
+a(S'1303492564'
+S'Ribka Meer'
+tp77
+a(S'672540343'
+S'Jamal Nasir'
+tp78
+a(S'709349157'
+S'Zeenia R. Mian'
+tp79
+a(S'1783100037'
+S'Sana Saleem'
+tp80
+a(S'676813268'
+S'Danish Jalil'
+tp81
+a(S'566071646'
+S'Maria Hayat'
+tp82
+a(S'100001734870834'
+S'Affaf Rahman'
+tp83
+a(S'593556391'
+S'Maryam Muhammad'
+tp84
+a(S'655046832'
+S'Najma Liaqat'
+tp85
+a(S'100001839557074'
+S'Rafia Murtaza'
+tp86
+a(S'867415081'
+S'Turaab Khan'
+tp87
+a(S'1524760409'
+S'Khadijah Shah'
+tp88
+a(S'747320194'
+S'Maha Yaqub'
+tp89
+a(S'1257730653'
+S'Maarya Shaikh'
+tp90
+a(S'1011915417'
+S'Muhammad Maaz Kamal'
+tp91
+a(S'606110287'
+S'Syeda Ramla Hassan'
+tp92
+a(S'1303021209'
+S'Akasha Amjad'
+tp93
+a(S'511446241'
+S'Sidra Reza'
+tp94
+a(S'652061470'
+S'Aroosha Ahmad'
+tp95
+a(S'1517070846'
+S'Saher Masood'
+tp96
+a(S'600585596'
+S'Manahil Mansoor'
+tp97
+a(S'684889615'
+S'Umair Munir'
+tp98
+a(S'701799950'
+S'Ruba Sarwar'
+tp99
+a(S'517501518'
+S'Saliha Masood'
+tp100
+a(S'100006465587938'
+S'Ayesha Dar'
+tp101
+a(S'1478644006'
+S'Muhammad Usman Zia'
+tp102
+a(S'100003126821644'
+S'Mateen Hafeez'
+tp103
+a(S'100002832616522'
+S'Aimen Durrani'
+tp104
+a(S'100000202222624'
+S'Sohaib Abdul Rahman'
+tp105
+a(S'517174323'
+S'Hira Pervaiz'
+tp106
+a(S'100000203103059'
+S'Mujahid Murtaza'
+tp107
+a(S'1602401312'
+S'Apsra Nasir'
+tp108
+a(S'549752921'
+S'Bushra Ali'
+tp109
+a(S'637291690'
+S'Hafeez urrehman'
+tp110
+a(S'722740899'
+S'Mahaa Saeed'
+tp111
+a(S'502017804'
+S'Haneen Mansoor'
+tp112
+a(S'100007631653442'
+S'Mohammad Ali Aamer'
+tp113
+a(S'541816180'
+S'Verda Kamal'
+tp114
+a(S'523249895'
+S'Maleeha Naqvi'
+tp115
+a(S'675415890'
+S'Saim Sadiq'
+tp116
+a(S'868915076'
+S'Haider Khan'
+tp117
+a(S'100000289472616'
+S'Quratulain Zahid Sheikh'
+tp118
+a(S'100007230781288'
+S'Darwin Khan'
+tp119
+a(S'693320019'
+S'Fatima J Khan'
+tp120
+a(S'100001281580875'
+S'Ahmed Qureshi'
+tp121
+a(S'801792225'
+S'Ali Zeeshan'
+tp122
+a(S'842270573'
+S'Hajra Hur'
+tp123
+a(S'575185709'
+S'Habiba Malik'
+tp124
+a(S'100007404101224'
+S'Mehru Maneka'
+tp125
+a(S'862705401'
+S'Maryam Ahmad'
+tp126
+a(S'1787113733'
+S'Mohammad Ali Aamer'
+tp127
+a(S'558270183'
+S'Meshaal Perwaiz Khan'
+tp128
+a(S'573036216'
+S'Soha Tariq'
+tp129
+a(S'869565726'
+S'Marium Wasim'
+tp130
+a(S'550330453'
+S'Areesha Banglani'
+tp131
+asS'id'
+p132
+S'100004742589385'
+p133
+s.

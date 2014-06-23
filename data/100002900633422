@@ -1,0 +1,217 @@
+(dp1
+S'name'
+p2
+S'Umer Usman'
+p3
+sS'current_class'
+p4
+Vlondon, uk
+p5
+sS'home_class'
+p6
+Vlondon, uk
+p7
+sS'home_text'
+p8
+VLondon, United Kingdom\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D51.507199912582%252C%2B-0.12771606445312%26name%3DLondon%252C%2BUnited%2BKingdom%26mkt%3Den-IN&h=0AQGn4dP7&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D51.507199912582%252C%2B-0.12771606445312%26name%3DLondon%252C%2BUnited%2BKingdom%26mkt%3Den-IN&h=fAQEwDd7k&s=1
+p13
+sS'current_text'
+p14
+VLondon, United Kingdom\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100000118378509'
+S'CH Asad Mehmood'
+tp18
+a(S'100000554418515'
+S'Shakil Ahmed'
+tp19
+a(S'100006267215254'
+S'Waqas Khan'
+tp20
+a(S'100002069868125'
+S'Usman Butt'
+tp21
+a(S'100002300928901'
+S'\\u0627\\u0633\\u062f \\u0641\\u0627\\u0631\\u0648\\u0642'
+tp22
+a(S'100006760560220'
+S'Ali Khan Khan'
+tp23
+a(S'100005917590245'
+S'Qasir Hussain'
+tp24
+a(S'659549697'
+S'Bobby Jamshaid Khokhar'
+tp25
+a(S'100006618189499'
+S'Tayyba Umer'
+tp26
+a(S'100002924959640'
+S'Ch Bilal Lali Pml-n'
+tp27
+a(S'1119914213'
+S'Khaleel Khan'
+tp28
+a(S'100000940994151'
+S'Mohammad Mohsin Javeed'
+tp29
+a(S'100005305659140'
+S'Muhammad Ismaiel'
+tp30
+a(S'100004400972073'
+S'Noman Nomi'
+tp31
+a(S'100006683018466'
+S'Sher Miandad Khan Qawal'
+tp32
+a(S'100001568992006'
+S'Naveed Khan'
+tp33
+a(S'100007126092724'
+S'Mansoor Raja'
+tp34
+a(S'100001016614366'
+S'Mohammad Irfan Khan Sadozai'
+tp35
+a(S'100007130374946'
+S'Zayn Khan'
+tp36
+a(S'100001440464723'
+S'Ahmed Imtiaz'
+tp37
+a(S'100004577100516'
+S'Hafeez M Hafeez Kiayani'
+tp38
+a(S'100004708208420'
+S'Nawabzada Zargam Bugti'
+tp39
+a(S'100003534759166'
+S'Humaira Arshad'
+tp40
+a(S'100005001816758'
+S'Malik Abid Malik Malik'
+tp41
+a(S'100007614997145'
+S'Shabaaz Raheem'
+tp42
+a(S'100004032810439'
+S'Jamil Mani'
+tp43
+a(S'100002298882267'
+S'Saadullah Khan'
+tp44
+a(S'100002348810417'
+S'Huma Nazir'
+tp45
+a(S'100004429472078'
+S'Ch Sarfraz Afzal'
+tp46
+a(S'100000237776818'
+S'Asad Khan'
+tp47
+a(S'100005941324923'
+S'Roomi Jamal'
+tp48
+a(S'100003443904544'
+S'Waqar Saleem'
+tp49
+a(S'100001765952937'
+S'Zubair Khan Niazi'
+tp50
+a(S'100004040777642'
+S'Sheikh Wahab'
+tp51
+a(S'100004827522225'
+S'Faizi Shah G'
+tp52
+a(S'100002927577476'
+S'Mian Ijaz'
+tp53
+a(S'1049162709'
+S'Tiger Choudhry'
+tp54
+a(S'100008035269833'
+S'Muhammad Irfan'
+tp55
+a(S'100000691424581'
+S'Fazal Muqeem'
+tp56
+a(S'100005259396075'
+S'Asif Raza'
+tp57
+a(S'100002589035603'
+S'Wasim Khan'
+tp58
+a(S'100002917764270'
+S'Aslam Khan'
+tp59
+a(S'100003713536874'
+S'MiAn BilAl'
+tp60
+a(S'100005769493088'
+S'Khurram Rehman'
+tp61
+a(S'100005534258536'
+S'Nasar Khan'
+tp62
+a(S'100003672014256'
+S'Innocent Shary'
+tp63
+a(S'100001558400722'
+S'Daniyal Dani'
+tp64
+a(S'100007265921878'
+S'Shiran DY Beli Shair'
+tp65
+a(S'100004065665572'
+S'Waji Dar'
+tp66
+a(S'100007499342747'
+S'Usman Tahira'
+tp67
+a(S'100000634334539'
+S'Zeeshan Mehmood Shan'
+tp68
+a(S'100002363688811'
+S'Rahat Ullah'
+tp69
+a(S'100000902647886'
+S'Junaid Hanif Chohan'
+tp70
+a(S'100000378917488'
+S'Haseeb Jutt'
+tp71
+a(S'1219601526'
+S'Syed Kausar Abbas Bokhari'
+tp72
+a(S'100002830710396'
+S'ChoUdhary Danish'
+tp73
+a(S'100001110045282'
+S'Muhammad Ibrahim'
+tp74
+a(S'100003146288171'
+S'Malik Azeem Pti Rwp'
+tp75
+a(S'100008147983387'
+S'Naseem Vicky'
+tp76
+a(S'100001932004036'
+S'Hassan Gulls'
+tp77
+asS'id'
+p78
+S'100002900633422'
+p79
+s.

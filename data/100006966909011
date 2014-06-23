@@ -1,0 +1,364 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100001833301640'
+p4
+S'Love Pakistan'
+tp5
+a(S'100006054547898'
+p6
+S'Wadaar Baloch'
+tp7
+a(S'100008241520708'
+p8
+S'Umar Farooq'
+tp9
+a(S'100002013631746'
+p10
+S'Mir Akbar Khan Raisani'
+tp11
+a(S'100000075388950'
+p12
+S'Imam Bugti'
+tp13
+a(S'1543756421'
+S'Kashif Minhas'
+tp14
+a(S'100000109111113'
+p15
+S'Umar Farooq'
+tp16
+a(S'100001026986742'
+p17
+S'A Wahid Sandhu'
+tp18
+a(S'100006180125558'
+p19
+S'Mukhtiar Ali Katohar Baloch'
+tp20
+a(S'100005072471781'
+S'Shahwani King'
+tp21
+a(S'100002359094587'
+p22
+S'Kamran Raja'
+tp23
+a(S'100005414799852'
+p24
+S'Mohammad Ibrahim'
+tp25
+a(S'610874917'
+S'Kishver Niazi'
+tp26
+a(S'100003331011790'
+p27
+S'Abeera Raja'
+tp28
+a(S'100004562460706'
+S'Sun Moon'
+tp29
+a(S'100003142826273'
+S'\\u0646\\u0648\\u0634\\u06cc\\u0646 \\u0645\\u06cc\\u0646\\u06af\\u0644'
+tp30
+a(S'100002768724292'
+S'Syed Hussain'
+tp31
+a(S'100005209261117'
+p32
+S'Mir Zaman Gurginary'
+tp33
+a(S'100005781455814'
+p34
+S'Rana E Pakistan'
+tp35
+a(S'100006190720258'
+S'Shanzy Hassan'
+tp36
+a(S'100005356481330'
+p37
+S'Salman Baloch Kalpar'
+tp38
+a(S'100002399567939'
+p39
+S'Zakria Zaki M Hassni'
+tp40
+a(S'1015549710'
+S'Javed Raja'
+tp41
+a(S'100004515005348'
+S'Ch Shoaib Warraich'
+tp42
+a(S'100000944481417'
+p43
+S'Rizwan Shafqat'
+tp44
+a(S'573398237'
+S'Nazrul Haque'
+tp45
+a(S'100002058154536'
+S'Namo Khan'
+tp46
+a(S'100005190368181'
+p47
+S'Syed Faisal Shah Bukhari'
+tp48
+a(S'1108881571'
+p49
+S'Zohaib Baig'
+tp50
+a(S'100005212081296'
+p51
+S'Naveed Faisal'
+tp52
+a(S'100007458150986'
+p53
+S'Nazir Khan Pak Istani'
+tp54
+a(S'100001675723467'
+p55
+S'Waqas Yousuf'
+tp56
+a(S'100003551188670'
+p57
+S'Uzair Saifi'
+tp58
+a(S'100005151940316'
+S'Mohammad Arif Raisani'
+tp59
+a(S'100001813880734'
+p60
+S'Ali Jan'
+tp61
+a(S'100007517704246'
+S'Ashrafali Sahil'
+tp62
+a(S'636034353'
+p63
+S'Pakistan Tuje Salaam'
+tp64
+a(S'100004095607699'
+p65
+S'Pakistan Force'
+tp66
+a(S'100007074430859'
+S'Sierra Romeo'
+tp67
+a(S'100006602526623'
+S'King Xuang'
+tp68
+a(S'100005119540612'
+S'Sabtain Ghani'
+tp69
+a(S'100007924925123'
+p70
+S'Enigmatic Phoenix'
+tp71
+a(S'100003232078514'
+p72
+S'Jehanzeb Gondal'
+tp73
+a(S'100003320233189'
+S'Nawabzada Shadain Khan Shahwani'
+tp74
+a(S'100007474723805'
+S'Dev Zeus'
+tp75
+a(S'100000993827086'
+p76
+S'Umer Ali'
+tp77
+a(S'100006597845228'
+p78
+S'Ishtiaq Ahmed Jellani'
+tp79
+a(S'100007934252287'
+p80
+S'Chacha Boota'
+tp81
+a(S'100002213193765'
+S'Waseem Hussain'
+tp82
+a(S'100006789845470'
+S'Zia Ullah Bugti'
+tp83
+a(S'100004748802619'
+S'Shakeel Kiyani'
+tp84
+a(S'100002405885990'
+p85
+S'Pakistan Love'
+tp86
+a(S'100007122456110'
+S'Akhtiyar Ali Katohar Baloch'
+tp87
+a(S'100007859049599'
+S'Muhamad Nadeem'
+tp88
+a(S'100003752957778'
+S'Waqas Mengal'
+tp89
+a(S'100005133330604'
+S'Ayesha Hammad'
+tp90
+a(S'100002739109774'
+p91
+S'Imrankhan Sherkhan'
+tp92
+a(S'100002314717402'
+S'Jhagra RaJput'
+tp93
+a(S'100002602509203'
+S'Minhas Mazhar'
+tp94
+a(S'100004738118613'
+p95
+S'Ahmed Bakhsh'
+tp96
+a(S'100003986754241'
+S'Vicky Gee'
+tp97
+a(S'100005604193666'
+p98
+S'Sardarzada GurGinary'
+tp99
+a(S'100005037016280'
+S'Rashid Phatan'
+tp100
+a(S'100007140720635'
+S'Abadulhassan Hunjra'
+tp101
+a(S'100008344542589'
+S'Hammal Baloch'
+tp102
+a(S'100002650650704'
+S'Muhammad Zia Ul Haq'
+tp103
+a(S'100000457668240'
+S'Gtv Gujrat Pak'
+tp104
+a(S'100006181774891'
+S'Umar Khan'
+tp105
+a(S'100006109842448'
+p106
+S'Awaz E Pakistan'
+tp107
+a(S'100005739455864'
+p108
+S'Asif Mansoor'
+tp109
+a(S'100000923262378'
+S'Rao Aamir'
+tp110
+a(S'100005521565497'
+S'Mhpoonchi Mhpoonchi'
+tp111
+a(S'100006482904663'
+S'Said Kamal'
+tp112
+a(S'100004096848452'
+S'Binty Ayesha'
+tp113
+a(S'100007305965238'
+p114
+S'Mian Muzammil'
+tp115
+a(S'100007988072284'
+S'Muhammad Rizwan'
+tp116
+a(S'100008033258441'
+p117
+S'Paakistan Ka Janbazz Beta'
+tp118
+a(S'100002751150854'
+S'Muhammad Asad'
+tp119
+a(S'597822714'
+S'Rauf Rafique Dar'
+tp120
+a(S'100007318512099'
+S'Akram Jamali'
+tp121
+a(S'100003086442561'
+p122
+S'Ghulam Fakhar Ud Din'
+tp123
+a(S'100001021811162'
+S'Tariq Gilani'
+tp124
+a(S'100007461425520'
+S'Khawar Khan'
+tp125
+a(S'100001669544920'
+p126
+S'Ashraf Nawaz'
+tp127
+a(S'100005841817557'
+p128
+S'Ali Rehman'
+tp129
+a(S'1488651795'
+p130
+S'Hasrat Kiani'
+tp131
+a(S'100006673683767'
+S'Qasim Tahir'
+tp132
+a(S'100005011741675'
+p133
+S'M Zahid Zahid'
+tp134
+a(S'100005943604125'
+p135
+S'Anti-baloch Libration-army Terrorism'
+tp136
+a(S'100003617178749'
+p137
+S'Pakistan Zindabad'
+tp138
+a(S'100006071050799'
+p139
+S'Mera Ishq Pakistan'
+tp140
+a(S'100005765768229'
+S'Jal Pari'
+tp141
+a(S'100008065260267'
+S'Myn Hoon Baloch'
+tp142
+a(S'100006695467836'
+p143
+S'\\u067e\\u0627\\u06a9\\u0633\\u062a\\u0627\\u0646\\u06cc \\u062c\\u0627\\u0646\\u0628\\u0627\\u0632'
+tp144
+a(S'100004009855403'
+p145
+S'Abrar Bhai'
+tp146
+a(S'100007959060374'
+S'MD Akram Baloch'
+tp147
+a(S'100006677490302'
+p148
+S'Yaseen Choudry'
+tp149
+a(S'100001293577225'
+p150
+S'Javed Iqbal Muhammed'
+tp151
+a(S'100006954872325'
+S'\\u0622\\u0635\\u0641 \\u0639\\u0644\\u06cc \\u0628\\u0644\\u0648 \\u0634\\u064a'
+tp152
+a(S'100004219058939'
+p153
+S'Zaheer Abbas'
+tp154
+asS'id'
+p155
+S'100006966909011'
+p156
+sS'name'
+p157
+S'Pak King Baloch'
+p158
+s.

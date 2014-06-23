@@ -1,0 +1,277 @@
+(dp1
+S'name'
+p2
+S'Avnika Jain'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vnew delhi, delhi, india
+p7
+sS'home_text'
+p8
+VDelhi, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D28.613900916609%252C%2B77.207794189453%26name%3DNew%2BDelhi%252C%2BIndia%26mkt%3Den-IN&h=yAQFm4MfZ&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D28.610000412388%252C%2B77.229766845703%26name%3DDelhi%252C%2BIndia%26mkt%3Den-IN&h=3AQF2uSAv&s=1
+p13
+sS'current_text'
+p14
+VNew Delhi, India\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100000847521941'
+S'Aparna Jain'
+tp18
+a(S'100000106600174'
+S'Lawrence Simte'
+tp19
+a(S'100001289431170'
+S'Paulmi Karjee'
+tp20
+a(S'100004989547636'
+S'Aanchal Tiwari'
+tp21
+a(S'511718961'
+S'Sanchi Jain'
+tp22
+a(S'674663932'
+S'Aishwarya Visweswaran Iyer'
+tp23
+a(S'1823607356'
+S'Akhand Mehta'
+tp24
+a(S'100002200782195'
+S'Priya Arora'
+tp25
+a(S'1002413866'
+S'Khare Ojas'
+tp26
+a(S'100003959722031'
+S'Ashvatth Verma'
+tp27
+a(S'1303501491'
+S'Divya Murugesan'
+tp28
+a(S'597933121'
+S'Abel Thayil'
+tp29
+a(S'100002507078563'
+S'Palak Agarwal'
+tp30
+a(S'100000836100942'
+S'Dipti Roy'
+tp31
+a(S'100004366412846'
+S'Atima Shahi'
+tp32
+a(S'100002173765340'
+S'Tarun Sharma'
+tp33
+a(S'1312204917'
+S'Ribhav Pande'
+tp34
+a(S'100002534448098'
+S'Vikas Bhati'
+tp35
+a(S'100003038321446'
+S'Sani Yadav'
+tp36
+a(S'1837492658'
+S'Mukund Marodia'
+tp37
+a(S'1512532670'
+S'Rachna Jain'
+tp38
+a(S'100002403431652'
+S'Kopal Dixit'
+tp39
+a(S'100000050921608'
+S'Shubham Ruhela'
+tp40
+a(S'512410433'
+S'Rashi Jain'
+tp41
+a(S'100004107336413'
+S'Juhi Prasad'
+tp42
+a(S'100006484982593'
+S'Ananya Mishra'
+tp43
+a(S'100000934338364'
+S'Jordan Kinchum Tshering Namchu'
+tp44
+a(S'100000045652066'
+S'Sonali Verma'
+tp45
+a(S'1389232586'
+S'Shivam Tak'
+tp46
+a(S'1430964312'
+S'Sambhav Jain'
+tp47
+a(S'100002734546767'
+S'Somya Ohri'
+tp48
+a(S'1386973373'
+S'Shaurya Bhatnagar'
+tp49
+a(S'650484040'
+S'Prerna Jain'
+tp50
+a(S'100000722529762'
+S'Tanya Sharma'
+tp51
+a(S'548344709'
+S'Raghav Dahuja'
+tp52
+a(S'1623316433'
+S'Shreya Jain'
+tp53
+a(S'1127534114'
+S'Aahat Mehta'
+tp54
+a(S'591110195'
+S'Vibhuti Batra'
+tp55
+a(S'1593084569'
+S'Sachu Sanil Chemmalakuzhy'
+tp56
+a(S'521826487'
+S'Neha Jain'
+tp57
+a(S'100001063677102'
+S'Sukrit Joshi'
+tp58
+a(S'100001242238362'
+S'Shivam Dixit'
+tp59
+a(S'1103001687'
+S'Ajit Deshpande'
+tp60
+a(S'1764061043'
+S'Juhi Jain'
+tp61
+a(S'100003663829100'
+S'Divya Kundu'
+tp62
+a(S'100003775470137'
+S'Gaurish Kant Shukla'
+tp63
+a(S'555800163'
+S'Eshaan Jain'
+tp64
+a(S'1145055751'
+S'Shantanu Bhattacharjee'
+tp65
+a(S'753547416'
+S'Himaki Kumari'
+tp66
+a(S'100000067600638'
+S'Mihir Kumar'
+tp67
+a(S'100005707712307'
+S'Sonu Chhillar'
+tp68
+a(S'1304161362'
+S'Karan Gupta'
+tp69
+a(S'566778114'
+S'Devangana Tikku'
+tp70
+a(S'100001246589079'
+S'Prakriti Gupta'
+tp71
+a(S'100001063891756'
+S'Anshul Jindal'
+tp72
+a(S'1241481613'
+S'Reuben Das'
+tp73
+a(S'1328145572'
+S'Anurag Banerjee'
+tp74
+a(S'1594178816'
+S'Anshika Garg'
+tp75
+a(S'667946531'
+S'Charu Jain'
+tp76
+a(S'1337460254'
+S'Mitali Poovayya'
+tp77
+a(S'1140208370'
+S'Pranav Mittal'
+tp78
+a(S'609476381'
+S'Rishab Gupta'
+tp79
+a(S'100000622956548'
+S'Gagan Mahajan'
+tp80
+a(S'1838943911'
+S'Harman Kour'
+tp81
+a(S'100000574108871'
+S'Sharika Amin'
+tp82
+a(S'1636386248'
+S'Shourya Awasthi'
+tp83
+a(S'100002270411937'
+S'Rajeev Ghotar'
+tp84
+a(S'1645640382'
+S'Arjoonn Sharma'
+tp85
+a(S'100001095133061'
+S'Isaac George Varghese'
+tp86
+a(S'100002572389930'
+S'Dipesh Kapil'
+tp87
+a(S'100004236704238'
+S'Pragati Mishra'
+tp88
+a(S'100000729759879'
+S'Jeffrey Mathews'
+tp89
+a(S'100001988937930'
+S'Chandrima Attri'
+tp90
+a(S'1264708135'
+S'Saiket Talukdar'
+tp91
+a(S'1212421456'
+S'Rahul Rajkhowa'
+tp92
+a(S'1592499006'
+S'Sweta Jain'
+tp93
+a(S'100006470232837'
+S'Aradhana Mathews'
+tp94
+a(S'100003670816812'
+S'Swati Nigam'
+tp95
+a(S'1567382675'
+S'Vamika Jain'
+tp96
+a(S'100004350031614'
+S'Robin John'
+tp97
+asS'id'
+p98
+S'803745827'
+p99
+s.

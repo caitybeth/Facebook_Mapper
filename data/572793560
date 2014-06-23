@@ -1,0 +1,265 @@
+(dp1
+S'current_text'
+p2
+VNew Delhi, India\u000aCurrent City
+p3
+sS'name'
+p4
+S'Zakir Thomas'
+p5
+sS'current_class'
+p6
+S'india'
+p7
+sS'friends'
+p8
+(lp9
+(S'100004913287115'
+S'Latheef Aravangat'
+tp10
+a(S'1708402022'
+S'Pradeep Bhaskarannair'
+tp11
+a(S'1369226589'
+S'Joe Puthumana'
+tp12
+a(S'100005381442090'
+S'Lalson Thalanad'
+tp13
+a(S'100000468823739'
+S'BV Gopinath'
+tp14
+a(S'1784647163'
+S'Venkateswaran Ramakrishnan'
+tp15
+a(S'585235776'
+S'Rebecca Mathai'
+tp16
+a(S'100000593772952'
+S'Shyamsundar Keshkamat'
+tp17
+a(S'557816144'
+S'Gilli Mehlwal Hazare'
+tp18
+a(S'100000181570580'
+S'Vijayamohanan Pillai'
+tp19
+a(S'612911044'
+S'Upamanyu Basu'
+tp20
+a(S'100000295311177'
+S'Alfie Francis Alappat'
+tp21
+a(S'1181884886'
+S'Pradeep Krishnannair'
+tp22
+a(S'1496400927'
+S'Shyam Benupani'
+tp23
+a(S'713170827'
+S'Shahid Khan'
+tp24
+a(S'100000216930960'
+S'Rupinder Pannu Brar'
+tp25
+a(S'780843935'
+S'Ashish Abrol'
+tp26
+a(S'100002082800506'
+S'Tom Field'
+tp27
+a(S'569954010'
+S'Spark Xt'
+tp28
+a(S'695735265'
+S'Vinod Scaria'
+tp29
+a(S'1175955128'
+S'Abhik Seal'
+tp30
+a(S'502311559'
+S'Nilanjana Sensarkar'
+tp31
+a(S'1539997679'
+S'Beena Zeril'
+tp32
+a(S'673187891'
+S'Ritta Mathew'
+tp33
+a(S'555812484'
+S'Sanjay Bahadur'
+tp34
+a(S'1577889574'
+S'Ajay Pandey'
+tp35
+a(S'1484672981'
+S'Lijo John'
+tp36
+a(S'100000393972062'
+S'Navaneetha Krishnan J'
+tp37
+a(S'100002069681842'
+S'Pirthi Lal'
+tp38
+a(S'100005132075956'
+S'Santanu Saikia'
+tp39
+a(S'100007614305005'
+S'Darzakhum Songate'
+tp40
+a(S'632560959'
+S'Pushpdeep Mishra'
+tp41
+a(S'1500437765'
+S'Alex Manjakunnel'
+tp42
+a(S'565603649'
+S'Anand Jha'
+tp43
+a(S'100002125983950'
+S'Lal Chand'
+tp44
+a(S'100006500924152'
+S'Osdd Linux'
+tp45
+a(S'100000692265682'
+S'Rani Sabu'
+tp46
+a(S'100001365204605'
+S'Kathir Vel'
+tp47
+a(S'1771220818'
+S'James Thanickan'
+tp48
+a(S'750462361'
+S'Mala Paropkari'
+tp49
+a(S'100000848205337'
+S'Jaleel Uc'
+tp50
+a(S'100000893456625'
+S'Ahmad Mukhtiyar'
+tp51
+a(S'100001190103403'
+S'Venkateswaran Thathamangalam Viswanathan'
+tp52
+a(S'1508636113'
+S'Sunita Billa'
+tp53
+a(S'1138620825'
+S'Kallidaikurichi Narayanan Balasubramanian Aiyer'
+tp54
+a(S'100002020612984'
+S'Chandraprakash Saroj'
+tp55
+a(S'1550011631'
+S'Sarfaraz Alam'
+tp56
+a(S'100005210773103'
+S'Devadasan Pn'
+tp57
+a(S'789468621'
+S'Arun S Bhatnagar'
+tp58
+a(S'100001177473169'
+S'DrSanjeeva K Majumdar'
+tp59
+a(S'618424752'
+S'Raghavender GR'
+tp60
+a(S'100002278956874'
+S'Shashi Prasad'
+tp61
+a(S'100000126657856'
+S'Md Mohsin Alam'
+tp62
+a(S'1328070881'
+S'Anurag Agrawal'
+tp63
+a(S'626426259'
+S'Liz Mathew'
+tp64
+a(S'694286759'
+S'Dwaipayan Bharadwaj'
+tp65
+a(S'100002544978253'
+S'Rani James'
+tp66
+a(S'1457013230'
+S'Anshu Bhardwaj'
+tp67
+a(S'1822166954'
+S'Sojan James'
+tp68
+a(S'641424244'
+S'Vegard Kolbj\\u00f8rnsrud'
+tp69
+a(S'1089551760'
+S'Abdul Jaleel'
+tp70
+a(S'100006905703671'
+S'Annie Jose'
+tp71
+a(S'100002817624793'
+S'Sridhar Sivasubbu'
+tp72
+a(S'539406123'
+S'Sebastian James'
+tp73
+a(S'882515310'
+S'Francis Rebello'
+tp74
+a(S'1682977180'
+S'Akshata Gad'
+tp75
+a(S'703481430'
+S'Ashitha Gopinath'
+tp76
+a(S'1409795991'
+S'Hemant Sarangi'
+tp77
+a(S'679779491'
+S'Reji K Joseph'
+tp78
+a(S'542277956'
+S'Madhu Mathews'
+tp79
+a(S'680836681'
+S'Dennis Kuriakose'
+tp80
+a(S'100002574335530'
+S'Jagdish Sagar'
+tp81
+a(S'1082122305'
+S'Joseph Cherian'
+tp82
+a(S'1137384419'
+S'Urmi S Bajpai'
+tp83
+a(S'1708166727'
+S'Manish Desai'
+tp84
+a(S'100002939659310'
+S'Sahila Riyas'
+tp85
+a(S'1010480447'
+S'Raja Sekhar Reddy'
+tp86
+a(S'100000280374252'
+S'Anand Upadhyay'
+tp87
+a(S'100001979433943'
+S'RK Bajaj'
+tp88
+a(S'1030380186'
+S'Savithri Singh'
+tp89
+asS'id'
+p90
+S'572793560'
+p91
+sS'current_link'
+p92
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D28.613900916609%252C%2B77.207794189453%26name%3DNew%2BDelhi%252C%2BIndia%26mkt%3Den-IN&h=JAQFA2xRi&s=1
+p93
+s.

@@ -1,0 +1,190 @@
+(dp1
+S'name'
+p2
+S'Sunita Singh'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vvaranasi, uttar pradesh, india
+p7
+sS'home_text'
+p8
+VVaranasi, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D24.200601087145%252C%2B82.674865722656%26name%3DSingrauli%252C%2BIndia%26mkt%3Den-IN&h=cAQHQZMnE&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D25.282000346632%252C%2B82.955017089844%26name%3DVaranasi%252C%2BIndia%26mkt%3Den-IN&h=cAQHQZMnE&s=1
+p13
+sS'current_text'
+p14
+VSingrauli, India\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100002648555353'
+S'Jyoti Singh'
+tp18
+a(S'100003648579539'
+S'Archita Roy Choudhury'
+tp19
+a(S'100002404311868'
+S'Pallavi Singh'
+tp20
+a(S'100001257309823'
+S'Shubha Singh'
+tp21
+a(S'100002301019614'
+S'Anjana Jha'
+tp22
+a(S'1258975208'
+S'Ankita Das'
+tp23
+a(S'100000069971873'
+S'Anish Kumar Singh'
+tp24
+a(S'100001627388333'
+S'Sathya Kingsly'
+tp25
+a(S'100003480348093'
+S'Suvarna Bhat'
+tp26
+a(S'100005238733405'
+S'Pratima Ranjan Singh'
+tp27
+a(S'100003720488937'
+S'Sangeeta Singh'
+tp28
+a(S'618145090'
+S'Shweta Singh'
+tp29
+a(S'100005786731540'
+S'Adi Singh'
+tp30
+a(S'100005100093262'
+S'Neelesh Kumar Singh'
+tp31
+a(S'100001582132209'
+S'Nirmala Shakya'
+tp32
+a(S'100001904690497'
+S'Nithya Jeyam'
+tp33
+a(S'1598882831'
+S'Rashmi Singh'
+tp34
+a(S'100006057880837'
+S'Nidhi Singh'
+tp35
+a(S'100001382253353'
+S'Manoj Singh'
+tp36
+a(S'100000579207291'
+S'Karn Kunal Singh'
+tp37
+a(S'100000639120436'
+S'Neeraj Kumar Singh'
+tp38
+a(S'100003986997485'
+S'Anil Kumar Singh'
+tp39
+a(S'100000016239888'
+S'Deepak Jain'
+tp40
+a(S'100000897752964'
+S'Neelam Shandilya'
+tp41
+a(S'100003172005882'
+S'Umesh Chandra Pandey'
+tp42
+a(S'100001071170844'
+S'Akash Sharma'
+tp43
+a(S'100000236054545'
+S'Trishla Kh'
+tp44
+a(S'100004475343392'
+S'Chandan Roy Choudhury'
+tp45
+a(S'100008018260548'
+S'Puja Singh'
+tp46
+a(S'100008159262808'
+S'Neha Kumari Singh'
+tp47
+a(S'100003632256324'
+S'Poonam Singh'
+tp48
+a(S'100003988629829'
+S'Beena Singh'
+tp49
+a(S'100003872942983'
+S'Ashok Kumar Singh'
+tp50
+a(S'100001547880248'
+S'Upendra Kumar Singh'
+tp51
+a(S'100001143282237'
+S'Arun Kumar Prasad'
+tp52
+a(S'100002679131286'
+S'Ashok Kumar Singh'
+tp53
+a(S'100003117768960'
+S'Radhika Singh'
+tp54
+a(S'100008258527214'
+S'Satya Singh'
+tp55
+a(S'100002883442092'
+S'Sneha Singh'
+tp56
+a(S'100003496911026'
+S'Shweta Singh'
+tp57
+a(S'100003065943039'
+S'Sumant Pratap Singh'
+tp58
+a(S'100003715158592'
+S'Seema Singh'
+tp59
+a(S'100003312804465'
+S'Baba Kinaram JI'
+tp60
+a(S'100002569324913'
+S'Chandra Kant Singh'
+tp61
+a(S'100003847345046'
+S'Rashmi Singh'
+tp62
+a(S'100005815836892'
+S'Rohit D Roxtar'
+tp63
+a(S'100001231008109'
+S'Alakananda Roy Choudhury'
+tp64
+a(S'100002304653451'
+S'Rahul Singh'
+tp65
+a(S'100007085262816'
+S'Maya Sinha'
+tp66
+a(S'100005408048221'
+S'Sunita Singh Parihar'
+tp67
+a(S'100000620890524'
+S'Saloni Singh'
+tp68
+asS'id'
+p69
+S'100006428571099'
+p70
+s.

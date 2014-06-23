@@ -1,0 +1,267 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100001932001550'
+S'Wahidullah Fazli'
+tp4
+a(S'100004677792930'
+S'Lucky Malik'
+tp5
+a(S'100004342654716'
+S'Sher Ahmad Tanha'
+tp6
+a(S'100004739910864'
+S'Hanzala Azizi'
+tp7
+a(S'100005333563454'
+S'Ezatullah Amiri'
+tp8
+a(S'100002753011348'
+S'Abdulhadi Belawal'
+tp9
+a(S'100001607870215'
+S'Sadiq Khaliq'
+tp10
+a(S'100000021785726'
+S'Noor Ahmad Noori'
+tp11
+a(S'100005535943732'
+S'Niamat Menapal'
+tp12
+a(S'100004371061694'
+S'Ghulam Mujtaba Patang'
+tp13
+a(S'100000163420539'
+p14
+S'Mahmood Marhoon'
+tp15
+a(S'705789916'
+S'\\u0628\\u0634\\u064a\\u0631 \\u0627\\u062d\\u0645\\u062f'
+tp16
+a(S'100001993258479'
+p17
+S'Abdul Rahman Azizi'
+tp18
+a(S'100005872594351'
+S'Ehsanullah Khairmal'
+tp19
+a(S'100003383906711'
+S'Kandahar Newss'
+tp20
+a(S'100003282251712'
+S'Abdul Samad Mian Khail'
+tp21
+a(S'100003511105884'
+S'HajiPir Mohammad'
+tp22
+a(S'100001678053167'
+S'Bilal Popal'
+tp23
+a(S'100001382188177'
+S'Shabir Ahmad'
+tp24
+a(S'100003186528260'
+S'Atal Muhammadzai'
+tp25
+a(S'1179968189'
+S'Hekmat Khalil Karzai'
+tp26
+a(S'100006252993866'
+S'Aymal Noorzai'
+tp27
+a(S'100003945874970'
+S'Haji Nanai Noori'
+tp28
+a(S'100003887632445'
+S'Najib Ullah Dawari'
+tp29
+a(S'100006477320123'
+S'Bashir Ahmad'
+tp30
+a(S'786584049'
+p31
+S'Ahmad Farzan'
+tp32
+a(S'533576255'
+S'Farid Ahmad Shaban'
+tp33
+a(S'100004215156960'
+S'Habibullah Hotak'
+tp34
+a(S'100000763202591'
+p35
+S'Ahmadshah Wardak'
+tp36
+a(S'100000255678088'
+S'Tawab Shah Agha'
+tp37
+a(S'100003963107384'
+S'Naqib Mohammadi'
+tp38
+a(S'100000791349206'
+p39
+S'\\u062e\\u06cc\\u0628\\u0631 \\u0627\\u0641\\u063a\\u0627\\u0646'
+tp40
+a(S'100001677891228'
+p41
+S'Khalid Hadi'
+tp42
+a(S'100000374043797'
+S'\\u0645\\u0634\\u0641\\u064a\\u0642 \\u0643\\u0646\\u062f\\u0647\\u0627\\u0631\\u064a'
+tp43
+a(S'100006441569038'
+S'Hamed Faizi'
+tp44
+a(S'100003581646400'
+S'Asad Kakar'
+tp45
+a(S'100005356269180'
+S'Mahmood Karzai'
+tp46
+a(S'100001751863833'
+S'\\u062c\\u0644\\u0627\\u0644 \\u0627\\u0644\\u0631\\u062d\\u0645\\u0646 \\u0634\\u0631\\u0631'
+tp47
+a(S'100001739074117'
+S'Barai Hotak'
+tp48
+a(S'100000441920276'
+p49
+S'Javeed Sherzai'
+tp50
+a(S'100001482308921'
+p51
+S'Nisar Ahmad Ahmadi'
+tp52
+a(S'100002386736407'
+S'Salih Muhammad Noori'
+tp53
+a(S'100003218487314'
+S'Omarzai Ludi Omarzai'
+tp54
+a(S'100001031597138'
+S'Qayyum Khan'
+tp55
+a(S'100003271119315'
+S'Basirahmadhaqmal Haqmal'
+tp56
+a(S'100005474322635'
+S'Amin Haqyar'
+tp57
+a(S'1128457999'
+S'Ahmed Zia Hafid'
+tp58
+a(S'100006925511360'
+S'Zabihullah Nasrat'
+tp59
+a(S'100007118674586'
+S'Basirsafi Safi'
+tp60
+a(S'100001012284437'
+p61
+S'Mirwais Popal'
+tp62
+a(S'1356121310'
+p63
+S'Waheed Atal'
+tp64
+a(S'100005752391866'
+S'Zamaryali Hamad'
+tp65
+a(S'100000077497422'
+S'Afghanyar Abdul Wassey'
+tp66
+a(S'100004450506213'
+S'Manzor Khan Kakar'
+tp67
+a(S'1665466643'
+S'Mirwais Khan Barak'
+tp68
+a(S'100001259550856'
+S'Shir Khan Yahya'
+tp69
+a(S'100001840643695'
+S'Assad Pardes'
+tp70
+a(S'100002085311776'
+p71
+S'Mena Mangal'
+tp72
+a(S'100002537719741'
+S'\\u062c\\u0627\\u0646\\u0627\\u0646 \\u0645\\u0648\\u0645\\u0646'
+tp73
+a(S'754408330'
+S'Lucky Kochai'
+tp74
+a(S'1234963463'
+p75
+S'Jamal Tarakai'
+tp76
+a(S'100000886881930'
+S'Noor Ahmad Afghan'
+tp77
+a(S'785556666'
+p78
+S'Dawa Khan Menapal'
+tp79
+a(S'100000857677452'
+S'Zahir Jan'
+tp80
+a(S'100005631271926'
+S'Agha Mohammad Nasraat'
+tp81
+a(S'100003528273611'
+p82
+S'Karim Toran'
+tp83
+a(S'100002501005869'
+S'Nadir Osmani'
+tp84
+a(S'100003766785377'
+S'Karimullah Hakimi'
+tp85
+a(S'100002476209608'
+S'Tahir Naqibullah'
+tp86
+a(S'100003242707247'
+S'Sajad Popal'
+tp87
+a(S'100001963119779'
+S'Ewaz Nazari'
+tp88
+a(S'100002218401516'
+S'Khan Afghan'
+tp89
+a(S'100004540089362'
+S'Baseer Pashtoon'
+tp90
+a(S'100003591172298'
+S'Aimal Ayil'
+tp91
+a(S'100005808906557'
+S'Ahmadullah Amiri'
+tp92
+a(S'100000683793002'
+S'Jafar Karzai'
+tp93
+a(S'100003512625742'
+S'Javed Khpolwak'
+tp94
+a(S'100003577082402'
+S'Hafiz Mansoor'
+tp95
+a(S'100003369890921'
+S'Rahmatullah Wahabazada'
+tp96
+a(S'100006540280550'
+S'Haji Hikmatullah Shadman'
+tp97
+asS'id'
+p98
+S'100002916925387'
+p99
+sS'name'
+p100
+S'Mohammad Amiri Mkic'
+p101
+s.

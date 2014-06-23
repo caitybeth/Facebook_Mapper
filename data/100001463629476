@@ -1,0 +1,277 @@
+(dp1
+S'name'
+p2
+S"A'ul El Maula"
+p3
+sS'current_class'
+p4
+S'indonesia'
+p5
+sS'home_class'
+p6
+Vpontianak, west kalimantan, indonesia
+p7
+sS'home_text'
+p8
+VPontianak, Indonesia\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/aul.elmaula?sk=info#
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/aul.elmaula?sk=info#
+p13
+sS'current_text'
+p14
+VPontianak, Indonesia\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100007135442531'
+S"Ja'far Shodiq"
+tp18
+a(S'100004416938161'
+S'Muhammad Zain Ozain'
+tp19
+a(S'100006028004537'
+S'Safarudin Elkuncoro'
+tp20
+a(S'100006691927228'
+S'Sany Sandorezz Sembilant Lapand'
+tp21
+a(S'100004347397948'
+S'Tahmeena Khan'
+tp22
+a(S'100002718102299'
+S"Jie Tho'ie"
+tp23
+a(S'100001033199218'
+S'Abu Bakar Asshiddiq'
+tp24
+a(S'100000545448217'
+S'Jesney Amore'
+tp25
+a(S'100005969680694'
+S'Ryan Rahmat Maulana'
+tp26
+a(S'100002533990390'
+S'Dfatimahs Dama'
+tp27
+a(S'100003208137259'
+S'Syifa Alkaff'
+tp28
+a(S'100005187453671'
+S'Uswatun Hasanah Urfa Iwel'
+tp29
+a(S'100004132683055'
+S'Andi Malyan'
+tp30
+a(S'100000928324170'
+S'Farisal Icol'
+tp31
+a(S'100001842095140'
+S'Umi Steven Laidays'
+tp32
+a(S'100007682111934'
+S'Dinaamel'
+tp33
+a(S'100005034251843'
+S'Fitri Naqsi'
+tp34
+a(S'100001100028937'
+S"Aan D'zara"
+tp35
+a(S'100000581413151'
+S'Syf Umi Kalsum'
+tp36
+a(S'100007778624371'
+S'Herma Jax'
+tp37
+a(S'100000514790667'
+S"Ibin Syafi'i"
+tp38
+a(S'100000724340146'
+S'Wahied Na Hasyim'
+tp39
+a(S'100002823871725'
+S'Lailiyal Muhtifah'
+tp40
+a(S'100002622318742'
+S'Muhammad Rizky Ibnu Ali'
+tp41
+a(S'100008184428137'
+S'Zakiyah Widad'
+tp42
+a(S'100000386805322'
+S"Ya'qub Mujahid"
+tp43
+a(S'100003818405702'
+S'Ari Naqsy'
+tp44
+a(S'100000244125625'
+S'Norus Syifa Madjid'
+tp45
+a(S'100000651394170'
+S"Bient's El Qadriy"
+tp46
+a(S'100006276933170'
+S'Sudy Rabbanadijodi'
+tp47
+a(S'100002046760518'
+S'Nur Noer'
+tp48
+a(S'100002938100260'
+S'Yadie Flame Kaisar'
+tp49
+a(S'100005857414634'
+S'Sary Hadni'
+tp50
+a(S'100006348455538'
+S'Jaly Osp'
+tp51
+a(S'100003589810207'
+S'Randy Charlotte Panetire'
+tp52
+a(S'100003989747356'
+S'Sitiwasilah Mubarok'
+tp53
+a(S'100003420957172'
+S'Permata Indah'
+tp54
+a(S'100001001660190'
+S'Princess Nadia'
+tp55
+a(S'100003022614653'
+S'Avira Wawaw'
+tp56
+a(S'100004123178970'
+S'Ria Iya'
+tp57
+a(S'100000590260928'
+S'Ithaf Elzabidi'
+tp58
+a(S'100003003384833'
+S'Huda Rifank Rafay'
+tp59
+a(S'100000995080702'
+S'Fatimah Ueqnuty'
+tp60
+a(S'100002162663595'
+S'Rafika Yuniarti Karmila'
+tp61
+a(S'100003273176440'
+S'Wahib B. Zgar'
+tp62
+a(S'100005878722850'
+S'Heru Fathan'
+tp63
+a(S'100003552646795'
+S'Cak Koez Rws'
+tp64
+a(S'100002127250434'
+S"Kultsum Na A'isyah"
+tp65
+a(S'100003259715939'
+S'Latifah Aisyah'
+tp66
+a(S'100005697693026'
+S'Veer Zaara'
+tp67
+a(S'100001742029542'
+S'Slamet S'
+tp68
+a(S'100008322878673'
+S'Yuliana Sariani'
+tp69
+a(S'100000959696701'
+S'Ibn Sairin'
+tp70
+a(S'100005883220442'
+S'Ayni Nurlia'
+tp71
+a(S'100005667780955'
+S'Cifa Amanda'
+tp72
+a(S'100007031319800'
+S'Rya Zhein El-aiys'
+tp73
+a(S'100007653544277'
+S'Muallimatul Laili'
+tp74
+a(S'100000531540670'
+S'Mael Boneich Al Kadrie'
+tp75
+a(S'100008172937435'
+S'Abdus Syakurchilddtactivez Executives'
+tp76
+a(S'100008273640427'
+S'Mahran Brimob'
+tp77
+a(S'100003777229945'
+S'Yansah Selembe'
+tp78
+a(S'100001007705859'
+S'Laila Nur Badriyah'
+tp79
+a(S'100001044827258'
+S'Soleh Dayat'
+tp80
+a(S'100008093346995'
+S'Farasy'
+tp81
+a(S'1325128656'
+S'Ridjal El-baity'
+tp82
+a(S'100000896839686'
+S'Hamzah Al'
+tp83
+a(S'100003595483962'
+S'Moch Herman Maman'
+tp84
+a(S'100003366707891'
+S'Putra Ambawang'
+tp85
+a(S'100006133803900'
+S'Manies Ksr Kasih'
+tp86
+a(S'100001637127813'
+S'Dhiiraa Rara Chayaank'
+tp87
+a(S'100005474416839'
+S'Reza Remos'
+tp88
+a(S'100005249320090'
+S'Ifa Cules Blaugrana'
+tp89
+a(S'100000701269351'
+S'Pahlawan Kesorean'
+tp90
+a(S'100002482819051'
+S'Rizky Ramadhan'
+tp91
+a(S'100003344114159'
+S'Zazuli Ihsan'
+tp92
+a(S'100005593304615'
+S'Burhan Ananda Ibrahim'
+tp93
+a(S'100001073163494'
+S'Zamira Amira'
+tp94
+a(S'100000529248217'
+S'Kheiry Serybery Duery'
+tp95
+a(S'100000491437235'
+S'Ajie Naqsy'
+tp96
+a(S'100002531468746'
+S'Of\\u00ede Jjak Laah'
+tp97
+asS'id'
+p98
+S'100001463629476'
+p99
+s.

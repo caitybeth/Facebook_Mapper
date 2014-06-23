@@ -1,0 +1,41 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100003094570751'
+S'Dinesh Lammani'
+tp4
+a(S'100000886732714'
+S'Rajendra Sharma'
+tp5
+a(S'100001741714782'
+S'Bhupendra Sharma'
+tp6
+a(S'100003119291466'
+S'Suresh Sharma'
+tp7
+a(S'100004150141324'
+S'Ashish Joshi'
+tp8
+a(S'100000267868091'
+S'Shankar Sharma'
+tp9
+a(S'100000617349433'
+S'Kailash Sharma'
+tp10
+a(S'100000106165924'
+S'Sharma Sharma'
+tp11
+a(S'1645640382'
+p12
+S'Arjoonn Sharma'
+tp13
+asS'id'
+p14
+S'100006600664995'
+p15
+sS'name'
+p16
+S'Ramchandra Sharma'
+p17
+s.

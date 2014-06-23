@@ -1,0 +1,312 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100003194268818'
+S'Moaine Rahimi'
+tp4
+a(S'100004300802052'
+S'Sara Karimi'
+tp5
+a(S'100003145011963'
+S'Mohammad Ashraf Sanay'
+tp6
+a(S'100002654615970'
+S'Jamshid Nazari Safi'
+tp7
+a(S'100001863795086'
+S'Azizul Rahman Rahmani'
+tp8
+a(S'100003311051354'
+S'Mahmood Salar'
+tp9
+a(S'100004270260517'
+S'Rahimi Shahidzai'
+tp10
+a(S'1306638175'
+S'Yama Hashimi'
+tp11
+a(S'100004889016184'
+S'Mohammad Nader Wardak'
+tp12
+a(S'100001013676201'
+S'Shaista Pashton'
+tp13
+a(S'100001523475529'
+S'Nilofar Sadiq'
+tp14
+a(S'100001186064131'
+S'Farzana Tabish'
+tp15
+a(S'1044275558'
+S'\\u062d\\u0646\\u0627\\u0646 \\u0627\\u0645\\u0627\\u0645'
+tp16
+a(S'100001587151996'
+S'Samiullah Aminy'
+tp17
+a(S'100002168087777'
+S'Jameel Jameel'
+tp18
+a(S'100004134812436'
+S'Jawid Amiry W'
+tp19
+a(S'100000529945404'
+S'Ahmad Shah Mirkheel'
+tp20
+a(S'100003275635491'
+S'\\u062d\\u0645\\u06cc\\u062f\\u0647 \\u0648\\u0631\\u062f\\u06a9'
+tp21
+a(S'895460252'
+S'Abdullah Zahir'
+tp22
+a(S'100001209103131'
+S'Khusraw Vdaa Kakar'
+tp23
+a(S'100001338812694'
+S'Sadat Mohabbat'
+tp24
+a(S'100000606609110'
+S'Shafiq Habibi'
+tp25
+a(S'1455330988'
+S'Khaibar Sakha'
+tp26
+a(S'100000137811259'
+S'Frozan Aqbal'
+tp27
+a(S'100000531282525'
+S'Abdul Khabir Mirzakhail'
+tp28
+a(S'100002910847629'
+S'Massoud Khateez'
+tp29
+a(S'100001160510836'
+S'Natasha Afghan'
+tp30
+a(S'100000944904698'
+S'Javid Hamdard'
+tp31
+a(S'100001307770545'
+S'Rabi Sroosh'
+tp32
+a(S'100000396312324'
+S'Nangialai Wardak'
+tp33
+a(S'100001989254594'
+S'Noorahmad Helmandi'
+tp34
+a(S'100002361462944'
+S'Abdulrahman Tasal'
+tp35
+a(S'100000506675476'
+S'Hussnia Afghan'
+tp36
+a(S'100001770610746'
+S'Sayed Asif Mohammady'
+tp37
+a(S'100002085311776'
+S'Mena Mangal'
+tp38
+a(S'100002337725354'
+S'Hakimi Hakim'
+tp39
+a(S'100003286393194'
+S'Samilullah Muhammadi'
+tp40
+a(S'100002240367134'
+S'Rahmatullah Habibi'
+tp41
+a(S'100001146751983'
+S'Faisal Dawar'
+tp42
+a(S'100002298864194'
+S'Muhammad Fawad Noori'
+tp43
+a(S'622153879'
+S'Ezatullah Wadan Sayeed'
+tp44
+a(S'100000782686519'
+S'Mohammadullah Aryen'
+tp45
+a(S'100000581288922'
+S'Sarah Martin'
+tp46
+a(S'100003717976927'
+S'Dil Jan'
+tp47
+a(S'100001665251402'
+S'Warda Maher'
+tp48
+a(S'100002204484347'
+S'Pari'
+tp49
+a(S'1845322463'
+S'Najeebullah Habibi Hotak'
+tp50
+a(S'100000626457307'
+S'Waris Hasrat'
+tp51
+a(S'100000311956467'
+S'Sonia Jan'
+tp52
+a(S'100000824864191'
+S'Baheer Afghan'
+tp53
+a(S'100001491087476'
+S'Hiira Malik Hiira Malik'
+tp54
+a(S'100001999104377'
+S'Farzana Ahmadi'
+tp55
+a(S'100006424726767'
+S'Ahmad Shah'
+tp56
+a(S'100002139095154'
+S'Gullajan Bahadury'
+tp57
+a(S'100002305675733'
+S'Maerod Delosreyes'
+tp58
+a(S'100000579755210'
+S'Najeebullah Anwarzoy'
+tp59
+a(S'1381809711'
+S'Ade Furaida Soleh'
+tp60
+a(S'100001571168590'
+S'Haseeb Ahmadi'
+tp61
+a(S'100002216889623'
+S'Rahimi Wardak'
+tp62
+a(S'100000595032642'
+S'Samir Mehraban'
+tp63
+a(S'100002572414650'
+S'Subhanullah Shenwhre Munsif'
+tp64
+a(S'100000997683593'
+S'Fariba Kandahari'
+tp65
+a(S'100000608097726'
+S'Hamayoun Ghafourzay'
+tp66
+a(S'100001013345870'
+p67
+S'Jamila Khan'
+tp68
+a(S'100003748965873'
+S'Sara Nergii'
+tp69
+a(S'100002042681506'
+S'Maahtab Sorosh'
+tp70
+a(S'100003020869285'
+S'Rahimullah Zirak'
+tp71
+a(S'100003515799829'
+S'Sami Mirzada'
+tp72
+a(S'100001351920396'
+S'Ahmad Abid'
+tp73
+a(S'100002413981515'
+S'Saboor Ahmad'
+tp74
+a(S'100002784758033'
+S'Nasima Sahar'
+tp75
+a(S'100005215925198'
+S'Zake Arghandewal'
+tp76
+a(S'100003624262466'
+S'Hekmatullah Muhammadi'
+tp77
+a(S'100001817859872'
+S'Nasibullah Azimi'
+tp78
+a(S'100001109341144'
+S'Tareq Nw'
+tp79
+a(S'100001776553639'
+S'Hameed Rahimi'
+tp80
+a(S'100000398422507'
+S'\\u062c\\u0645\\u06cc\\u0644\\u0647 \\u067e\\u069a\\u062a\\u0646\\u0647'
+tp81
+a(S'100001433334505'
+S'Nadia Noreen'
+tp82
+a(S'100003814604837'
+S'Allahmohammad Hamdard'
+tp83
+a(S'100001524828825'
+S'Khatera Qand'
+tp84
+a(S'100001611426425'
+S'Arturo Sarabia Jr'
+tp85
+a(S'100002590502396'
+S'Shaista Yousafzai'
+tp86
+a(S'1413380411'
+S'Bilal Ahmad'
+tp87
+a(S'100000111384098'
+S'Naser Khwazak'
+tp88
+a(S'100005464330639'
+S'Fareedahmad Habibi'
+tp89
+a(S'100008325609847'
+S'Momtaz Kohdamani'
+tp90
+a(S'100000210124818'
+S'Muslim Afghan Zada'
+tp91
+a(S'100001010172107'
+p92
+S'Mubashir Wardak'
+tp93
+a(S'100000004031082'
+S'Najeebullah Kababi'
+tp94
+a(S'765072067'
+S'\\u0639\\u062b\\u0645\\u0627\\u0646 \\u0627\\u0646\\u0635\\u0627\\u0631\\u064a'
+tp95
+a(S'701998578'
+S'Rafi Khanzada'
+tp96
+a(S'100001077628854'
+S'K Khan Yousofi'
+tp97
+a(S'100000775669449'
+S'Rahbeen Ahmad Azhar'
+tp98
+a(S'100002375255983'
+S'Nawroz Alizada'
+tp99
+a(S'100001044753711'
+S'\\u0628\\u0647\\u0627\\u0631 \\u062e\\u0648\\u0633\\u062a\\u0649'
+tp100
+a(S'100001258366233'
+S'Gull Astom'
+tp101
+a(S'100001825745607'
+S'Tahira Wafa'
+tp102
+a(S'1046949093'
+S'Sobair Wardak'
+tp103
+a(S'100007731005333'
+S'Asad Ullah'
+tp104
+asS'id'
+p105
+S'100000442571456'
+p106
+sS'name'
+p107
+S'Mohammad Gull Wardak Mirkhail'
+p108
+s.

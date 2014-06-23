@@ -1,0 +1,55 @@
+(dp1
+S'name'
+p2
+S'Rajeev Kumar Singhal'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vdehradun, uttarakhand, india
+p7
+sS'home_text'
+p8
+VDehra Dun, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D29.966700998148%252C%2B78.166351318359%26name%3DHardwar%252C%2BUttarakhand%252C%2BIndia%26mkt%3Den-IN&h=LAQHvCdHC&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D30.316700868289%252C%2B78.033142089844%26name%3DDehra%2BDun%252C%2BIndia%26mkt%3Den-IN&h=zAQFG6p6j&s=1
+p13
+sS'current_text'
+p14
+VHardwar, Uttarakhand, India\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100001422345767'
+S'Sukesh Jain'
+tp18
+a(S'100006237764308'
+S'Rishi Singhal'
+tp19
+a(S'100006286380916'
+S'Gaurangi Singhal'
+tp20
+a(S'1025480203'
+S'Ruhi Singhal'
+tp21
+a(S'519511462'
+S'Mayank Singhal'
+tp22
+a(S'100006236412585'
+S'Anil Singhal'
+tp23
+asS'id'
+p24
+S'100006396121304'
+p25
+s.

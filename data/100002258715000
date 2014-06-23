@@ -1,0 +1,337 @@
+(dp1
+S'name'
+p2
+S'Rohit G Rusia'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vchhindwara, madhya pradesh 480001, india
+p7
+sS'home_text'
+p8
+VChhindwara\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D22.070000922452%252C%2B78.929901123047%26name%3DChhindwara%26mkt%3Den-IN&h=fAQEwDd7k&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D22.070000922452%252C%2B78.929901123047%26name%3DChhindwara%26mkt%3Den-IN&h=yAQFm4MfZ&s=1
+p13
+sS'current_text'
+p14
+VChhindwara\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100000289798560'
+S'Atul Tewari'
+tp18
+a(S'1603269268'
+S'\\u0936\\u093f\\u0930\\u0940\\u0937 \\u092e\\u094c\\u0930\\u094d\\u092f'
+tp19
+a(S'778280230'
+S'Uday Prakash'
+tp20
+a(S'100000599952829'
+S'Shailja Pathak'
+tp21
+a(S'100004656364715'
+S'Prabhat Verma'
+tp22
+a(S'100000119440134'
+S'Hemant Kumar'
+tp23
+a(S'1499064019'
+S'Abhishek Cartoonist'
+tp24
+a(S'100003447739555'
+S'Hanumant Sharma'
+tp25
+a(S'100001480442900'
+S'Rajendra Pasalkar'
+tp26
+a(S'100004529314808'
+S'Trivedi Nikhilesh'
+tp27
+a(S'1344025149'
+S'Vijendra S Vij'
+tp28
+a(S'100001232927191'
+S'Rajani Morwal'
+tp29
+a(S'100000959226906'
+S'Manjul Bhatnagar'
+tp30
+a(S'100001363125007'
+S'Mahesh Punetha'
+tp31
+a(S'100000567991778'
+S'Urmila Madhav'
+tp32
+a(S'100005678588032'
+S'Mukhtar Ahmed'
+tp33
+a(S'1026880329'
+S'Vandana Grover'
+tp34
+a(S'100001535708166'
+S'Nishant Hota'
+tp35
+a(S'100001689976505'
+S'Deepti Kushwah'
+tp36
+a(S'100000469192780'
+S'Nilay Upadhyay'
+tp37
+a(S'100001570560982'
+S'Vimalendu Dwivedi'
+tp38
+a(S'100000595615262'
+S'Manik Ji'
+tp39
+a(S'100000510177286'
+S'\\u0905\\u0928\\u0941 \\u092a\\u094d\\u0930\\u093f\\u092f\\u093e'
+tp40
+a(S'100001524596626'
+S'Arun Sheetansh'
+tp41
+a(S'100004798360944'
+S'Banu Nymphseas'
+tp42
+a(S'100005363765559'
+S'Farook Shah'
+tp43
+a(S'100002350540876'
+S'\\u0935\\u0938\\u0941\\u0928\\u094d\\u0927\\u0930\\u093e \\u092a\\u093e\\u0923\\u094d\\u0921\\u0947\\u092f'
+tp44
+a(S'1563007395'
+S'Vinay Upadhyay'
+tp45
+a(S'100001970056453'
+S'\\u0905\\u0902\\u091c\\u0942 \\u0936\\u0930\\u094d\\u092e\\u093e'
+tp46
+a(S'100001963423587'
+S'Shayak Alok'
+tp47
+a(S'100000581754993'
+S'Tiwari Keshav'
+tp48
+a(S'525458611'
+S'Tanveer Farooqui'
+tp49
+a(S'100000861786111'
+S'Sandhya Kulkarni'
+tp50
+a(S'100007030510466'
+S'Ritu Fulper'
+tp51
+a(S'100001396875886'
+S'Sudeshna Sikdaar'
+tp52
+a(S'100004394911747'
+S'\\u092a\\u094d\\u0930\\u093f\\u092f\\u0902\\u0915\\u093e \\u0938\\u093f\\u0902\\u0939'
+tp53
+a(S'100001743370630'
+S'Rakesh Rohit'
+tp54
+a(S'100000058572394'
+S'\\u0938\\u0940\\u092e\\u093e \\u0905\\u0917\\u094d\\u0930\\u0935\\u093e\\u0932'
+tp55
+a(S'100005805277739'
+S'Kavita Rakesh'
+tp56
+a(S'100000767238684'
+S'Devendra Surjan'
+tp57
+a(S'100003624611049'
+S'Jyoti Khare'
+tp58
+a(S'744413592'
+S'Nityanand Gayen'
+tp59
+a(S'100002041953022'
+S'\\u0921\\u0949. \\u0938\\u0941\\u0928\\u0940\\u0924\\u093e'
+tp60
+a(S'100003239507471'
+S'Vatsala Pandey'
+tp61
+a(S'1305265049'
+S'Manoj Chhabra'
+tp62
+a(S'100002164170112'
+S'Goverdhan Yadav'
+tp63
+a(S'100000513729451'
+S'Sushila Puri'
+tp64
+a(S'100001934545420'
+S'Venus Kesari'
+tp65
+a(S'100005527299118'
+S'Aparna Anekvarna'
+tp66
+a(S'100000652147751'
+S'\\u0905\\u0930\\u0941\\u0923 \\u091a\\u0935\\u093e\\u0908'
+tp67
+a(S'100000905437315'
+S'Pratibha Gotiwale'
+tp68
+a(S'1296384745'
+S'Mukesh Jain'
+tp69
+a(S'100001460686504'
+S'Bharat Vaidya'
+tp70
+a(S'100002001713396'
+S'Lalit Rusia'
+tp71
+a(S'100001282963977'
+S'Samvedna Duggal'
+tp72
+a(S'1214537647'
+S'Neelam Madiratta'
+tp73
+a(S'100001680814334'
+S'\\u0909\\u0937\\u093e \\u0930\\u0924\\u0942\\u095c\\u0940 \\u0936\\u0930\\u094d\\u092e\\u093e'
+tp74
+a(S'100000994179000'
+S'Era Tak'
+tp75
+a(S'100003454912556'
+S'Banshilal Parmar'
+tp76
+a(S'100003921826495'
+S'Pran Chadha'
+tp77
+a(S'1776977801'
+S'Anwar Suhail'
+tp78
+a(S'100001056695239'
+S'Arun Misra'
+tp79
+a(S'100006863860885'
+S'Ashok Azami'
+tp80
+a(S'100001492052972'
+S'Ujjawal Bhowmick'
+tp81
+a(S'100003796559008'
+S'Rakesh Verma'
+tp82
+a(S'100004274405755'
+S'Mohan Shrotriya'
+tp83
+a(S'100002511714595'
+S'\\u092e\\u0943\\u0926\\u0941\\u0932\\u093e \\u0936\\u0941\\u0915\\u094d\\u0932\\u093e'
+tp84
+a(S'1178692326'
+S'Rajeev Ranjan Prasad'
+tp85
+a(S'730049334'
+S'Manisha Kulshreshtha'
+tp86
+a(S'816134991'
+S'\\u0917\\u0940\\u0924\\u093e \\u092a\\u0902\\u0921\\u093f\\u0924'
+tp87
+a(S'100002610630610'
+S'Ajamil Vyas'
+tp88
+a(S'100003116610404'
+S'Hariom Rajoria'
+tp89
+a(S'100002086063910'
+S'Mohan Kumar Nagar'
+tp90
+a(S'100003003923559'
+S'Pankaj Dixit'
+tp91
+a(S'100000522481124'
+S'Syed Maqbool Alam'
+tp92
+a(S'100002365426956'
+S'Rajnish Acharya'
+tp93
+a(S'100001895302518'
+S'Nisha Kulshreshtha'
+tp94
+a(S'100004027097500'
+S'Anulata Raj Nair'
+tp95
+a(S'100001499533039'
+S'Harnot SR Harnot'
+tp96
+a(S'100000175943487'
+S'Kunwar Ravindra'
+tp97
+a(S'566064611'
+S'\\u0938\\u0942\\u0930\\u091c \\u092a\\u094d\\u0930\\u0915\\u093e\\u0936'
+tp98
+a(S'100001998223696'
+S'Dhruv Gupt'
+tp99
+a(S'100000602210346'
+S'Ravindra K Das'
+tp100
+a(S'1664044845'
+S'\\u0928\\u0942\\u0924\\u0928 \\u0921\\u093f\\u092e\\u0930\\u0940 \\u0917\\u0948\\u0930\\u094b\\u0932\\u093e'
+tp101
+a(S'100003706000552'
+S'Nitin Jain'
+tp102
+a(S'724353563'
+S'Sayeed Ayub'
+tp103
+a(S'908010724'
+S'Ajit Harshe'
+tp104
+a(S'695163908'
+S'Rati Saxena'
+tp105
+a(S'1185020551'
+S'Sachin Malvi'
+tp106
+a(S'100000337875980'
+S'Gopal Rathi'
+tp107
+a(S'100004492542692'
+S'Shahnaz Imrani'
+tp108
+a(S'100002302704835'
+S'Naval Singh Chauhan'
+tp109
+a(S'100002489710584'
+S'Ajay Kamavisdar'
+tp110
+a(S'1673555521'
+S'\\u0930\\u0935\\u093f \\u0915\\u0941\\u092e\\u093e\\u0930'
+tp111
+a(S'100004688169315'
+S'Bello \\u00c4min\\u00e0'
+tp112
+a(S'100001945870401'
+S'Luckyjee Gupta'
+tp113
+a(S'100006895710708'
+S'Ashok Gupta'
+tp114
+a(S'100003267192861'
+S'Anil Khamparia'
+tp115
+a(S'100001771957445'
+S'Sachin Verma'
+tp116
+a(S'100000595180917'
+S'Maya Mrig'
+tp117
+asS'id'
+p118
+S'100002258715000'
+p119
+s.

@@ -1,0 +1,43 @@
+(dp1
+S'name'
+p2
+S'Krishna Beura'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vbhubaneshwar, odisha, india
+p7
+sS'home_text'
+p8
+VBhubaneswar, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D18.975000641097%252C%2B72.825622558594%26name%3DMumbai%252C%2BMaharashtra%252C%2BIndia%26mkt%3Den-IN&h=hAQFnqTm6&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D20.27000100784%252C%2B85.838928222656%26name%3DBhubaneswar%252C%2BIndia%26mkt%3Den-IN&h=UAQGiDwqb&s=1
+p13
+sS'current_text'
+p14
+VMumbai, Maharashtra, India\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'693663233'
+S'Krishna Beura'
+tp18
+a(S'100005129851880'
+S'Chan Dan'
+tp19
+asS'id'
+p20
+S'693663233'
+p21
+s.

@@ -1,0 +1,32 @@
+(dp1
+S'name'
+p2
+S'Gaurav Batham'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vlucknow, uttar pradesh, india
+p7
+sS'home_text'
+p8
+VLucknow, India\u000aHometown
+p9
+sS'home_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D26.850000003804%252C%2B80.915679931641%26name%3DLucknow%252C%2BIndia%26mkt%3Den-IN&h=FAQGWoVdB&s=1
+p11
+sS'friends'
+p12
+(lp13
+(S'100001435367910'
+S'Gaurav Batham'
+tp14
+asS'id'
+p15
+S'100001435367910'
+p16
+s.

@@ -1,0 +1,46 @@
+(dp1
+S'name'
+p2
+S'Utkarsh Raghubanshi'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vjaunpur, uttar pradesh, india
+p7
+sS'home_text'
+p8
+VJaunpur, Uttar Pradesh\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D26.850000003804%252C%2B80.915679931641%26name%3DLucknow%252C%2BIndia%26mkt%3Den-IN&h=OAQGc5-a4&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D25.730000673251%252C%2B82.678985595703%26name%3DJaunpur%252C%2BUttar%2BPradesh%26mkt%3Den-IN&h=DAQGD8sWl&s=1
+p13
+sS'current_text'
+p14
+VLucknow, India\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100003876658347'
+S'Anil Singh'
+tp18
+a(S'564061417'
+S'Alok Kumar'
+tp19
+a(S'1157286783'
+S'Utkarsh Raghubanshi'
+tp20
+asS'id'
+p21
+S'1157286783'
+p22
+s.

@@ -1,0 +1,311 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100000629296118'
+S'Shalini Arora Kochhar'
+tp4
+a(S'100000333297514'
+S'Tania Singh Khosla'
+tp5
+a(S'844995601'
+S'Nayantara Pani'
+tp6
+a(S'100003853117045'
+S'Srinivasa Raju'
+tp7
+a(S'760481702'
+S'Leo Saldanha'
+tp8
+a(S'1461932816'
+S'Meenakshi Ramoo Bharath'
+tp9
+a(S'100004005353045'
+S'Vishwajit Rane'
+tp10
+a(S'658218664'
+S'Alison Silgardo'
+tp11
+a(S'613721825'
+S'BG Mahesh'
+tp12
+a(S'663241105'
+S'Madhu Nataraj Kiran'
+tp13
+a(S'764758407'
+S'Sandhya Mendonca'
+tp14
+a(S'100000744174090'
+S'Onesimus Anand Prasad'
+tp15
+a(S'6019972'
+S'Sahadev Shivarthy'
+tp16
+a(S'679598236'
+S'Chandan Gowda'
+tp17
+a(S'100001718843928'
+S'Sahadev Balakrishna'
+tp18
+a(S'505263556'
+S'Sridhar Pabbisetty'
+tp19
+a(S'1169871892'
+S'Jayashankar Jayaraman'
+tp20
+a(S'506023803'
+S'Vibhinna Ramdev'
+tp21
+a(S'1018526153'
+S'Ricky Rajkumar'
+tp22
+a(S'1298942290'
+S'Mahesh Rao'
+tp23
+a(S'1307451379'
+S'Safia Khalil Rizvi'
+tp24
+a(S'663533431'
+S'Navita Shyam'
+tp25
+a(S'616234921'
+S'Meena Nambiar'
+tp26
+a(S'546887489'
+S'Vasanthi Hariprakash'
+tp27
+a(S'100002070193903'
+S'Roshaneh Zafar'
+tp28
+a(S'650208136'
+S'Surabhi HR'
+tp29
+a(S'678974950'
+S'Ian Faria'
+tp30
+a(S'1562388598'
+S'Prakruthi Ravi Gowda'
+tp31
+a(S'1404993336'
+S'Shyam Srinivas'
+tp32
+a(S'1103113024'
+S'Ashwin Mahesh'
+tp33
+a(S'554636995'
+S'Raman Iyer'
+tp34
+a(S'1169051876'
+S'Ejaz Saifullah'
+tp35
+a(S'100002317846971'
+S'Sasha Attia'
+tp36
+a(S'570267740'
+S'Karthik Shashidhar'
+tp37
+a(S'687640384'
+S'Sharan Desai'
+tp38
+a(S'719093014'
+S'Jiten Poojara'
+tp39
+a(S'1079571906'
+S'Anand Padi'
+tp40
+a(S'1132040042'
+S'Shehla Rashid Shora'
+tp41
+a(S'628535879'
+S'Renee Bowers'
+tp42
+a(S'1450891314'
+S'Fazle Naqvi'
+tp43
+a(S'798343529'
+S'Chandraketu Jha'
+tp44
+a(S'100006653287469'
+S'Shehla Rashid'
+tp45
+a(S'725491717'
+S'Varun Santhosh'
+tp46
+a(S'1296058517'
+S'Sanjay Manchanda'
+tp47
+a(S'500884257'
+S'Hemangini Gupta'
+tp48
+a(S'1208878317'
+S'Ramanan Vembu'
+tp49
+a(S'1016193941'
+S'Sanjith Shetty'
+tp50
+a(S'100001117863672'
+S'L S Chethan Gowda'
+tp51
+a(S'1691783727'
+S'Sanjay Venkatesh'
+tp52
+a(S'1345823653'
+S'Milind Deora'
+tp53
+a(S'100003033296597'
+S'Vokkaligara Vedike'
+tp54
+a(S'748860309'
+S'Rakshith Shivaram'
+tp55
+a(S'610439345'
+S'Sangeetha Chengappa'
+tp56
+a(S'1760514957'
+S'Shree Adarsh'
+tp57
+a(S'1648320628'
+S'Milind Dharmasen'
+tp58
+a(S'899660654'
+S'Chandrika Thyagaraj'
+tp59
+a(S'627544466'
+S'Thejaswi Udupa'
+tp60
+a(S'706139536'
+p61
+S'Rishikesha Krishnan'
+tp62
+a(S'708289922'
+S'Eliamma Rao'
+tp63
+a(S'1047712901'
+S'Priyanka Ashok'
+tp64
+a(S'706286878'
+S'Radhika Ashok'
+tp65
+a(S'789707654'
+S'Beena Jp'
+tp66
+a(S'100000625628935'
+S'Rajesh Gupta'
+tp67
+a(S'100004084597491'
+S'Sashmita Behera'
+tp68
+a(S'100000530937266'
+S'Anu Pama'
+tp69
+a(S'730035913'
+S'Cv Madhukar'
+tp70
+a(S'100002425927332'
+S'Jaisimha Krishnappa'
+tp71
+a(S'609052690'
+S'Alan Rego'
+tp72
+a(S'547365512'
+S'Prashanth Prakash'
+tp73
+a(S'1642939201'
+S'Nritya Ganesh'
+tp74
+a(S'504052962'
+S'Aditi Devi'
+tp75
+a(S'613087842'
+S'Shanavas Pn'
+tp76
+a(S'704970467'
+S'Arjun Narayan'
+tp77
+a(S'677762247'
+S'MD Ramaswami'
+tp78
+a(S'821347504'
+S'Vandana Singhvi Patel'
+tp79
+a(S'1310975501'
+S'Veena Ramanna'
+tp80
+a(S'100004076911999'
+S'Nivedith Alva'
+tp81
+a(S'591295104'
+S'Raheel Khursheed'
+tp82
+a(S'650760134'
+S'Anil Srivatsa'
+tp83
+a(S'600736697'
+S'Shashi Anand'
+tp84
+a(S'100000320566350'
+S'Gauri Lankesh'
+tp85
+a(S'502061850'
+S'Ankur Garg'
+tp86
+a(S'595423822'
+S'Gauri Trivedi'
+tp87
+a(S'1203092830'
+S'KumaraGuru Dnv'
+tp88
+a(S'705173399'
+S'Swaroop Balakrishna Uday'
+tp89
+a(S'521862965'
+S'Aloke Mukherjee'
+tp90
+a(S'613788482'
+S'Siri Srinivas'
+tp91
+a(S'521067670'
+S'Shwetha Gautam'
+tp92
+a(S'815882019'
+S'Poonacha Machaiah'
+tp93
+a(S'100000578232620'
+S'Manasi Prasad'
+tp94
+a(S'677330888'
+S'Anju Chandrasekhar'
+tp95
+a(S'741125056'
+S'Sach Holden'
+tp96
+a(S'549168064'
+S'Girish Nikam'
+tp97
+a(S'100007421976107'
+S'Gangaiah Gowda'
+tp98
+a(S'861280071'
+S"Charmaine D'Souza"
+tp99
+a(S'599756066'
+S'Shruthi Anand'
+tp100
+a(S'100002310013248'
+S'Monika Modak Dass'
+tp101
+a(S'100004213352445'
+S'Thomas Uthup'
+tp102
+a(S'100003229419944'
+S'B.j. Arun'
+tp103
+asS'id'
+p104
+S'751555766'
+p105
+sS'name'
+p106
+S'Rajeev Gowda'
+p107
+s.

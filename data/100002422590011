@@ -1,0 +1,49 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100006789193294'
+S'Samir Ladwal'
+tp4
+a(S'100004549749459'
+S'Deepak Kashyap'
+tp5
+a(S'100005802948280'
+S'Manpreet Kour'
+tp6
+a(S'100008297717991'
+S'Bhuwan Arya'
+tp7
+a(S'100005509576121'
+S'Amanrocks Sharma'
+tp8
+a(S'100004991987920'
+S'Raj Kumar'
+tp9
+a(S'100003104865974'
+S'Jatin Gupta'
+tp10
+a(S'100006976032551'
+S'Poonam Yadav'
+tp11
+a(S'100006810093535'
+S'Nitin Agarwal'
+tp12
+a(S'100002422590011'
+p13
+S'Kanika Garg'
+tp14
+a(S'100006626415222'
+S'Ashu Chaudhary'
+tp15
+a(S'100007910706225'
+S'Lakshye Verma'
+tp16
+asS'id'
+p17
+g13
+sS'name'
+p18
+S'Kanika Garg'
+p19
+s.

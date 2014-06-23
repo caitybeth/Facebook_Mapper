@@ -1,0 +1,254 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100001040703429'
+S'Prabhat Das'
+tp4
+a(S'100000695355502'
+S'Uttiya Hazra'
+tp5
+a(S'100000395212880'
+S'Debapriya Mandal'
+tp6
+a(S'100001755130280'
+S'Gurjaipal Singh Randhawa'
+tp7
+a(S'100002957537101'
+S'Parijat Ghosh'
+tp8
+a(S'1850301402'
+S'Bidyut Ghosh'
+tp9
+a(S'1781683719'
+S'Binayak De Sarkar'
+tp10
+a(S'100000242651278'
+S'Indranil Goswami'
+tp11
+a(S'100002787116650'
+S'Sapna Singh'
+tp12
+a(S'651987084'
+S'Rituja Bakshi'
+tp13
+a(S'100001895400971'
+S'Tridibesh Sen'
+tp14
+a(S'100001852596465'
+p15
+S'Sanket Tingre'
+tp16
+a(S'100005729772928'
+S'Sukanya Roy'
+tp17
+a(S'100002178466555'
+S'Krishnendu Mondal'
+tp18
+a(S'100006515509367'
+S'Tapan Kumar Jena'
+tp19
+a(S'100000787744378'
+S'Anindita Pal'
+tp20
+a(S'100001947829029'
+S'Sumanta Ghosh'
+tp21
+a(S'100002619584640'
+S'Soumen Chem'
+tp22
+a(S'100004718261200'
+S'Arpit Verma'
+tp23
+a(S'100002841281377'
+S'Anisha Koner'
+tp24
+a(S'100004462027411'
+S'Er Dipu Ranjan Roy'
+tp25
+a(S'100000150610114'
+S'Subhrendu Bikash Kar'
+tp26
+a(S'100000718976833'
+S'Deepshikha Das'
+tp27
+a(S'1525356382'
+S'Subir Adhikari'
+tp28
+a(S'100000125218645'
+S'Mandeep Sharma'
+tp29
+a(S'100000850113657'
+S'Sougata Das'
+tp30
+a(S'100000216060792'
+S'Er Faruk Poyen'
+tp31
+a(S'1305664532'
+S'Bala Karchaudhuri'
+tp32
+a(S'1530723022'
+S'Abhishek Shanker Upadhyay'
+tp33
+a(S'100003174004499'
+S'Anamika Jati'
+tp34
+a(S'100000768194752'
+S'Swagata Kar'
+tp35
+a(S'100003938515243'
+S'Parinita Banerjee'
+tp36
+a(S'100001047376232'
+S'Subham Dey'
+tp37
+a(S'100003236873863'
+S'Surati Mandal'
+tp38
+a(S'100000989081735'
+S'Deepak Sati'
+tp39
+a(S'100003452422831'
+S'Priyabrata Datta'
+tp40
+a(S'100001739998084'
+S'Ragini Sinha'
+tp41
+a(S'100000654368661'
+S'Anirban Chattopadhyay'
+tp42
+a(S'1289701127'
+S'Sober Barik'
+tp43
+a(S'100002905149993'
+S'Subarna Chatterjee'
+tp44
+a(S'1090711715'
+S'Soumyadeep Kundu'
+tp45
+a(S'1767401558'
+S'Madhuchhanda Das'
+tp46
+a(S'100002154013064'
+S'Hiranmoy Rajwar'
+tp47
+a(S'100002764911360'
+S'Shabnam Banu'
+tp48
+a(S'1134476556'
+S'Rajib Das Gupta'
+tp49
+a(S'100000767390833'
+S'Rajkumar Ghosh'
+tp50
+a(S'100001016752652'
+S'Shounak Deb'
+tp51
+a(S'100001815609223'
+S'Avinash Kumar'
+tp52
+a(S'100001858196806'
+S'Chakraborty Rima'
+tp53
+a(S'100003348632353'
+S'Upasana Tapadar'
+tp54
+a(S'1627367350'
+S'Arnab Batabyal'
+tp55
+a(S'100001372287476'
+S'Nirmala Dasom Santidevi'
+tp56
+a(S'100006732463763'
+S'Ramaranjan Bhattacharyya Kalyan'
+tp57
+a(S'100000298708845'
+S'Manjira Bagchi'
+tp58
+a(S'100000892569285'
+S'Subhajit Biswas'
+tp59
+a(S'100002487644572'
+S'Elika Sarkar'
+tp60
+a(S'100002486979164'
+S'Roni Hazra'
+tp61
+a(S'100001443630943'
+S'Nitish Shukul'
+tp62
+a(S'100004173514708'
+S'Suhita Basu'
+tp63
+a(S'100002025627245'
+S'Sharmistha Mukherjee'
+tp64
+a(S'100000868193243'
+S'SuMan GhOsh'
+tp65
+a(S'100002142110730'
+S'Govind P Singh'
+tp66
+a(S'100002019243806'
+S'Anumita Ghosh'
+tp67
+a(S'100002441782600'
+S'Vijay Kumar Upadhyay'
+tp68
+a(S'100002407923456'
+S'Krishnendu Roy'
+tp69
+a(S'100000513053003'
+S'Debalina Chakraborty'
+tp70
+a(S'100006718810077'
+S'Roltu Fanbaba'
+tp71
+a(S'100002449075445'
+S'Suvoshree Mukherjee'
+tp72
+a(S'100006378764090'
+S'Dipayan Chatterjee'
+tp73
+a(S'1571852020'
+S'Sougata Chakraborty'
+tp74
+a(S'100002828040241'
+S'Kaumudi Hajra'
+tp75
+a(S'100008295210130'
+S'Tanushree Ghosh'
+tp76
+a(S'100000532964543'
+S'Prabhat Das'
+tp77
+a(S'1661270676'
+S'Barun Halder'
+tp78
+a(S'100000046373201'
+S'Tanvi Dagur'
+tp79
+a(S'100001429946527'
+S'Priyanka Sharma'
+tp80
+a(S'1383111521'
+S'Sayantani Mondal'
+tp81
+a(S'1802543672'
+S'Duke Choudhury'
+tp82
+a(S'100001548565008'
+S'Sudipta Dey'
+tp83
+a(S'100000360395906'
+S'Homagni Majumder'
+tp84
+asS'id'
+p85
+S'100001152223978'
+p86
+sS'name'
+p87
+S'Kaushik Ghosh'
+p88
+s.

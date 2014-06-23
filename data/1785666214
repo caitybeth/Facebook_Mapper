@@ -1,0 +1,274 @@
+(dp1
+S'name'
+p2
+S'Sharad Kumar Srivastava'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vgorakhpur, uttar pradesh, india
+p7
+sS'home_text'
+p8
+VGorakhpur\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D28.570000411938%252C%2B77.319030761719%26name%3DNoida%252C%2BIndia%26mkt%3Den-IN&h=QAQFsB5tp&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D26.549999971573%252C%2B83.148651123047%26name%3DGorakhpur%26mkt%3Den-IN&h=AAQGtNztp&s=1
+p13
+sS'current_text'
+p14
+VNoida, India\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'614152766'
+S'Preeti Sahai'
+tp18
+a(S'100002505032351'
+S'Poonam Ponkshe'
+tp19
+a(S'100002795771047'
+S'Unnati Srivastav'
+tp20
+a(S'100001392112224'
+S'Arun Kumar'
+tp21
+a(S'100000189484639'
+S'Vincent Barla'
+tp22
+a(S'100000657880377'
+S'Shikha Varma'
+tp23
+a(S'709212176'
+S'Aujender Singh'
+tp24
+a(S'549001132'
+S'Atul Sahi'
+tp25
+a(S'1302686320'
+S'Shaunak Srivastava'
+tp26
+a(S'100004122961482'
+S'Raghuram Krishna'
+tp27
+a(S'100001463460099'
+S'Vijay Bala Shrivastava'
+tp28
+a(S'100000858712940'
+S'Mangal Singh'
+tp29
+a(S'523383713'
+S'Ravi Ranjan'
+tp30
+a(S'100001633549470'
+S'Purnendu Kant'
+tp31
+a(S'100002494878042'
+S'Charu S Sinha'
+tp32
+a(S'100002502637939'
+S'Abhinav Srivastav'
+tp33
+a(S'100002741151226'
+S'Rakesh Sharma'
+tp34
+a(S'100004178886993'
+S'Sushma Khubele'
+tp35
+a(S'516792816'
+S'Shobhit Chandra'
+tp36
+a(S'100000900142113'
+S'Mahesh Kumar Srivastav'
+tp37
+a(S'100000586714362'
+S'Raghavan Iyer'
+tp38
+a(S'100001243258416'
+S'Jitendra Mishra'
+tp39
+a(S'100003714758854'
+S'Shruti Srivastava'
+tp40
+a(S'1066793252'
+S'Anil M Singh'
+tp41
+a(S'681072546'
+S'Nihit Nirmal'
+tp42
+a(S'100001606864547'
+S'Anurag Bhatnagar'
+tp43
+a(S'1589370869'
+S'Jiggyasa Srivastava'
+tp44
+a(S'1416680507'
+S'Vinay Awasthi'
+tp45
+a(S'640537490'
+S'Tushar Dev Srivastava'
+tp46
+a(S'634064606'
+S'Krishna Murari'
+tp47
+a(S'727266335'
+S'Vishal Shrivastava'
+tp48
+a(S'1031674911'
+S'Omprakash Sharma'
+tp49
+a(S'100000232009284'
+S'Lalan Sharma'
+tp50
+a(S'100000175255513'
+S'Swati Mohan'
+tp51
+a(S'100000097643492'
+S'Kapil Makkar'
+tp52
+a(S'100002316392519'
+S'Manjul Shrivastava'
+tp53
+a(S'100001122614027'
+S'Naika Harideo'
+tp54
+a(S'100005651105617'
+S'Pratyaksh Shivam'
+tp55
+a(S'774654441'
+S'Nitin Satija'
+tp56
+a(S'1427898925'
+S'Chirasree Sen-Varma'
+tp57
+a(S'100000482246010'
+S'Dev Prakash Singh'
+tp58
+a(S'100000258483327'
+S'Sushil Kumar Jha'
+tp59
+a(S'100002846822452'
+S'Swarnima Shrivastava'
+tp60
+a(S'100001790391587'
+S'Praveen Varma'
+tp61
+a(S'100000051776687'
+S'Praveen Srivastava'
+tp62
+a(S'100001316952575'
+S'Praveen Dudeja'
+tp63
+a(S'100004501814523'
+S'Mridula Srivastava'
+tp64
+a(S'1126623580'
+S'DevendraKumar Sharma'
+tp65
+a(S'100000111332896'
+S'Rajeshwar Dayal'
+tp66
+a(S'100000575721004'
+S'Surin Singh'
+tp67
+a(S'100002021450005'
+S'Ruchita Sinha'
+tp68
+a(S'100003030549770'
+S'Mala Srivastav'
+tp69
+a(S'100001457467173'
+S'Pradeep Singh'
+tp70
+a(S'100001758676423'
+S'Prashant Rastogi'
+tp71
+a(S'1111309371'
+S'Rama Varma K'
+tp72
+a(S'100006882014369'
+S'Biswarup Sengupta'
+tp73
+a(S'1137274986'
+S'Kriti Ashok'
+tp74
+a(S'100002062188942'
+S'Er Parnika Shrivastava'
+tp75
+a(S'100002743894599'
+S'Juhi Raj'
+tp76
+a(S'620123752'
+S'Rakesh Kumar Sharma'
+tp77
+a(S'100001862050938'
+S'Sarvjit Singh'
+tp78
+a(S'1607570333'
+S'Dps Rajesh'
+tp79
+a(S'1738196537'
+S'Sangeeta Chauhan'
+tp80
+a(S'100000427314526'
+S'Samir Mohanty'
+tp81
+a(S'100002505160362'
+S'Rajiv Ranjan Singh'
+tp82
+a(S'100001856225010'
+S'Shweta Agarwal'
+tp83
+a(S'1331471015'
+S'Ajeet Kumar'
+tp84
+a(S'100000774458948'
+S'Arti Varma'
+tp85
+a(S'100001299143340'
+S'Bijay Kumar Manthan'
+tp86
+a(S'100001946757878'
+S'Krishna Lalitha'
+tp87
+a(S'521147437'
+S'Sonal Garg'
+tp88
+a(S'1429613091'
+S'Dharmvir Sharma'
+tp89
+a(S'100001268215043'
+S'Ajay Padhiar'
+tp90
+a(S'1020038320'
+S'Chandra Prasad'
+tp91
+a(S'100003998707030'
+S'Jaya Srivastava'
+tp92
+a(S'100003128424475'
+S'Seema Srivastava'
+tp93
+a(S'757390346'
+S'Shailesh Kumar'
+tp94
+a(S'1016132252'
+S'Vijay Malhotra'
+tp95
+a(S'100000280374252'
+S'Anand Upadhyay'
+tp96
+asS'id'
+p97
+S'1785666214'
+p98
+s.

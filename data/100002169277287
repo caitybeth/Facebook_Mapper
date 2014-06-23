@@ -1,0 +1,40 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100007178319996'
+S'Mohamed Saleh'
+tp4
+a(S'100006477484370'
+S'\\u0e22\\u0e38\\u0e17\\u0e18\\u0e19\\u0e32 \\u0e1a\\u0e23\\u0e23\\u0e08\\u0e07'
+tp5
+a(S'100007210750303'
+S'Jenny Black'
+tp6
+a(S'100007132651633'
+S'\\u0e42\\u0e25\\u0e21\\u0e32 \\u0e2b\\u0e21\\u0e32\\u0e22\\u0e40\\u0e25\\u0e02\\u0e2a\\u0e32\\u0e21'
+tp7
+a(S'100005467084550'
+S'Ahmet G\\u00fczel'
+tp8
+a(S'100007299247561'
+S'Andressa Oliveira'
+tp9
+a(S'100002169277287'
+S'Rohit Singh'
+tp10
+a(S'100007159803192'
+S'Pawe\\u0142 Nowak'
+tp11
+a(S'100005931510948'
+S'\\u0e2a\\u0e42\\u0e19\\u0e27\\u0e35\\u0e48 \\u0e41\\u0e21\\u0e27\\u0e19\\u0e49\\u0e2d\\u0e22'
+tp12
+asS'id'
+p13
+S'100002169277287'
+p14
+sS'name'
+p15
+S'Rohit Singh'
+p16
+s.

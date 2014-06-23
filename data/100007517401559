@@ -1,0 +1,277 @@
+(dp1
+S'name'
+p2
+S'Zohra Malik'
+p3
+sS'current_class'
+p4
+S'pakistan'
+p5
+sS'home_class'
+p6
+Vpeshawar, pakistan
+p7
+sS'home_text'
+p8
+VPeshawar, Pakistan\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D10.311100831733%252C%2B123.89144897461%26name%3DCebu%2BCity%26mkt%3Den-IN&h=ZAQEOwUzE&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D34.016700984757%252C%2B71.582794189453%26name%3DPeshawar%252C%2BPakistan%26mkt%3Den-IN&h=jAQEtIddn&s=1
+p13
+sS'current_text'
+p14
+VCebu City\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100007993003084'
+S'Umartaj Khan Mmd'
+tp18
+a(S'100003898624391'
+S'Shabir Jaggera'
+tp19
+a(S'100007397825547'
+S'Wafa Dar'
+tp20
+a(S'100003078226356'
+S'Shah Fahad Dagiwal'
+tp21
+a(S'100007816500526'
+S'Zeeshan Musafar'
+tp22
+a(S'100008056802879'
+S'Israr Ahmad'
+tp23
+a(S'100006639490522'
+S'Sagar Khan'
+tp24
+a(S'100002703492795'
+S'Farhan Khan'
+tp25
+a(S'100002858911177'
+S'Shabaz Baber'
+tp26
+a(S'100008079882918'
+S'Mohammed Irfan'
+tp27
+a(S'100001482042279'
+S'Farhan Alhajri'
+tp28
+a(S'100002062746940'
+S'Fazal Amin'
+tp29
+a(S'100001118349875'
+S'Ahmed Siddiqui'
+tp30
+a(S'100006178961532'
+S'Hasan Sa'
+tp31
+a(S'100001468763179'
+S'Akhtar Ali'
+tp32
+a(S'100007513514612'
+S'Zahir Khan'
+tp33
+a(S'100008101412203'
+S'Arfan Ali Ali'
+tp34
+a(S'100007961083741'
+S'Ayan Xtylish'
+tp35
+a(S'100003781553658'
+S'Salman Khan'
+tp36
+a(S'100008112938326'
+S'Shoaib Khan'
+tp37
+a(S'100005037010957'
+S'Babar Ali'
+tp38
+a(S'100008122684907'
+S'Muhammad Qaiser'
+tp39
+a(S'100008124433207'
+S'Ghani Khan'
+tp40
+a(S'100007514980415'
+S'Rs Jani Majeed'
+tp41
+a(S'100003012268187'
+S'Ejaz Sabir'
+tp42
+a(S'100007879652668'
+S'Aryuns Thakur'
+tp43
+a(S'100008040724937'
+S'Muskan Jay'
+tp44
+a(S'100007831180994'
+S'Aadhi Khan'
+tp45
+a(S'100007615631357'
+S'Arshed Ali'
+tp46
+a(S'100008122899673'
+S'Akhtar Hussain'
+tp47
+a(S'100007252513411'
+S'Amjid Khan'
+tp48
+a(S'100007658683217'
+S'Miraman Khan'
+tp49
+a(S'100002116102841'
+S'Aawais Qarni'
+tp50
+a(S'100006388323720'
+S'Sky Ayush'
+tp51
+a(S'100003646925553'
+S'Farhan Yousaf'
+tp52
+a(S'100008025420519'
+S'Abdullah King'
+tp53
+a(S'100008146203549'
+S'Faisal Khan'
+tp54
+a(S'100007391286017'
+S'Md Riyaz'
+tp55
+a(S'100008113112294'
+S'Zenia Khan'
+tp56
+a(S'100008035987830'
+S'Romeo Malik'
+tp57
+a(S'100008100491954'
+S'Sana Doll'
+tp58
+a(S'100007971547880'
+S'Maryam Noor'
+tp59
+a(S'100004864598271'
+S'Irfan Ali'
+tp60
+a(S'100006823240520'
+S'Md Asif Alex'
+tp61
+a(S'100008209207766'
+S'Sumbal Khan'
+tp62
+a(S'100007366243587'
+S'Sayyed Aaves Ali'
+tp63
+a(S'100008187844919'
+S'Muhammad Azad'
+tp64
+a(S'100001577447644'
+S'Fazal Amin'
+tp65
+a(S'100008157490540'
+S'Suraj Upreti'
+tp66
+a(S'100005699705403'
+S'Shelvin Shanil'
+tp67
+a(S'100008385844328'
+S'Shahghufta Naz'
+tp68
+a(S'100007061500823'
+S'Shakir Khan'
+tp69
+a(S'100005118360680'
+S'Arbaz Malik'
+tp70
+a(S'100005970939274'
+S'Zeeshan Ali'
+tp71
+a(S'100007849993556'
+S'Basit Khan Basit'
+tp72
+a(S'100007808288025'
+S'Md Mustufa'
+tp73
+a(S'100005850068557'
+S'Muhammad Rizwanmaqbool'
+tp74
+a(S'100001514679569'
+S'Jamal Khan'
+tp75
+a(S'100007369321187'
+S'Khadeeja Rani'
+tp76
+a(S'100005301944614'
+S'Jahangir Khan'
+tp77
+a(S'100003696891377'
+S'Waqas Ali'
+tp78
+a(S'100007595232409'
+S'Zaheer Ahmad'
+tp79
+a(S'100006782224667'
+S'Zaibar Sagar'
+tp80
+a(S'100007543980561'
+S'Shaheen Shah'
+tp81
+a(S'100007965035574'
+S'Tufail Ahmed'
+tp82
+a(S'696337314'
+S'Qamar Abbas'
+tp83
+a(S'100007089043108'
+S'Angel Musafar'
+tp84
+a(S'100006844061847'
+S'Sohel Raj'
+tp85
+a(S'100005933677994'
+S'Sunakshi Mehta'
+tp86
+a(S'100006512528036'
+S'Asad Ali Pti'
+tp87
+a(S'100007351122096'
+S'Tauqeer Shad'
+tp88
+a(S'100004420544428'
+S'Ayaz Shani'
+tp89
+a(S'100004791761070'
+S'Hafiz Riaz'
+tp90
+a(S'100000858653217'
+S'Sajjad Ullah'
+tp91
+a(S'100007740102003'
+S'Mustak Memon'
+tp92
+a(S'100005957979258'
+S'Tahir Shehzad'
+tp93
+a(S'100004929013087'
+S'Muhmmad Ali Yousafzai'
+tp94
+a(S'100007845072981'
+S'Saim Malik'
+tp95
+a(S'100007666863723'
+S'Aamir Shehzad'
+tp96
+a(S'100008099674050'
+S'Akram Khan'
+tp97
+asS'id'
+p98
+S'100007517401559'
+p99
+s.

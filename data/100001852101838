@@ -1,0 +1,37 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100001852101838'
+S'Vinay Kadian'
+tp4
+a(S'100005993140424'
+S'Akki Akash'
+tp5
+a(S'100005318921607'
+S'Sanjeev Kumar'
+tp6
+a(S'100004789774937'
+S'Arjun Singh'
+tp7
+a(S'100004868802724'
+S'Poonam Sharma'
+tp8
+a(S'100006022085450'
+S'Ritika Sharma'
+tp9
+a(S'100006043117187'
+S'Ashu Malik'
+tp10
+a(S'100005151097506'
+S'Anju Sharma'
+tp11
+asS'id'
+p12
+S'100001852101838'
+p13
+sS'name'
+p14
+S'Vinay Kadian'
+p15
+s.

@@ -1,0 +1,45 @@
+(dp1
+S'name'
+p2
+S'Pallavi Khandelwal'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_text'
+p6
+VMau, India\u000aHometown
+p7
+sS'current_link'
+p8
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D12.983300614779%252C%2B77.582702636719%26name%3DBangalore%252C%2BIndia%26mkt%3Den-IN&h=PAQHdAqTe&s=1
+p9
+sS'home_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D26.000000476047%252C%2B82.998962402344%26name%3DMau%252C%2BIndia%26mkt%3Den-IN&h=lAQEuWBFp&s=1
+p11
+sS'current_text'
+p12
+VBangalore, India\u000aCurrent City
+p13
+sS'friends'
+p14
+(lp15
+(S'683966173'
+S'Pallavi Khandelwal'
+tp16
+a(S'100006945693446'
+S'Satish Satish'
+tp17
+a(S'100008016282506'
+S'Rahul Arora'
+tp18
+a(S'100007314848721'
+S'Alisha Khan'
+tp19
+asS'id'
+p20
+S'683966173'
+p21
+s.

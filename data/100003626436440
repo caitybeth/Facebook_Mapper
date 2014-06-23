@@ -1,0 +1,265 @@
+(dp1
+S'current_text'
+p2
+VAllahabad, India\u000aCurrent City
+p3
+sS'name'
+p4
+S'Rajeev Anand'
+p5
+sS'current_class'
+p6
+S'india'
+p7
+sS'friends'
+p8
+(lp9
+(S'100001223716764'
+S'Aparajita Sen'
+tp10
+a(S'100001480563467'
+S'Sanjay Singh Parihar'
+tp11
+a(S'100005957076331'
+S'Mariamarlene Debrito'
+tp12
+a(S'1489600753'
+S'Raghunath Bharti'
+tp13
+a(S'100002695268838'
+S'Mukund Tiwari'
+tp14
+a(S'100005008332961'
+S'Shyam Narayan Chaturvedi'
+tp15
+a(S'100003881057973'
+S'Nand Kishor'
+tp16
+a(S'100005177017828'
+S'Shashi Bhushan Singh'
+tp17
+a(S'100001972765763'
+S'Shyam Dhar Tiwari'
+tp18
+a(S'100000872707808'
+S'Smita Srivastava'
+tp19
+a(S'100000411344427'
+S'Satyaveer Munna'
+tp20
+a(S'100002023707466'
+S'Amita A. Rao'
+tp21
+a(S'100005049491616'
+S'Manoj Kumar Yadav'
+tp22
+a(S'100002518444670'
+S'Manoj Gupta'
+tp23
+a(S'100002693988682'
+S'Ashok Chauhan'
+tp24
+a(S'100002758818767'
+S'Sujata Choudhary'
+tp25
+a(S'100003532162289'
+S'Manoj Kumar'
+tp26
+a(S'100003611996871'
+S'Awadhesh Mishra'
+tp27
+a(S'100000709904566'
+S'Akhil Singh'
+tp28
+a(S'100002510875274'
+S'Chandrika Prasad Upadhyay'
+tp29
+a(S'100001966200892'
+S'Arun Jaihind'
+tp30
+a(S'1817710994'
+S'Jeetendra S Pundir'
+tp31
+a(S'100004144869148'
+S'Keshav Prasad Maurya'
+tp32
+a(S'100003735323770'
+S'Nazim Ansari'
+tp33
+a(S'100001116308754'
+S'Israr Khan'
+tp34
+a(S'100001750412102'
+S'Virendra Kumar'
+tp35
+a(S'100001351755047'
+S'Rajesh Kumar'
+tp36
+a(S'100001594417155'
+S'Rajendra Tiwari Dukanji'
+tp37
+a(S'100004339775777'
+S'Ram Bahadur'
+tp38
+a(S'100001531354776'
+S'Anita Singh'
+tp39
+a(S'100003701966711'
+S'Pramod Rawat'
+tp40
+a(S'100008238096009'
+S'Hamara Adhikar Majdoor Sangathan'
+tp41
+a(S'100003186736902'
+S'Devendra Pratap Singh'
+tp42
+a(S'100000951937307'
+S'Vinita Kaushal'
+tp43
+a(S'100002518466239'
+S'Anil Kumar'
+tp44
+a(S'713961409'
+S'Jaya Gupta'
+tp45
+a(S'100002492394421'
+S'Safalta Srivastava'
+tp46
+a(S'100007462771878'
+S'Ratan Vikram'
+tp47
+a(S'100003854954074'
+S'Raj Bose'
+tp48
+a(S'100004129451190'
+S'Uttam Prayagi'
+tp49
+a(S'100000876151226'
+S'Drramchandra Siddharth'
+tp50
+a(S'100001357626876'
+S'R Vikas Kashyap'
+tp51
+a(S'100001629517443'
+S'Badal Saroj'
+tp52
+a(S'1851955814'
+S'Karishma Pal'
+tp53
+a(S'100000978098411'
+S'Virendra Kumar'
+tp54
+a(S'100001596909772'
+S'Vandita Srivastava'
+tp55
+a(S'100002636148611'
+S'Shashi Dwivedi Singh'
+tp56
+a(S'100001326375575'
+S'Vinod Mitra'
+tp57
+a(S'1391275644'
+S'Vishwanath Chatterjee'
+tp58
+a(S'1735558456'
+S'Jyoti Awasthi'
+tp59
+a(S'100002659995020'
+S'Raju Jaihind'
+tp60
+a(S'100003676257908'
+S'Surendra Pratap Singh'
+tp61
+a(S'100004716541532'
+S'Madhurima Mitra'
+tp62
+a(S'100002621529823'
+S'Amit Pathak'
+tp63
+a(S'100000715532762'
+S'Bhaskar Baghel'
+tp64
+a(S'100000484633897'
+S'Pramod Mitra'
+tp65
+a(S'100000333128446'
+S'Renu Raj Singh'
+tp66
+a(S'100006844631149'
+S'Sarsij Kumar Trivedi Atul'
+tp67
+a(S'100002337478841'
+S'Balwant Singh'
+tp68
+a(S'100007863090729'
+S'Bsa Lucknow'
+tp69
+a(S'100000618696617'
+S'Shilpa Agarwal'
+tp70
+a(S'100003964432098'
+S'Leena Mitra'
+tp71
+a(S'100006458928293'
+S'Sunil Kumar'
+tp72
+a(S'100003351768937'
+S'Udit Raj Ex Irs'
+tp73
+a(S'100001833158309'
+S'Kamlesh Bahadur'
+tp74
+a(S'100003027691310'
+S'Shashi Nag'
+tp75
+a(S'100000864960915'
+S'Rajurkar Raj'
+tp76
+a(S'1743741303'
+S'Shanti Bhushan'
+tp77
+a(S'100001786839702'
+S'Shyam Kishor Tiwari'
+tp78
+a(S'100004519093127'
+S'Girish Pande'
+tp79
+a(S'100004598310048'
+S'Lal Chandra'
+tp80
+a(S'100001205816148'
+S'Bhawan Nath Paswan'
+tp81
+a(S'100002753580913'
+S'Neha Gautam'
+tp82
+a(S'100000012920711'
+S'Saket Bajpai'
+tp83
+a(S'100002237326723'
+S'Amod Anand'
+tp84
+a(S'100002610630610'
+S'Ajamil Vyas'
+tp85
+a(S'694393543'
+S'Junita Paul'
+tp86
+a(S'100002545502483'
+S'Anil Raj Singh'
+tp87
+a(S'100006520924425'
+S'Ashok Bharti'
+tp88
+a(S'100004459209063'
+S'Ritandhara Mishra'
+tp89
+asS'id'
+p90
+S'100003626436440'
+p91
+sS'current_link'
+p92
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D25.450000497375%252C%2B81.849517822266%26name%3DAllahabad%252C%2BIndia%26mkt%3Den-IN&h=iAQGTSKI5&s=1
+p93
+s.

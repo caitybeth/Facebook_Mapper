@@ -1,0 +1,310 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100008153525194'
+S'Sadam Magsi'
+tp4
+a(S'100001040111208'
+S'Sahil Kamberani'
+tp5
+a(S'100007749187915'
+S'Mahmood Ali'
+tp6
+a(S'100003782821832'
+S'Fareed Brohi'
+tp7
+a(S'100000864456001'
+S'Wasim Brohi'
+tp8
+a(S'100002746093993'
+S'Abdul Salam Brohi'
+tp9
+a(S'100007730103883'
+S'Irshad Yousif'
+tp10
+a(S'100008073541924'
+S'Akhtar Ali'
+tp11
+a(S'1097015079'
+S'Fazal Chandio'
+tp12
+a(S'100003826455217'
+S'Tahir Hussain'
+tp13
+a(S'100007682469755'
+S'Tariq Brohi'
+tp14
+a(S'100007899670275'
+S'Naeem Saleh Sanjrani'
+tp15
+a(S'100006279454842'
+S'Asif Ali'
+tp16
+a(S'100001875783562'
+S'Diljanu Tunio'
+tp17
+a(S'100001426708767'
+S'Irfan Qadir'
+tp18
+a(S'100004369773340'
+S'Mansoor Baloch'
+tp19
+a(S'100004558897833'
+S'Rihankhan Brohi'
+tp20
+a(S'100008160698415'
+S'Murtiza Buriro'
+tp21
+a(S'100002830656198'
+S'Syed Shahid Hussain Shah'
+tp22
+a(S'100000815280756'
+S'Farooq Afzal'
+tp23
+a(S'100008245062344'
+S'Mohammed Yaqoob'
+tp24
+a(S'100007934490322'
+S'Ahamed Khan'
+tp25
+a(S'100006849493492'
+S'Liaquat Ali Brohi'
+tp26
+a(S'100002051524727'
+S'Sahil Noonari'
+tp27
+a(S'100001490857599'
+S'Sajid Brohi'
+tp28
+a(S'100008358427795'
+S'Sead Magsi'
+tp29
+a(S'100003137620641'
+S'Aamir Ali'
+tp30
+a(S'100006223295513'
+S'M Qasim Brohi'
+tp31
+a(S'100005062027076'
+S'Asghar Asghar'
+tp32
+a(S'100006663367772'
+S'Khlid Bloshi'
+tp33
+a(S'100006218052786'
+S'Kamred Jsmm Kamber'
+tp34
+a(S'100008273912541'
+S'Zahid Khan'
+tp35
+a(S'100006781502104'
+S'Irfan Ali Brohi'
+tp36
+a(S'100006688094516'
+S'Irfan Raja Brohi R'
+tp37
+a(S'100006878641960'
+S'Abdul Latif Tunio'
+tp38
+a(S'100000671362903'
+S'Azooz Al Baloshi'
+tp39
+a(S'100006004063897'
+S'Mazloom Mashooq Brohi'
+tp40
+a(S'100002054027798'
+S'Meer Xhafiullah Brohi'
+tp41
+a(S'100003198793032'
+S'Imran Brohi'
+tp42
+a(S'100003298624349'
+S'Ahmed Zehri'
+tp43
+a(S'100006527196307'
+S'SajjadAli Brohi'
+tp44
+a(S'100007600963493'
+S'Imran Baloch'
+tp45
+a(S'100007815697335'
+S'Unlove Ni Stoneheart'
+tp46
+a(S'100004524120534'
+S'Sattar Khan'
+tp47
+a(S'100004804724352'
+S'Naseer Ahmad'
+tp48
+a(S'100003476336899'
+S'Sarfraz Nawaz'
+tp49
+a(S'100002589846862'
+S'Ali Baloch'
+tp50
+a(S'100007935722017'
+S'Naseerahemed Lehri Naseerahemed Lehri'
+tp51
+a(S'100001353290542'
+S'Irshad Roshan'
+tp52
+a(S'100005204791802'
+S'Abdul Jalil Zehri'
+tp53
+a(S'100008127786522'
+S'Athar Baba'
+tp54
+a(S'100006893861966'
+S'Siraj Nawaz'
+tp55
+a(S'100003341499092'
+S'Rashid Ali'
+tp56
+a(S'100001490126527'
+S'Azayaz Brohi'
+tp57
+a(S'100003485554481'
+S'Abdul Ghaffar Zehri'
+tp58
+a(S'100007644273342'
+S'Ahsan Khan'
+tp59
+a(S'100004449224203'
+S'Abdul Rasool Brohi'
+tp60
+a(S'100004393721568'
+S'Gulsher Ali'
+tp61
+a(S'100003857750723'
+S'Raja Sobdar Buriro'
+tp62
+a(S'100006803433249'
+S'Zaina Baluch'
+tp63
+a(S'100007579838584'
+S'Nadir Magsi'
+tp64
+a(S'100004970230289'
+S'AmeerHussian Mugheri'
+tp65
+a(S'100007722997938'
+S'Aslam Khan Baloch'
+tp66
+a(S'100006040059901'
+S'Shohaz Baloch'
+tp67
+a(S'100006948242481'
+S'Xamiullah Brohi'
+tp68
+a(S'600273052'
+S'Mir Asif Baloch'
+tp69
+a(S'100003356220642'
+S'Manzoor Sakhirani'
+tp70
+a(S'100002959625198'
+S'Ustad Fida Gopang'
+tp71
+a(S'100002086164176'
+S'Muna Bhai'
+tp72
+a(S'100002517951499'
+S'Asif Baloch Asif Baloch'
+tp73
+a(S'100004229220460'
+S'Muskan Sonia'
+tp74
+a(S'100004140511293'
+S'\\u00d0-x \\u00c2r\\u00eff Kh\\u00e2\\u00f1'
+tp75
+a(S'100003339108972'
+S'Adnan Bajoi'
+tp76
+a(S'100002504056921'
+S'Saddam Baloch'
+tp77
+a(S'100007123057679'
+S'Shabeer Ali Baloch'
+tp78
+a(S'100008303705813'
+S'Khalid Jaan'
+tp79
+a(S'100004886678259'
+S'Yousaf Ulfat'
+tp80
+a(S'100007896753595'
+S'Hameed Brohi'
+tp81
+a(S'100007523854303'
+S'Ali Asghar'
+tp82
+a(S'100007801810285'
+S'King Ahsan Iqbal'
+tp83
+a(S'100007691441245'
+S'Abdul Majeedbrohi'
+tp84
+a(S'100005483138388'
+S'Zehri Baloch'
+tp85
+a(S'100005787793740'
+S'Abid Mugheri'
+tp86
+a(S'100005526492284'
+S'Nadir Baloch'
+tp87
+a(S'100004728122135'
+S'Heaven Ambrocio'
+tp88
+a(S'1285832410'
+S'Hamzah Afzal'
+tp89
+a(S'100007147840967'
+S'Hussain Hakro'
+tp90
+a(S'100002969679590'
+S'Altaf Zaib Al Emarati'
+tp91
+a(S'100008256309258'
+S'Muhammed Ayoub Baloach'
+tp92
+a(S'100008161265981'
+S'Sindhi Sadam'
+tp93
+a(S'100001294467946'
+S'Rashid Ali'
+tp94
+a(S'100007630985053'
+S'Abdullah Jaan'
+tp95
+a(S'100007738141615'
+S'Wazir Data Khan Magsi'
+tp96
+a(S'100003735069813'
+S'Sarfaraz Ahemd'
+tp97
+a(S'100003252962458'
+S'Imtiaz Gul'
+tp98
+a(S'100003629545500'
+S'Noman Tunio'
+tp99
+a(S'100003688849659'
+S'Bewas Sikandar Soomro'
+tp100
+a(S'100000046079179'
+S'Inayt Jaan'
+tp101
+a(S'100007783448939'
+S'Asghar Ali'
+tp102
+asS'id'
+p103
+S'100005542203242'
+p104
+sS'name'
+p105
+S'Shoaib Baloch'
+p106
+s.

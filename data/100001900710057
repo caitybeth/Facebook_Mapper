@@ -1,0 +1,310 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100004438418592'
+S'Kartikeya Tripathi'
+tp4
+a(S'100004962933265'
+S'Yamini Shukla'
+tp5
+a(S'100003756787148'
+S'Jyotsna Mishra'
+tp6
+a(S'821513554'
+S'Arijeet Roy'
+tp7
+a(S'100004320463307'
+S'Brajeshnandan Mishra'
+tp8
+a(S'100000176738388'
+S'Pushpendra Pande'
+tp9
+a(S'100001796196042'
+S'Roli Pandey'
+tp10
+a(S'100000891015770'
+S'Jyoti Sharma'
+tp11
+a(S'100002162448262'
+S'Akash Mishra'
+tp12
+a(S'100004962787677'
+S'Rajyashree Mishra'
+tp13
+a(S'100002198374306'
+S'Ashok Mishra'
+tp14
+a(S'100001418127556'
+S'Meenakshi Mishra'
+tp15
+a(S'100001634887478'
+S'Shreya Ojha'
+tp16
+a(S'100001497261490'
+S'Vandana Ojha'
+tp17
+a(S'100004046273293'
+S'Gaurav Chandra'
+tp18
+a(S'100003279107040'
+S'Utkarsh Tiwari'
+tp19
+a(S'100001469185128'
+S'Shaily Pandey'
+tp20
+a(S'100000008757936'
+S'Nrigendra Pande'
+tp21
+a(S'100000702835298'
+S'Amitabh Misra'
+tp22
+a(S'1163842887'
+S'Smriti Rai'
+tp23
+a(S'100001568641320'
+S'Tarun Ojha'
+tp24
+a(S'100001383803763'
+S'Ritu Arora Khullar'
+tp25
+a(S'100002125197777'
+S'Archana Ranjan'
+tp26
+a(S'1562959849'
+S'Yamineesh Tiwari'
+tp27
+a(S'100003598738822'
+S'Priya Shukla'
+tp28
+a(S'1075077973'
+S'Pragat Dutt'
+tp29
+a(S'100001975523626'
+S'Saurabh Dixit'
+tp30
+a(S'100007174980694'
+S'Anusha Pandey'
+tp31
+a(S'100003105369078'
+S'Abhishek Tripathi'
+tp32
+a(S'100005431473696'
+S'Shriya Shukla'
+tp33
+a(S'100004057867637'
+S'Digvijayendra Prasad Ji Maharaj'
+tp34
+a(S'100005432261690'
+S'Vinay Krishna Ojha'
+tp35
+a(S'612871134'
+S'Neha Garg'
+tp36
+a(S'100002079911693'
+S'Shalini Mishra'
+tp37
+a(S'100003896555740'
+S'Mili Shahi'
+tp38
+a(S'100001883727320'
+S'Vinayak Tripathi'
+tp39
+a(S'100001231965237'
+S'Akshay Mishra'
+tp40
+a(S'100001893561534'
+S'Madhulika Tiwari'
+tp41
+a(S'1758023198'
+S'Madhvendra Prasad'
+tp42
+a(S'588757462'
+S'Niti Gupta'
+tp43
+a(S'100002407269905'
+S'Nirupama Ojha'
+tp44
+a(S'100001712791624'
+S'Jyotika Trivedi'
+tp45
+a(S'100001589886198'
+S'Anant Mishra'
+tp46
+a(S'100002690917988'
+S'Archana Tripathi'
+tp47
+a(S'100000118895928'
+S'Neha Mishra'
+tp48
+a(S'100000385450710'
+S'Anurag Tiwari'
+tp49
+a(S'1774669413'
+S'Nidhi Patel'
+tp50
+a(S'100001109758429'
+S'Vishwanath Shukla'
+tp51
+a(S'100006339031631'
+S'Rekha Mani'
+tp52
+a(S'1263529326'
+S'Rama Dwivedi'
+tp53
+a(S'100003390520262'
+S'Shalini Sood'
+tp54
+a(S'100000858626414'
+S'Nandini Pandey'
+tp55
+a(S'100001120928947'
+S'Urvashi Pande Mishra'
+tp56
+a(S'1295379685'
+S'Ajay Pandey'
+tp57
+a(S'1048793706'
+S'Vedvyas Dwivedi'
+tp58
+a(S'644386941'
+S'RK Ojha'
+tp59
+a(S'100000010020853'
+S'Vaibhav Dixit'
+tp60
+a(S'540434397'
+S'Punita Singh'
+tp61
+a(S'100000078553420'
+S'Shubham Mani'
+tp62
+a(S'100000256760435'
+S'Amit Mani'
+tp63
+a(S'100002136744212'
+S'Tanishq Sharma'
+tp64
+a(S'100003152455730'
+S'Shephali Gupta'
+tp65
+a(S'100003680965972'
+S'Madhvee Mishra'
+tp66
+a(S'1430723708'
+S'Naveen Tripathi'
+tp67
+a(S'100001003882429'
+S'Manish Dwivedi'
+tp68
+a(S'100000711852293'
+S'Shubham Tiwari'
+tp69
+a(S'100002658135135'
+S'Neeta Vinay Verma'
+tp70
+a(S'100002615130152'
+S'Kavita Mishra'
+tp71
+a(S'100004105594388'
+S'Omesh Pandey'
+tp72
+a(S'100001946733262'
+S'Vibha Pandey'
+tp73
+a(S'100007707044381'
+S'Asim Ali'
+tp74
+a(S'585687256'
+S'Ramesh Sharma'
+tp75
+a(S'100001866858702'
+S'Afroz Chishti'
+tp76
+a(S'1699994189'
+S'Bal Krishna Ojha'
+tp77
+a(S'100000372742025'
+S'Arunabh Mishra'
+tp78
+a(S'100000056005912'
+S'Anand Ojha'
+tp79
+a(S'100002028063952'
+S'Yusra Chishti'
+tp80
+a(S'100003136947642'
+S'Shivangi Mani'
+tp81
+a(S'100003334957116'
+S'Priya Mani'
+tp82
+a(S'100000903872049'
+S'Mrigank Ojha'
+tp83
+a(S'100001621059407'
+S'Richa Mani'
+tp84
+a(S'100004158074119'
+S'Rakesh Shukla'
+tp85
+a(S'1258546443'
+S'Ramest Tripathi'
+tp86
+a(S'100000477841995'
+S'Vivek Ojha'
+tp87
+a(S'100000781744623'
+S'Arvind Dwivedi'
+tp88
+a(S'100003716190115'
+S'Anany Kumar Tiwari'
+tp89
+a(S'100001690749508'
+S'Shweta Mishra'
+tp90
+a(S'1540073135'
+S'Anand K Tripathi'
+tp91
+a(S'1500963174'
+S'Pallavi Singh'
+tp92
+a(S'100000209793010'
+S'Rajesh Shukla Bhu'
+tp93
+a(S'100004347933128'
+S'Saba Chishti'
+tp94
+a(S'100000136485602'
+S'Vinay Rai'
+tp95
+a(S'100000894881876'
+S'Divyashree Shukla'
+tp96
+a(S'100002639558220'
+S'Jay Patel'
+tp97
+a(S'100001993356549'
+S'Vandana Tripathi'
+tp98
+a(S'1153304848'
+S'Vivek Singh'
+tp99
+a(S'801198064'
+S'Rajiv Rai'
+tp100
+a(S'100001932787355'
+S'Upasana Srivastava'
+tp101
+a(S'1807086400'
+S'Shashank Shekhar Ojha'
+tp102
+asS'id'
+p103
+S'100001900710057'
+p104
+sS'name'
+p105
+S'Bhawna Mishra'
+p106
+s.

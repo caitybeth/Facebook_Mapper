@@ -1,0 +1,277 @@
+(dp1
+S'name'
+p2
+S'Alok Mohan'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vallahabad, uttar pradesh, india
+p7
+sS'home_text'
+p8
+VAllahabad, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D28.670000100639%252C%2B77.419281005859%26name%3DGhaziabad%252C%2BIndia%26mkt%3Den-IN&h=bAQEmLiSX&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D25.450000497375%252C%2B81.849517822266%26name%3DAllahabad%252C%2BIndia%26mkt%3Den-IN&h=KAQGljQ83&s=1
+p13
+sS'current_text'
+p14
+VGhaziabad, India\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100003385592541'
+S'Swasti Srivastava'
+tp18
+a(S'100002195755997'
+S'Rohit Kumar'
+tp19
+a(S'1195823689'
+S'Anurag Srivastava'
+tp20
+a(S'1084749676'
+S'Tulika Srivastava'
+tp21
+a(S'100000998714278'
+S'Kumkum Srivastava'
+tp22
+a(S'100001393146907'
+S'Rohit Srivastava'
+tp23
+a(S'100002230089658'
+S'Ashutosh Kumar'
+tp24
+a(S'100002448045673'
+S'Rashmi Aseem Madhupuri'
+tp25
+a(S'100002072420284'
+S'Rajiv Shrivastava'
+tp26
+a(S'1070862788'
+S'Saksham Kumar'
+tp27
+a(S'100000267096453'
+S'Suresh Dubey'
+tp28
+a(S'100001976399188'
+S'Richaa Khare'
+tp29
+a(S'1262992178'
+S'Ruchi Srivastava'
+tp30
+a(S'100002075627299'
+S'Ashish Srivastava'
+tp31
+a(S'746323504'
+S'Shelly Srivastava'
+tp32
+a(S'838503621'
+S'Vinil Pant'
+tp33
+a(S'533819795'
+S'Puneet Prakash'
+tp34
+a(S'100000120022270'
+S'Neeraj Singh'
+tp35
+a(S'100006450965025'
+S'Usha Srivastava'
+tp36
+a(S'100000490969943'
+S'Arun Srivastava'
+tp37
+a(S'1808097632'
+S'Sunil Pandey'
+tp38
+a(S'100000183663563'
+S'Ishita Mohan'
+tp39
+a(S'1418963348'
+S'Manish Kumar Srivastava'
+tp40
+a(S'100000924442152'
+S'Yogendra Srivastava'
+tp41
+a(S'1364837292'
+S'Madhur Agrawal'
+tp42
+a(S'648829085'
+S'Birendra Negi'
+tp43
+a(S'1183459164'
+S'Atul Pandey'
+tp44
+a(S'555482459'
+S'Rashmi Kanchan'
+tp45
+a(S'1794939887'
+S'Suryakant Mishra'
+tp46
+a(S'100003613402559'
+S'Sadhna Kulshrestha'
+tp47
+a(S'100002064296332'
+S'Ruchira Srivastava'
+tp48
+a(S'100000562350460'
+S'Amit Mandal'
+tp49
+a(S'100000452277955'
+S'Chanda Lokendra Kundnaney'
+tp50
+a(S'668589067'
+S'Puja Shree'
+tp51
+a(S'809674254'
+S'Devarshi Raj'
+tp52
+a(S'100001885300160'
+S'Mehaa Khare'
+tp53
+a(S'1182705371'
+S'Shivendra Bhaskar'
+tp54
+a(S'100004564332007'
+S'Seema Sinha'
+tp55
+a(S'100000783650400'
+S'Kanchan Bhaskar'
+tp56
+a(S'634968641'
+S'Antony Miranda'
+tp57
+a(S'100000979391146'
+S'Mrigank Srivastava'
+tp58
+a(S'100001364880368'
+S'Anil Srivastava'
+tp59
+a(S'100000766691775'
+S'Sudhanshu Handa'
+tp60
+a(S'1522417046'
+S'Brajesh Srivastava'
+tp61
+a(S'100001037335119'
+S'Sangita Kumar'
+tp62
+a(S'100005236266118'
+S'Mukesh Goel'
+tp63
+a(S'100000197526604'
+S'Aprajita Srivastava'
+tp64
+a(S'529173656'
+S'Sanjay Srivastava'
+tp65
+a(S'100005425478514'
+S'Riya Srivastava'
+tp66
+a(S'100008080236590'
+S'Syelg Red'
+tp67
+a(S'100001770602549'
+S'Kunwar Vikas Chandra Singh'
+tp68
+a(S'100001475208623'
+S'Ashutosh Mitra'
+tp69
+a(S'100000313015830'
+S'Yogesh Srivastava'
+tp70
+a(S'100000578645341'
+S'Sandeep Singh'
+tp71
+a(S'100001043595681'
+S'Dipika Nandan'
+tp72
+a(S'626393875'
+S'Nishi Shetty'
+tp73
+a(S'100000092204365'
+S'Richa Mohan'
+tp74
+a(S'1160647042'
+S'Nitin Khera'
+tp75
+a(S'100000035831137'
+S'Devesh Prakash'
+tp76
+a(S'100000228418794'
+S'Peeyush Srivastava'
+tp77
+a(S'100007799412764'
+S'Asha Khurana'
+tp78
+a(S'100000237595785'
+S'Vijay Shukla'
+tp79
+a(S'100003203889034'
+S'Priti Shukla Badiya'
+tp80
+a(S'100008008621407'
+S'Shruti Hasan'
+tp81
+a(S'100001419612932'
+S'Brahma Nand Khare'
+tp82
+a(S'100001121565551'
+S'Sheetal Bhalla'
+tp83
+a(S'767219636'
+S'Munish Gaur'
+tp84
+a(S'100008159975503'
+S'Aliya Khan'
+tp85
+a(S'100000766938822'
+S'Roli Saxena'
+tp86
+a(S'100001209971484'
+S'Advitiya Srivastava'
+tp87
+a(S'761075208'
+S'Manoj Vishwakarma'
+tp88
+a(S'100001099056143'
+S'Ravi Arora'
+tp89
+a(S'632377704'
+S'Sarvartha Kanchan'
+tp90
+a(S'1487705855'
+S'Sujata Parashar'
+tp91
+a(S'100002079495616'
+S'Devesh Dakwale'
+tp92
+a(S'100001939838604'
+S'Manoj Arora'
+tp93
+a(S'100005266357139'
+S'Subhash Khurana'
+tp94
+a(S'100000280374252'
+S'Anand Upadhyay'
+tp95
+a(S'100004101291615'
+S'Ragini Shrivastava'
+tp96
+a(S'100000705922162'
+S'Avnish Pathak'
+tp97
+asS'id'
+p98
+S'1802277793'
+p99
+s.

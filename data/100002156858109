@@ -1,0 +1,277 @@
+(dp1
+S'name'
+p2
+S'Mrityunjoy Barnwal'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vdeoghar, jharkhand, india
+p7
+sS'home_text'
+p8
+VDeoghar, Jharkhand, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D28.613900916609%252C%2B77.207794189453%26name%3DNew%2BDelhi%252C%2BIndia%26mkt%3Den-IN&h=NAQHJDXst&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D24.483300337579%252C%2B86.699981689453%26name%3DDeoghar%252C%2BJharkhand%252C%2BIndia%26mkt%3Den-IN&h=3AQF2uSAv&s=1
+p13
+sS'current_text'
+p14
+VNew Delhi, India\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100000884134108'
+S'Anant Kumar Lal'
+tp18
+a(S'100001369867970'
+S'Indirajeet Kumar'
+tp19
+a(S'100001471133719'
+S'Sharanya Dinesh'
+tp20
+a(S'100003285215755'
+S'Manish Kumar Baranwal'
+tp21
+a(S'100001276345779'
+S'Ashok Kumar'
+tp22
+a(S'100003286153830'
+S'Hasya Kavi Ghanshyam Agrawal'
+tp23
+a(S'100005093592856'
+S'Suneel Baranwal'
+tp24
+a(S'100001275268012'
+S'Manoj Kumar Baranwal'
+tp25
+a(S'100001949236465'
+S'Abhimanyu Lal Baranwal'
+tp26
+a(S'1827878334'
+S'Basant Arya'
+tp27
+a(S'1061764312'
+S'Manish Mishra'
+tp28
+a(S'100008246563316'
+S'Bharati Baranwal'
+tp29
+a(S'100003838943568'
+S'Sanjay Kumar'
+tp30
+a(S'100000162842251'
+S'Vipul Harsh'
+tp31
+a(S'100007385143191'
+S'Amit Bharti'
+tp32
+a(S'100007761695594'
+S'Anjana Babli'
+tp33
+a(S'100002355041828'
+S'Ashok Sarkar'
+tp34
+a(S'100000622034394'
+S'Sanjay Kumar'
+tp35
+a(S'100000300321373'
+S'Sarfaraz Tauheed'
+tp36
+a(S'780843935'
+S'Ashish Abrol'
+tp37
+a(S'100000247713443'
+S'SapnaUmesh Jaiswal'
+tp38
+a(S'1334542051'
+S'Rajini Vasan'
+tp39
+a(S'100003556009688'
+S'Shristi Sarovar'
+tp40
+a(S'1741858398'
+S'Harshita Prabha'
+tp41
+a(S'734608651'
+S'Anadee Nath Misshra'
+tp42
+a(S'100001317682567'
+S'Mahesh Kumar Gupta'
+tp43
+a(S'1490490599'
+S'Rahul Navin'
+tp44
+a(S'729859750'
+S'Krishna Mohan Prasad'
+tp45
+a(S'100001655629949'
+S'Sanjana Verma'
+tp46
+a(S'100002680564242'
+S'Ramratan Barnwal'
+tp47
+a(S'100001813336161'
+S'Arun Kumar Goswami'
+tp48
+a(S'1141281931'
+S'Suryakumar Pandey'
+tp49
+a(S'567708456'
+S'Shishir Srivastava'
+tp50
+a(S'100002463823745'
+S'Manojkumar Barnwal'
+tp51
+a(S'100000167051951'
+S'Diwakar Singh'
+tp52
+a(S'100002755026408'
+S'Robins Kumar'
+tp53
+a(S'1168719172'
+S'Prabhat Prabhat'
+tp54
+a(S'100000390481166'
+S'Teertha Barnwal'
+tp55
+a(S'1435347523'
+S'Amal Garg'
+tp56
+a(S'100002666078706'
+S'Rajiv Ranjan'
+tp57
+a(S'1205814760'
+S'Sanjiv Shankar'
+tp58
+a(S'100001250495515'
+S'Suraj Nishu'
+tp59
+a(S'100000073368652'
+S'Narendra Kapoor'
+tp60
+a(S'100003347900893'
+S'Vivek Sonbhadra'
+tp61
+a(S'1429304234'
+S'Sharad Chhawchharia'
+tp62
+a(S'100001602994256'
+S'Alok Kumar'
+tp63
+a(S'100000606008593'
+S'CA Dinesh Dutta Dwary'
+tp64
+a(S'100002653914259'
+S'Sanjay Sinha'
+tp65
+a(S'100004105147704'
+S'Gopal Baranwal'
+tp66
+a(S'1226144349'
+S'Dinesh Magadi'
+tp67
+a(S'100002300922640'
+S'Namita Singh'
+tp68
+a(S'100000007112731'
+S'Dipak Kumar Sinha'
+tp69
+a(S'100002278956874'
+S'Shashi Prasad'
+tp70
+a(S'100002729691256'
+S'Babita Lal'
+tp71
+a(S'100002124708182'
+S'Dhananjoy Barnwal'
+tp72
+a(S'100001237580519'
+S'Ajay Kumar Baranwal'
+tp73
+a(S'100005966826230'
+S'Sudha Baranwal'
+tp74
+a(S'100003068341833'
+S'BN Singh'
+tp75
+a(S'100000543093291'
+S'Manish Kumar Towards Success'
+tp76
+a(S'100002140865026'
+S'Sarvesh Chandra Katiyar'
+tp77
+a(S'100003381589717'
+S'Anuja Bharti'
+tp78
+a(S'100002283371555'
+S'Munesh Kumar'
+tp79
+a(S'100003102352326'
+S'A.b. Chargawey'
+tp80
+a(S'100001159110093'
+S'Satyendra Kumar Satya'
+tp81
+a(S'100005835344358'
+S'Arun Kumar'
+tp82
+a(S'100002447228304'
+S'Ranjana Kumari'
+tp83
+a(S'688072801'
+S'Sameer Sharma'
+tp84
+a(S'1486491918'
+S'Sanjay Shivam'
+tp85
+a(S'100000711772336'
+S'Manoranjan Sinha'
+tp86
+a(S'100002202278710'
+S'Rajkumar Barnwal'
+tp87
+a(S'100001176368116'
+S'Kumar Goutam'
+tp88
+a(S'100003981993437'
+S'Sakshi Suman'
+tp89
+a(S'100006064778214'
+S'Arun Kumar'
+tp90
+a(S'100002071977768'
+S'Manish Kumar'
+tp91
+a(S'100003968873455'
+S'Rajesh Nirala'
+tp92
+a(S'100000591004974'
+S'Nikhil Choudhary'
+tp93
+a(S'100004658372388'
+S'Karina Kapoor'
+tp94
+a(S'100000159486283'
+S'Ashok Jha'
+tp95
+a(S'100000280374252'
+S'Anand Upadhyay'
+tp96
+a(S'100001723352496'
+S'Pranay Parimal'
+tp97
+asS'id'
+p98
+S'100002156858109'
+p99
+s.

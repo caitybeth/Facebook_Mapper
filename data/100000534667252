@@ -1,0 +1,217 @@
+(dp1
+S'name'
+p2
+S'Vicky Moon'
+p3
+sS'current_class'
+p4
+S'indonesia'
+p5
+sS'home_class'
+p6
+Vmadura, buay sandang aji, south ogan komering ulu, south sumatra, indonesia
+p7
+sS'home_text'
+p8
+VMadura, Sumatera Selatan, Indonesia\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D-4.499999724378%252C%2B103.94989013672%26name%3DMadura%252C%2BSumatera%2BSelatan%252C%2BIndonesia%26mkt%3Den-IN&h=xAQHCnE96&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D-4.499999724378%252C%2B103.94989013672%26name%3DMadura%252C%2BSumatera%2BSelatan%252C%2BIndonesia%26mkt%3Den-IN&h=xAQHCnE96&s=1
+p13
+sS'current_text'
+p14
+VMadura, Sumatera Selatan, Indonesia\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100005105495296'
+S'Zeenat Hussain'
+tp18
+a(S'100004033842471'
+S'Asad Hussain'
+tp19
+a(S'100003998592137'
+S'Sabnam Kureshi'
+tp20
+a(S'717321178'
+S'Mohammad Uzair Ahmed'
+tp21
+a(S'100006785943936'
+S'Sath Tera Mera Shaibe'
+tp22
+a(S'100002547731457'
+S'Ali Ahmed'
+tp23
+a(S'100005801052983'
+S'Rehan Mughal'
+tp24
+a(S'100006279611214'
+S'Mozam Abbas'
+tp25
+a(S'100004662727693'
+S'Maham Zahid'
+tp26
+a(S'100000727653861'
+S'Imran Hussain'
+tp27
+a(S'1310944336'
+S'Sana Umer'
+tp28
+a(S'100000155502956'
+S'Naveed Malik'
+tp29
+a(S'1375251596'
+S'Lovely Imran'
+tp30
+a(S'100004601768379'
+S'Faani Prince'
+tp31
+a(S'100001812414421'
+S'Hassan Chaudhary'
+tp32
+a(S'1270853088'
+S'Ythorod Aitara'
+tp33
+a(S'100000580917931'
+S'Waqas Afzal'
+tp34
+a(S'100000194566678'
+S'Yasir Ch'
+tp35
+a(S'100002404970432'
+S'Atif Diwana'
+tp36
+a(S'100005858944044'
+S'Sidra Shahid'
+tp37
+a(S'100003986553453'
+S'Mustaqeem Kamboh'
+tp38
+a(S'100000421182147'
+S'Tanveer Ansari'
+tp39
+a(S'100001413604725'
+S'Ahmad Shahbaz'
+tp40
+a(S'100003943879683'
+S'Sulaman Mani Rider'
+tp41
+a(S'1516373860'
+S'Umer Zia'
+tp42
+a(S'1392758650'
+S'Kashif Saleem'
+tp43
+a(S'100000914012124'
+S'Shahzaib Khan'
+tp44
+a(S'100002934094314'
+S'Amir Moon'
+tp45
+a(S'100005723410727'
+S'Kashif Khlifa'
+tp46
+a(S'100003713430782'
+S'Shahbaz Chohan'
+tp47
+a(S'100002026037100'
+S'Azeem'
+tp48
+a(S'1108407858'
+S'Mian Ahad'
+tp49
+a(S'100003909752818'
+S'Majid Ali'
+tp50
+a(S'100000353188510'
+S'\\u0639\\u0628\\u062f \\u0627\\u0644\\u0644\\u0647 \\u0623\\u0643\\u0631\\u0645'
+tp51
+a(S'100000585640863'
+S'Tuba Malik'
+tp52
+a(S'100004891060051'
+S'Muhammad Ali'
+tp53
+a(S'100004590103559'
+S'Mian Muhammad Aslam Iqbal'
+tp54
+a(S'100002666548542'
+S'Sameer Butt'
+tp55
+a(S'100005603053318'
+S'Aadil Saleem'
+tp56
+a(S'100000832354964'
+S'Abdur Rahman Rahman'
+tp57
+a(S'100004428722641'
+S'Muhammad Abbas'
+tp58
+a(S'100000781996215'
+S'Noman Shahid'
+tp59
+a(S'100001048524364'
+S'Mohsin Ishtiaq'
+tp60
+a(S'100000118847070'
+S'Aamir Ghumman'
+tp61
+a(S'100003028429711'
+S'Wahid Jamshed'
+tp62
+a(S'100004648860898'
+S'Sonu Shahid'
+tp63
+a(S'100001388865735'
+S'Ali Kamran'
+tp64
+a(S'100004326220195'
+S'Waseem Ilyas'
+tp65
+a(S'100005495498909'
+S'Rana Imranshab'
+tp66
+a(S'100000156256326'
+S'Mazhar Hussain'
+tp67
+a(S'1289314343'
+S'Maria Ali'
+tp68
+a(S'100005922363923'
+S'Muhammad Shahbaz'
+tp69
+a(S'100002010123802'
+S'Azeem Iqbal'
+tp70
+a(S'100001435297336'
+S'Atif Arif'
+tp71
+a(S'838710053'
+S'Ahad Jamshaid'
+tp72
+a(S'100001952254568'
+S'\\u00d2n\\u0119 \\u00d1d \\u00d3n\\u0141\\u00ff'
+tp73
+a(S'100003214184911'
+S'King Zebi'
+tp74
+a(S'682653756'
+S'Angellc Zara'
+tp75
+a(S'100000953709269'
+S'Muhammad Uzair'
+tp76
+a(S'100002692700325'
+S'Adeela Imran'
+tp77
+asS'id'
+p78
+S'100000534667252'
+p79
+s.

@@ -1,0 +1,28 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100003905764412'
+S'Zahid Khan'
+tp4
+a(S'100002747720975'
+S'\\u062f\\u0648\\u0633\\u062a\\u062a \\u062f\\u0627\\u0631\\u0645'
+tp5
+a(S'100004836424655'
+S'Maqsood Deldar'
+tp6
+a(S'100006800080829'
+S'Ajmal Pardis'
+tp7
+a(S'100001739594645'
+S'Sayed Mustafa Hashimi'
+tp8
+asS'id'
+p9
+S'100006800080829'
+p10
+sS'name'
+p11
+S'Ajmal Pardis'
+p12
+s.

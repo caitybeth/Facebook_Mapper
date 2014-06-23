@@ -1,0 +1,31 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100003567862854'
+S'Dhananjay Kumar'
+tp4
+a(S'100002467072979'
+S'Anil Gupta'
+tp5
+a(S'100004495740475'
+S'Sanjay Kumar Sikriwal'
+tp6
+a(S'100008312618688'
+S'\\u0905\\u092f\\u0928 \\u092a\\u094d\\u0930\\u0915\\u093e\\u0936\\u0928'
+tp7
+a(S'100006542522251'
+S'Uttam Kumar'
+tp8
+a(S'100000783764727'
+S'Pravin Srivastava'
+tp9
+asS'id'
+p10
+S'100000783764727'
+p11
+sS'name'
+p12
+S'Pravin Srivastava'
+p13
+s.

@@ -1,0 +1,262 @@
+(dp1
+S'name'
+p2
+S'Peter Payrs'
+p3
+sS'current_class'
+p4
+Vredmond, wa, usa
+p5
+sS'home_class'
+p6
+Vwashington, dc, usa
+p7
+sS'home_text'
+p8
+VWashington, District of Columbia\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D47.669400027159%252C%2B-122.1240234375%26name%3DRedmond%252C%2BWashington%26mkt%3Den-IN&h=RAQGua04l&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D38.89510054352%252C%2B-77.037506103516%26name%3DWashington%252C%2BDistrict%2Bof%2BColumbia%26mkt%3Den-IN&h=hAQFnqTm6&s=1
+p13
+sS'current_text'
+p14
+VRedmond, Washington\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100003486038598'
+S'Yvonie Grace Faustino'
+tp18
+a(S'100002701783548'
+S'Afzaal Ahmed'
+tp19
+a(S'100005313634377'
+S'Alvin Khoirun Nisa'
+tp20
+a(S'100005899805459'
+S'Namitaarora Singhannaala'
+tp21
+a(S'100004347397948'
+S'Tahmeena Khan'
+tp22
+a(S'100006454383936'
+S'Joydeep Dey'
+tp23
+a(S'100005928428109'
+S'Homa Kermani'
+tp24
+a(S'100005285469314'
+S'Lara Peter'
+tp25
+a(S'100007020159299'
+S'Shanti Priya'
+tp26
+a(S'100002231487384'
+S'Alicia Stone'
+tp27
+a(S'100003575784135'
+S'Namali Silva'
+tp28
+a(S'100006274417346'
+S'Sad Memory'
+tp29
+a(S'100003495894773'
+S'Ria Mehra'
+tp30
+a(S'100003213696845'
+S'Maria  Minenkova'
+tp31
+a(S'100006681333249'
+S'Teju Parwindhar'
+tp32
+a(S'100004726172217'
+S'Novy Mozareta'
+tp33
+a(S'100006496350074'
+S'Alex Diamond'
+tp34
+a(S'100006502480965'
+S'Rizky Ramdani'
+tp35
+a(S'100003750826569'
+S'Carmen Cecilia House Murillo'
+tp36
+a(S'100005527830920'
+S'Tamil Selvi'
+tp37
+a(S'100003215574748'
+S'Ku Bi'
+tp38
+a(S'100003953893393'
+S'Anita Jane'
+tp39
+a(S'100006487348377'
+S'Dhindhin Oclinaria'
+tp40
+a(S'100004603837109'
+S'Nita Tomar'
+tp41
+a(S'100001119663889'
+S'Miriam Eric'
+tp42
+a(S'100006761136321'
+S'Sashini Perera'
+tp43
+a(S'100004101907561'
+S'Reehab Fatima'
+tp44
+a(S'100006592112870'
+S'Diya Das'
+tp45
+a(S'100006598393688'
+S'Amali Sanju'
+tp46
+a(S'100006737072451'
+S'Tamil Sankar'
+tp47
+a(S'100004033246168'
+S'Rahull Roni'
+tp48
+a(S'100006397052058'
+S'Tina Das'
+tp49
+a(S'100001463721222'
+S'Chrisy Ganey'
+tp50
+a(S'694197793'
+S'Th\\u1eeba \\u00c1i Thi\\u00ean Thanh'
+tp51
+a(S'100004165867539'
+S'Veer Singh'
+tp52
+a(S'100006635582909'
+S'Truc Diem'
+tp53
+a(S'100006972602141'
+S'Madhuri Patil'
+tp54
+a(S'100006531481727'
+S'Divya Divi'
+tp55
+a(S'100000160742469'
+S'Lu\\u1eadt S\\u01b0 H\\u00f9ng'
+tp56
+a(S'100001458432344'
+S'Hu\\u1ec7 Li\\u00ean Th\\u00e1i'
+tp57
+a(S'100003896990225'
+S'Naswah M'
+tp58
+a(S'100006180608687'
+S'Nylaneehr Rhenzkiie Mirafuentes'
+tp59
+a(S'100001969663013'
+S'Ly Phuong Trang'
+tp60
+a(S'100006711313228'
+S'Danushka Perera'
+tp61
+a(S'100002304042583'
+S'Anamika Patra'
+tp62
+a(S'100002476868100'
+S'Anjali Patil'
+tp63
+a(S'100006238293598'
+S'Kenith Jane Jacob'
+tp64
+a(S'100004643342394'
+S'Ruwani Perera'
+tp65
+a(S'1716560696'
+S'Gayani Amarasingha'
+tp66
+a(S'100000606524655'
+S'Cam Khuong'
+tp67
+a(S'571579710'
+S'Lili Varjoluoto'
+tp68
+a(S'100006873582973'
+S'Rose Martin'
+tp69
+a(S'100006745811541'
+S'Arpana Thakur'
+tp70
+a(S'100005532731792'
+S'Silvi Hairun'
+tp71
+a(S'100003500668365'
+S'Salma Indo'
+tp72
+a(S'100005964422746'
+S'Misty Rahman'
+tp73
+a(S'100006212704325'
+S'Inalda Nhacudime'
+tp74
+a(S'100006255510417'
+S'Evi Selvia'
+tp75
+a(S'100003266243409'
+S'Pagli Meya'
+tp76
+a(S'100005764932959'
+S'Angel Regina'
+tp77
+a(S'100006331629265'
+S'Maria Islam'
+tp78
+a(S'100006512239570'
+S'Prince Aazam'
+tp79
+a(S'100001411172525'
+S'Nha Tran'
+tp80
+a(S'100003795243258'
+S'Kiran Khan'
+tp81
+a(S'100006572224040'
+S'Nh\\u00f3c Love'
+tp82
+a(S'100005825981949'
+S'Y\\u00eau \\u01a0i'
+tp83
+a(S'100006697807424'
+S'Rajsri Singh'
+tp84
+a(S'100005879582542'
+S'Ola Be'
+tp85
+a(S'100006735607685'
+S'Omaya Fernando'
+tp86
+a(S'100006766471694'
+S'Cherry Honey'
+tp87
+a(S'100003681433504'
+S'Lanilyn Jornales Mirafuentes'
+tp88
+a(S'100005487004466'
+S'Naz Ajij Kanur'
+tp89
+a(S'100007265531574'
+S'Mahes Maheswaran'
+tp90
+a(S'100006565545729'
+S'Nisha Patel'
+tp91
+a(S'1523034137'
+S'Abraham Maldonado Rosario'
+tp92
+asS'id'
+p93
+S'100006014802430'
+p94
+s.

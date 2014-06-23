@@ -1,0 +1,673 @@
+(dp1
+S'name'
+p2
+S'Priti Patnaik'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vbhubaneshwar, odisha, india
+p7
+sS'home_text'
+p8
+VBhubaneshwar, Orissa, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D18.975000641097%252C%2B72.825622558594%26name%3DMumbai%252C%2BMaharashtra%252C%2BIndia%26mkt%3Den-IN&h=aAQEOkmmA&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D20.233300594568%252C%2B85.832061767578%26name%3DBhubaneshwar%252C%2BOrissa%252C%2BIndia%26mkt%3Den-IN&h=-AQFlaeDC&s=1
+p13
+sS'current_text'
+p14
+VMumbai, Maharashtra, India\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'693467353'
+S'Madhusmita Patnaik'
+tp18
+a(S'100002921420088'
+S'Snehalata Pattnaik'
+tp19
+a(S'100001665327876'
+S'Malini Sinha'
+tp20
+a(S'100001554372499'
+S'Narendra Gour'
+tp21
+a(S'514360238'
+S'Babbu Shah'
+tp22
+a(S'100005207080026'
+S'Poonam Panwar'
+tp23
+a(S'100003327575412'
+S'Anita Panda'
+tp24
+a(S'100000591660253'
+S'Arnab Chatterjee'
+tp25
+a(S'556107860'
+S'Pakhee Kapoor'
+tp26
+a(S'100002387551266'
+S'Anjalika Pattanaik'
+tp27
+a(S'100000285655174'
+S'Mala Mansukhani'
+tp28
+a(S'750644893'
+S'Shreya Patnaik'
+tp29
+a(S'100002147831769'
+S'Arushi Benupani'
+tp30
+a(S'100001741622506'
+S'Savita Vidyarthi'
+tp31
+a(S'1478602987'
+S'Samuel Darse'
+tp32
+a(S'546111470'
+S'Astha Johri'
+tp33
+a(S'100002114559043'
+S'Alka Giri Parbat'
+tp34
+a(S'638765111'
+S'Ankit Patnaik'
+tp35
+a(S'1608699390'
+S'Amrita Misra'
+tp36
+a(S'1209321011'
+S'Kumud C P Patnaik'
+tp37
+a(S'100000051174510'
+S'Suresh Battini'
+tp38
+a(S'100002098361777'
+S'Aamna Shariff'
+tp39
+a(S'1428332344'
+S'Laxmi Narayan Pant'
+tp40
+a(S'100000024741026'
+S'Bandana Biswal'
+tp41
+a(S'1717844169'
+S'Krinwant Sahay'
+tp42
+a(S'100002754385461'
+S'Hema Malini'
+tp43
+a(S'1042693993'
+S'Pankaj Vidyarthi'
+tp44
+a(S'100003235552235'
+S'Minu Mishra'
+tp45
+a(S'100000576236212'
+S'Sapna Purohit'
+tp46
+a(S'1613414529'
+S'Vivek Batra'
+tp47
+a(S'604555139'
+S'Gaurav S Randhawa'
+tp48
+a(S'100001168358054'
+S'Preeti Kamat'
+tp49
+a(S'1216609601'
+S'Asmita Epari'
+tp50
+a(S'553329147'
+S'Sumitra Senapaty'
+tp51
+a(S'100001415927655'
+S'Dinesh Patwari'
+tp52
+a(S'759209876'
+S'Arti Bhargava'
+tp53
+a(S'100001572481305'
+S'Rachna Mohan'
+tp54
+a(S'100006432561734'
+S'Ratna Saxena'
+tp55
+a(S'100001910617904'
+S'Sunita Ojha'
+tp56
+a(S'718545607'
+S'Reeti Rajguru'
+tp57
+a(S'671048161'
+S'Rachana Rathi Gunjal'
+tp58
+a(S'743413358'
+S'Vasundhara Sampath'
+tp59
+a(S'1003793720'
+S'Paramjeet Singh'
+tp60
+a(S'100001473283394'
+S'Taramani Patnaik'
+tp61
+a(S'100004032571931'
+S'Shashi Verma'
+tp62
+a(S'100000557943272'
+S'Aparna Pant'
+tp63
+a(S'100003797577583'
+S'Mona Sinha'
+tp64
+a(S'100001935312624'
+S'Manisha Tiwari'
+tp65
+a(S'100005625492204'
+S'Asish Kumar Mohanty'
+tp66
+a(S'530052124'
+S'Rupa Mahapatra'
+tp67
+a(S'1229738065'
+S'Nandita Biswal'
+tp68
+a(S'710449845'
+S'Itishree Panda'
+tp69
+a(S'1705430610'
+S'Sushila L Shastri'
+tp70
+a(S'100003325131745'
+S'Savita Vidyarthi'
+tp71
+a(S'100000070214169'
+S'Sreenivas Doraswamy'
+tp72
+a(S'650087530'
+S'Jhuma Panda'
+tp73
+a(S'100001772733221'
+S'Srilakshmi Balivada'
+tp74
+a(S'100000821953783'
+S'Anuradha Reddy'
+tp75
+a(S'1424004499'
+S'Sanjeev Hota'
+tp76
+a(S'100001974228037'
+S'Nishi Srivastava'
+tp77
+a(S'100001173788968'
+S'Anubhav A Pandit'
+tp78
+a(S'1317437587'
+S'Suman Singh'
+tp79
+a(S'100006755680469'
+S'Sudha Kumar'
+tp80
+a(S'1340746858'
+S'Urvashi Saxena'
+tp81
+a(S'100000648225786'
+S'Pomila Dewan Gupta'
+tp82
+a(S'100000066547859'
+S'Saba Qureshi'
+tp83
+a(S'100002854699619'
+S'Ruby Sinha'
+tp84
+a(S'100000609129200'
+S'Sasmita Misra'
+tp85
+a(S'100001718077225'
+S'Meetu Mohapatra'
+tp86
+a(S'1635284566'
+S'Anu Mahalingam'
+tp87
+a(S'100004434184761'
+S'Padmaja Joshi'
+tp88
+a(S'649135156'
+S'Ipsa Ray'
+tp89
+a(S'100001766651854'
+S'Neha Raghuvanshi'
+tp90
+a(S'100001497374691'
+S'Abhishek Dixit'
+tp91
+a(S'100001281592312'
+S'Suresh Panwar'
+tp92
+a(S'624213385'
+S'Ratna Mishra'
+tp93
+a(S'1039160443'
+S'Akundi Lakshmi'
+tp94
+a(S'100004181550428'
+S'Rachita Ratho'
+tp95
+a(S'100000297194458'
+S'Leeta Das'
+tp96
+a(S'1373830203'
+S'Sunanda Reddy'
+tp97
+a(S'1349753844'
+S'Surama Sarangi'
+tp98
+a(S'100002006054127'
+S'Sangeeta Balodia'
+tp99
+a(S'100001439680674'
+S'Febin Thomas'
+tp100
+a(S'1362138581'
+S'Reecha Thakur'
+tp101
+a(S'100000393298582'
+S'Leena Garg'
+tp102
+a(S'670987012'
+S'Jayashri Kanungo'
+tp103
+a(S'1010492382'
+S'Rajni Ranjan'
+tp104
+a(S'100000538323974'
+S'Seema Pawar'
+tp105
+a(S'100002388107340'
+S'Sanghamitra Mohanty'
+tp106
+a(S'100000017190734'
+S'Akshaya Pattnaik'
+tp107
+a(S'100001503321234'
+S'Sujatha Busi'
+tp108
+a(S'100000641378095'
+S'Sasmita Lenka'
+tp109
+a(S'1098106009'
+S'Roopa Krishnan'
+tp110
+a(S'100001233236502'
+S'Jitansu Das'
+tp111
+a(S'653526217'
+S'Madhuchhanda Bal'
+tp112
+a(S'100003072014515'
+S'Mausami Kumar'
+tp113
+a(S'100008375102508'
+S'Sangeeta Paliwal'
+tp114
+a(S'100002963037205'
+S'Yash A Patnaik'
+tp115
+a(S'100000893872466'
+S'Pradeep Nayak'
+tp116
+a(S'100007040023153'
+S'Monika Gupta'
+tp117
+a(S'100002223770529'
+S'Arti Madhuk'
+tp118
+a(S'100007467544562'
+S'Malvika Singh'
+tp119
+a(S'100003349328215'
+S'Suresh Panwar'
+tp120
+a(S'100000593772952'
+S'Shyamsundar Keshkamat'
+tp121
+a(S'100000938730927'
+S'Vandita Jain'
+tp122
+a(S'100000731041703'
+S'Sneh Sonkar'
+tp123
+a(S'1395766602'
+S'Akhil Pattnaik'
+tp124
+a(S'100002539567836'
+S'Bikram Patnaik'
+tp125
+a(S'100001834528128'
+S'Sapna Abhishek'
+tp126
+a(S'100003004269951'
+S'Prachee Sahay'
+tp127
+a(S'100000936264756'
+S'Sanjukta Ray'
+tp128
+a(S'100000035208120'
+S'Ranjana Mishra'
+tp129
+a(S'100002598016950'
+S'Anil Vyas'
+tp130
+a(S'100000753455591'
+S'Priyanka Gaur'
+tp131
+a(S'100004392126984'
+S'Vasavi Boppana'
+tp132
+a(S'100002065014330'
+S'Manisha Singh'
+tp133
+a(S'100004256556267'
+S'Nibedita Pattnaik'
+tp134
+a(S'1190695350'
+S'Aniketa Verma'
+tp135
+a(S'100003486052310'
+S'Aman Satapathy'
+tp136
+a(S'711430153'
+S'Emma Misra'
+tp137
+a(S'100000619491617'
+S'Milind Bhusari'
+tp138
+a(S'1200725895'
+S'Seema Sharma'
+tp139
+a(S'100003792576722'
+S'Rinki Sarees'
+tp140
+a(S'692199461'
+S'Avinash Satapathy'
+tp141
+a(S'100000234088960'
+S'Leena Jha'
+tp142
+a(S'530483207'
+S'Ariti Bhowmik'
+tp143
+a(S'100000532851738'
+S'Usha Kiran Satpathy'
+tp144
+a(S'1313872173'
+S'Manjusha Mohan'
+tp145
+a(S'1149281589'
+S'Roswitha Joshi'
+tp146
+a(S'100001369974012'
+S'Sujata Keshkamat'
+tp147
+a(S'1150115793'
+S'Soni Bal'
+tp148
+a(S'100002165907133'
+S'N.k. Bhujabal'
+tp149
+a(S'746808222'
+S'Sheetal Gagrani'
+tp150
+a(S'100001886711894'
+S'Rashmi Saxena'
+tp151
+a(S'680354433'
+S'Suveera Ambade'
+tp152
+a(S'1818756885'
+S'Karunakara Rao Dasari'
+tp153
+a(S'839654303'
+S'Poonam Khaira Sidhu'
+tp154
+a(S'1296747312'
+S'Urvashi Rajhans'
+tp155
+a(S'1395483854'
+S'Lopamudra Patnaik'
+tp156
+a(S'1410995972'
+S'Smita Sharma'
+tp157
+a(S'100000325668660'
+S'Hriitu Rana'
+tp158
+a(S'579828327'
+S'Vinita Jain'
+tp159
+a(S'100001103912583'
+S'Vishakha Maliwal'
+tp160
+a(S'100002571432179'
+S'Upasana Mittal'
+tp161
+a(S'100003502369417'
+S'Rekha Ray'
+tp162
+a(S'1839510913'
+S'Sunil Pal'
+tp163
+a(S'100000914300509'
+S'Manali Brahmbhatt'
+tp164
+a(S'1041585181'
+S'Radhika Rado'
+tp165
+a(S'1701746496'
+S'Sasmita Patnaik'
+tp166
+a(S'100002031051438'
+S'Manisha Lal'
+tp167
+a(S'100001009803347'
+S'Bratati Dash'
+tp168
+a(S'759551102'
+S'Prreeti Jaiin Nainutia'
+tp169
+a(S'100000420866751'
+S'Veena Singh'
+tp170
+a(S'1599365334'
+S'Mridula Sanchety'
+tp171
+a(S'1178796539'
+S'Ranjita Sahay'
+tp172
+a(S'557664754'
+S'Sangeeta Bhaskar'
+tp173
+a(S'100000980607480'
+S'Suresh Satapathy'
+tp174
+a(S'100002126968671'
+S'Nileema Patwari'
+tp175
+a(S'757893196'
+S'Niru Kathuria'
+tp176
+a(S'549359950'
+S'Sushama Gahlot'
+tp177
+a(S'656371597'
+S'Lipika Mohanty'
+tp178
+a(S'1246428984'
+S'Gopal Dhal'
+tp179
+a(S'100001450807075'
+S'Bijayananda Patnaik'
+tp180
+a(S'100001313721150'
+S'Ayesha Bala'
+tp181
+a(S'1631185798'
+S'Pallavi Walia Raj'
+tp182
+a(S'100003095633864'
+S'Godhuli Rajguru'
+tp183
+a(S'1106566208'
+S'Rina Misra'
+tp184
+a(S'100000163845499'
+S'Trisha Singh'
+tp185
+a(S'100000770227351'
+S'Mamata Paricha Patnaik'
+tp186
+a(S'100001640616085'
+S'Savita Vidyarthi'
+tp187
+a(S'787709759'
+S'Alka Vyas'
+tp188
+a(S'100000712722570'
+S'Kishori Jha'
+tp189
+a(S'510693315'
+S'Harsh Prakash'
+tp190
+a(S'607879770'
+S'Sadhana Srivastava'
+tp191
+a(S'1359523723'
+S'Geetha Ravichandran'
+tp192
+a(S'100003376434063'
+S'Neetu Surjewala Dahiya'
+tp193
+a(S'525929005'
+S'Uma Singh'
+tp194
+a(S'1661904291'
+S'Archana Prasad'
+tp195
+a(S'1599631281'
+S'Shyamsundar Keshkamat'
+tp196
+a(S'100000833063564'
+S'Neelu Chandra'
+tp197
+a(S'1478095756'
+S'Rajalaxmi Biswal'
+tp198
+a(S'655396863'
+S'Mamata Misra'
+tp199
+a(S'100002679832048'
+S'Prafull Singh'
+tp200
+a(S'100000976099227'
+S'Anju Shankar'
+tp201
+a(S'100002020612984'
+S'Chandraprakash Saroj'
+tp202
+a(S'100000120359430'
+S'Seema Agarwal'
+tp203
+a(S'1762044162'
+S'Sangeeta Bedi'
+tp204
+a(S'873370226'
+S'Purnima Das'
+tp205
+a(S'603301560'
+S'Dharashree Jena'
+tp206
+a(S'100003771580349'
+S'Sabita Dey'
+tp207
+a(S'1331446515'
+S'Bharat Malhan'
+tp208
+a(S'100003336544402'
+S'Neena Thakur'
+tp209
+a(S'100003021502596'
+S'Sunitha Sumrott'
+tp210
+a(S'100006438803737'
+S'Sujata Satpathy'
+tp211
+a(S'100001871150537'
+S'Aishwarya Pattanaik'
+tp212
+a(S'563316773'
+S'Harekrushna Panda'
+tp213
+a(S'100000788733403'
+S'Sagarika Mohanty'
+tp214
+a(S'100001078833946'
+S'Prosenjit Ghosal'
+tp215
+a(S'100004941300202'
+S'Vandna Jain'
+tp216
+a(S'736614210'
+S'Sangeeta Kalantri Jain'
+tp217
+a(S'515635181'
+S'Dhruv Pandya'
+tp218
+a(S'1370521402'
+S'Gurjeet Budhraja'
+tp219
+a(S'1040729769'
+S'Binod K Sinha'
+tp220
+a(S'100007251662419'
+S'Srinivas Danda'
+tp221
+a(S'548526909'
+S'Subhakanta Das'
+tp222
+a(S'100008141581530'
+S'Vinita Singh'
+tp223
+a(S'100004977544468'
+S'Pritam Mahapatra'
+tp224
+a(S'100003543361274'
+S'Dhiraj Padhy'
+tp225
+a(S'100002261614981'
+S'Nahid Khan'
+tp226
+a(S'1279360401'
+S'Nilam Raj'
+tp227
+a(S'536920954'
+S'Swetesh Ambade'
+tp228
+a(S'100003383709243'
+S'Rajeshwari Mohanty'
+tp229
+asS'id'
+p230
+S'100001429777341'
+p231
+s.

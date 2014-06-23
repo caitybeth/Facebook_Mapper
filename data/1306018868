@@ -1,0 +1,284 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100000494392825'
+p4
+S'Jasmine Arif Nensey'
+tp5
+a(S'100003020439825'
+S'Abida Karmali'
+tp6
+a(S'100000657892186'
+S'Dilshad Begum Begum'
+tp7
+a(S'791640356'
+p8
+S'Zulfikarali Riaz Ahmed'
+tp9
+a(S'100003298338710'
+S'Lubna Fathima'
+tp10
+a(S'759515400'
+p11
+S'Fahim Semy'
+tp12
+a(S'100002232364181'
+S'Shazia Lalljee'
+tp13
+a(S'100000558193452'
+S'Tehmina Farrukh'
+tp14
+a(S'100006249902028'
+S'Yvonne Karamali'
+tp15
+a(S'1474682339'
+p16
+S'Zain Karmali'
+tp17
+a(S'61302656'
+p18
+S'Ameera Karmali'
+tp19
+a(S'636200978'
+p20
+S'Zarnagin Zulfikarali Ahmed'
+tp21
+a(S'1040020982'
+S'Faizaanali Namavati'
+tp22
+a(S'100004649342707'
+S'Samina Calcuttawala'
+tp23
+a(S'752915299'
+S'Sanaa Merchant'
+tp24
+a(S'100001616766493'
+S'Naazneen Riaz Ahmed'
+tp25
+a(S'100000432236649'
+S'Anjum Farook'
+tp26
+a(S'1219994875'
+p27
+S'Mutaheera Zakir Ahmed'
+tp28
+a(S'612428518'
+S'Atique Bhamani'
+tp29
+a(S'791035595'
+p30
+S'Musarrat Khakiyani'
+tp31
+a(S'1526183698'
+p32
+S'Zahid Mazgoanwala'
+tp33
+a(S'100005092322408'
+S'Parvin Bhamani'
+tp34
+a(S'204500726'
+p35
+S'Aliya Karmali'
+tp36
+a(S'100001094484199'
+S'Imran Karmali'
+tp37
+a(S'560019415'
+S'Zeeshan Namavati'
+tp38
+a(S'100006149462369'
+p39
+S'Munir Karmali'
+tp40
+a(S'100000923565547'
+S'Fathima Muzaffer'
+tp41
+a(S'1506374861'
+S'Dilara Hafiz'
+tp42
+a(S'708820977'
+S'Nadeem Karmali'
+tp43
+a(S'1306828976'
+p44
+S'Nushrat Naushad Namavati'
+tp45
+a(S'707170319'
+S'Aasiya Merchant'
+tp46
+a(S'100001188740186'
+S'Nausheen Adam'
+tp47
+a(S'661660584'
+S'Shoeb Nensey'
+tp48
+a(S'100000722656491'
+S'Zohra Bhamani'
+tp49
+a(S'100000159318961'
+p50
+S'Hashmat Lalljee'
+tp51
+a(S'1837474169'
+S'Nigar Akthar'
+tp52
+a(S'734759891'
+S'Rafique Karamali'
+tp53
+a(S'100004764543974'
+S'Naushad Namavati'
+tp54
+a(S'521874089'
+p55
+S'Firoz Bhamani'
+tp56
+a(S'522554059'
+p57
+S'Kishwar Firoz'
+tp58
+a(S'708650923'
+p59
+S'Arif Girniwala'
+tp60
+a(S'1095298378'
+S'Zaina Siddique'
+tp61
+a(S'100002149846414'
+S'Yasmeen Daleel'
+tp62
+a(S'586444226'
+p63
+S'Lubna Tanveer Ahmed'
+tp64
+a(S'705578504'
+S'Asif Karmali'
+tp65
+a(S'1146584310'
+p66
+S'Sumaiya Karmali'
+tp67
+a(S'1851339307'
+p68
+S'Monisha Namavati'
+tp69
+a(S'635359825'
+S'Mahera M Merchant'
+tp70
+a(S'538535369'
+S'Aamera Tejani'
+tp71
+a(S'1052532292'
+p72
+S'Riaz Karmali'
+tp73
+a(S'100000502603514'
+S'Sameer Bhamani'
+tp74
+a(S'100002984975065'
+S'Rehmat Ladak'
+tp75
+a(S'100004342694427'
+S'Shabnam Shaikh'
+tp76
+a(S'814865044'
+p77
+S'Shabaz M Namavati'
+tp78
+a(S'731417268'
+S'Faiza Rahman'
+tp79
+a(S'1461183579'
+S'Haider Karmali'
+tp80
+a(S'1548968181'
+p81
+S'Ayaan Karmali'
+tp82
+a(S'100000534505283'
+p83
+S'Zakir Ahmed'
+tp84
+a(S'574615445'
+S'Anupreeta Devkar'
+tp85
+a(S'763695001'
+p86
+S'Shama Semy'
+tp87
+a(S'662072551'
+p88
+S'Nadia Mohd Iqbal'
+tp89
+a(S'100000584157299'
+p90
+S'Zayaan Karmali'
+tp91
+a(S'1234513161'
+S'Faizya Farook'
+tp92
+a(S'100000113594464'
+p93
+S'Abida Karmali'
+tp94
+a(S'1040948442'
+S'Rena Riaz'
+tp95
+a(S'1074602185'
+S'Dilshad Begum'
+tp96
+a(S'733050561'
+S'Nabeelah Ahmed'
+tp97
+a(S'100001263640975'
+S'Yasmin Nensey'
+tp98
+a(S'100000275222531'
+S'Anjum Farook'
+tp99
+a(S'100000544219460'
+S'Hashmat Merchant Pereira'
+tp100
+a(S'778414702'
+S'Farzana Hanif'
+tp101
+a(S'791965471'
+S'Seemeen Currimbhoy'
+tp102
+a(S'704701054'
+S'Aaliya Merchant'
+tp103
+a(S'792180028'
+p104
+S'Mubin Merchant'
+tp105
+a(S'792605461'
+p106
+S'Arshiya Nizar Lokhandwala'
+tp107
+a(S'1034764191'
+S'Soumia Bekly'
+tp108
+a(S'679063690'
+S'Zeba Abdur Rahman'
+tp109
+a(S'100000652262845'
+p110
+S'Tanveer Ahmed'
+tp111
+a(S'759601498'
+S'Jasmine S Nensey'
+tp112
+a(S'1075757564'
+p113
+S'Rufina Ramodiya Karmali'
+tp114
+asS'id'
+p115
+S'1306018868'
+p116
+sS'name'
+p117
+S'Rehmat Ahmed'
+p118
+s.

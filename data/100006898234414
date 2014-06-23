@@ -1,0 +1,272 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100002483703297'
+S'Setya Nurani Saefulloh'
+tp4
+a(S'100003725800174'
+S'Sadia Baloch'
+tp5
+a(S'100003610634068'
+p6
+S'Haqq Baloch'
+tp7
+a(S'100004990210202'
+S'Prince Rehman Qalandrani'
+tp8
+a(S'100006237606748'
+p9
+S'Amjad Baloch'
+tp10
+a(S'100005320084300'
+S'King Gurginarii'
+tp11
+a(S'100006071050799'
+p12
+S'Mera Ishq Pakistan'
+tp13
+a(S'100004604223985'
+p14
+S'Usman Khan Yousaf Zai'
+tp15
+a(S'100005932990651'
+S'Mir Zaib Zehri'
+tp16
+a(S'100006913922195'
+S'Pak Ssg'
+tp17
+a(S'100005546409615'
+p18
+S'Dildar Khan Baloch'
+tp19
+a(S'100000851912458'
+p20
+S'Pakistan Zindabad Pakistan Paindabad'
+tp21
+a(S'100006645487341'
+p22
+S'Haq NA Tawar'
+tp23
+a(S'100004785794473'
+p24
+S'Commandos SSg'
+tp25
+a(S'100002057847536'
+S'Mir Gohram GurGinadi'
+tp26
+a(S'100004752670633'
+S'Jhalawan Tigers'
+tp27
+a(S'100007000712986'
+p28
+S'Saeed MenGal'
+tp29
+a(S'100006213754591'
+S'Mansoor Shakir Qalandrani'
+tp30
+a(S'100005451963932'
+p31
+S'Isi Pakistan'
+tp32
+a(S'100005336534371'
+p33
+S'Ati Balochistan Pakistan'
+tp34
+a(S'100006619778820'
+S'Sardar Zada Shahwani'
+tp35
+a(S'100006938351830'
+p36
+S'Jhanghwi Baloch'
+tp37
+a(S'100006684552244'
+p38
+S'Sarawan Jawan Force'
+tp39
+a(S'100004752992402'
+p40
+S'Brave Gurg'
+tp41
+a(S'100004455460985'
+p42
+S'Rabia Baloch'
+tp43
+a(S'100005604193666'
+p44
+S'Sardarzada GurGinary'
+tp45
+a(S'100003234074422'
+S'Sardarzada Faisal Mohammad Shahi'
+tp46
+a(S'100005692053508'
+S'Sardarzada Mujtaba Qalandrani'
+tp47
+a(S'100003332606099'
+S'Maqbool Ali'
+tp48
+a(S'100006190720258'
+p49
+S'Shanzy Hassan'
+tp50
+a(S'100005221210443'
+S'Waqas Dehwar'
+tp51
+a(S'100006641800587'
+S'Jsqm Taluka Sanghar'
+tp52
+a(S'100005980118247'
+p53
+S'Rayyan Khattak'
+tp54
+a(S'100006456187347'
+p55
+S'Mir Shahjhan Gurginary'
+tp56
+a(S'100003876205805'
+p57
+S'Kooh Yaar Baloch'
+tp58
+a(S'100006887435576'
+S'Safar Jan Mengal'
+tp59
+a(S'100000900187610'
+S'Mir Sher Jan Mengal'
+tp60
+a(S'100007167695426'
+S'Sheshar Jan'
+tp61
+a(S'100005938627311'
+p62
+S'Adil Malik'
+tp63
+a(S'100004058568311'
+S'Mir Shafeeq Urahman Mengale'
+tp64
+a(S'100003589039319'
+p65
+S'Mir Waleed Zehri'
+tp66
+a(S'100002401320918'
+S'Mir Mussadiq Gurginari'
+tp67
+a(S'100005552340450'
+p68
+S'Nifaz E Aman Balochistan'
+tp69
+a(S'100003252645008'
+S'Mir Mubashir Gurginari'
+tp70
+a(S'100006482015174'
+S'Zahoor Ahmed Kakar'
+tp71
+a(S'100001446495775'
+S'Abby Ebreo'
+tp72
+a(S'100000001043235'
+p73
+S'Agha Zarrar Shah'
+tp74
+a(S'100006685537190'
+S'HaQqana Tawaar'
+tp75
+a(S'100003594271136'
+S'Ayesha Awan'
+tp76
+a(S'100005820820448'
+p77
+S'Ismail Khan'
+tp78
+a(S'100006386891810'
+p79
+S'Abdullah Baloch'
+tp80
+a(S'100005585772967'
+p81
+S'Raisani Force'
+tp82
+a(S'100003618782673'
+S'Gurg Amman Force'
+tp83
+a(S'100004426140480'
+p84
+S'King Chudry'
+tp85
+a(S'100006284141008'
+S'Nawabzada Yadgar Raisani'
+tp86
+a(S'100004993170011'
+p87
+S'Mir ShahZaman Gurginary'
+tp88
+a(S'100000976465469'
+p89
+S'Mir Mengal'
+tp90
+a(S'100005255492850'
+p91
+S'Sarawan Lions'
+tp92
+a(S'100004904622780'
+p93
+S'HaQqana Tawaar'
+tp94
+a(S'100004408231439'
+p95
+S'Zakar Baloch'
+tp96
+a(S'100005875836656'
+p97
+S'Basham Badal Baloch'
+tp98
+a(S'100005209261117'
+p99
+S'Mir Zaman Gurginary'
+tp100
+a(S'100006455963592'
+p101
+S'Habeeb Ullah Baloch'
+tp102
+a(S'100004981322140'
+S'Brave Tiger'
+tp103
+a(S'100003727237517'
+p104
+S'Khalid Naseer Gurginari'
+tp105
+a(S'100004210474754'
+p106
+S'Real Baloch'
+tp107
+a(S'100005356481330'
+p108
+S'Salman Baloch Kalpar'
+tp109
+a(S'100003118158896'
+S'Mir Zaib Qalandrani'
+tp110
+a(S'100006675396825'
+S'Imran Khan'
+tp111
+a(S'100002399567939'
+p112
+S'Zakria Zaki M Hassni'
+tp113
+a(S'100005405233302'
+S'Farzind E Baloch'
+tp114
+a(S'100004641662399'
+S'KIng BalOch'
+tp115
+a(S'100003239433159'
+S'Hamza Asad Ullah'
+tp116
+asS'id'
+p117
+S'100006898234414'
+p118
+sS'name'
+p119
+S'Royal Baloch'
+p120
+s.

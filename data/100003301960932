@@ -1,0 +1,67 @@
+(dp1
+S'name'
+p2
+S'Lokesh Kumar Meena'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Valwar, rajasthan, india
+p7
+sS'home_text'
+p8
+VAlwar City, Rajasthan, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D28.613900916609%252C%2B77.207794189453%26name%3DNew%2BDelhi%252C%2BIndia%26mkt%3Den-IN&h=-AQFlaeDC&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D27.566700031067%252C%2B76.599426269531%26name%3DAlwar%2BCity%252C%2BRajasthan%252C%2BIndia%26mkt%3Den-IN&h=rAQHpTyr_&s=1
+p13
+sS'current_text'
+p14
+VNew Delhi, India\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100007865405474'
+S'Sunil Kumar'
+tp18
+a(S'100005874367676'
+S'Abhay Meena'
+tp19
+a(S'100008054411119'
+S'Manoj Meena'
+tp20
+a(S'100005403664147'
+S'Ajay Meena'
+tp21
+a(S'100004428367088'
+S'Vignesh Sha'
+tp22
+a(S'100008310944982'
+S'Hoan Nguyen'
+tp23
+a(S'100006894456177'
+S'Arun Verma'
+tp24
+a(S'100003301960932'
+S'Lokesh Kumar Meena'
+tp25
+a(S'100008227692312'
+S'Manish Meena'
+tp26
+a(S'100007118911245'
+S'Gurdeep Singh'
+tp27
+asS'id'
+p28
+S'100003301960932'
+p29
+s.

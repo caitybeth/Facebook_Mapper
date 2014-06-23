@@ -1,0 +1,31 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100002873842599'
+S'Wajahat Ahmed Sheikh'
+tp4
+a(S'100003121887066'
+S'Rahul Pandey'
+tp5
+a(S'100008302098111'
+S'Chitranjan Verma'
+tp6
+a(S'100001781181832'
+S'Tarun Kapoor'
+tp7
+a(S'100008366051871'
+S'Pranav Kumar'
+tp8
+a(S'100007678754510'
+S'Shivam Bhardwaj'
+tp9
+asS'id'
+p10
+S'100001781181832'
+p11
+sS'name'
+p12
+S'Tarun Kapoor'
+p13
+s.

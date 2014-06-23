@@ -1,0 +1,1975 @@
+(dp1
+S'name'
+p2
+S'Nishant Dwivedi'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vallahabad, uttar pradesh, india
+p7
+sS'home_text'
+p8
+VAllahabad, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D25.450000497375%252C%2B81.849517822266%26name%3DAllahabad%252C%2BIndia%26mkt%3Den-IN&h=DAQGD8sWl&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D25.450000497375%252C%2B81.849517822266%26name%3DAllahabad%252C%2BIndia%26mkt%3Den-IN&h=PAQHdAqTe&s=1
+p13
+sS'current_text'
+p14
+VAllahabad, India\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100003638820628'
+S'Parineeta Mishra'
+tp18
+a(S'100005771520636'
+S'Kesari Blood'
+tp19
+a(S'100003822283117'
+S'Sai Ram'
+tp20
+a(S'100004374187126'
+S'Cuddalore BjpNarayanarao'
+tp21
+a(S'100002853006432'
+S'\\u092e\\u0939\\u093e\\u092e\\u0943\\u0924\\u094d\\u092f\\u0941\\u0928\\u094d\\u091c\\u092f \\u0927\\u093e\\u092e'
+tp22
+a(S'100004730411787'
+S'Jag Mysore'
+tp23
+a(S'100002776069770'
+S'Shri Shri Banke Bihari'
+tp24
+a(S'100003493507191'
+S'Anjani Pandey'
+tp25
+a(S'100004047319646'
+S'Santhosh Varavattoor Oman'
+tp26
+a(S'100005868219803'
+S'Yusuf Pathan'
+tp27
+a(S'100002826327924'
+S'Ankit Kaushal'
+tp28
+a(S'100007896606479'
+S'Radheshyam Pal'
+tp29
+a(S'100004401510105'
+S'Vivek Singh Rajput'
+tp30
+a(S'100003227065263'
+S'Ravindra Dwivedi'
+tp31
+a(S'100001606787766'
+S'Pankaj Maurya'
+tp32
+a(S'100003139748312'
+S'Ashwani Pandey'
+tp33
+a(S'100002470583746'
+S'Chandresh Soni'
+tp34
+a(S'100001093600652'
+S'Picube India'
+tp35
+a(S'100004762032485'
+S'Rss Kavallur Sagha'
+tp36
+a(S'100004319713318'
+S'\\u0906\\u0930\\u094d\\u092f \\u0935\\u0940\\u0930\\u093e\\u0902\\u0917\\u0928\\u093e \\u0938\\u0940\\u092e\\u093e \\u0917\\u0941\\u0930\\u094d\\u091c\\u0930'
+tp37
+a(S'100005894107511'
+S'Kamlesh Mishra'
+tp38
+a(S'100004889653861'
+S'Goodlife Good'
+tp39
+a(S'100003919746501'
+S'\\u092e\\u0948 \\u092d\\u093e\\u0930\\u0924\\u0940\\u092f \\u0939\\u0942\\u0901'
+tp40
+a(S'100002097603215'
+S'Bishnu Bhattacharjee'
+tp41
+a(S'100005842050965'
+S'Bharat Multi Printers'
+tp42
+a(S'672132496'
+S'Ritesh Tripathi'
+tp43
+a(S'100006437735787'
+S'Gayatri Pariwar Shantikunj Haridwar'
+tp44
+a(S'100000531151757'
+S'Chandan Yadav'
+tp45
+a(S'100005875535841'
+S'Dhanya Sanga Bandhu'
+tp46
+a(S'100005722807473'
+S'Har Har Mahadev'
+tp47
+a(S'100001330172108'
+S'Yuva Hindustani'
+tp48
+a(S'100003251062694'
+S'Jai Mata Dii'
+tp49
+a(S'100000789719257'
+S'\\u0939\\u0930\\u093f \\u0936\\u0930\\u094d\\u092e\\u093e'
+tp50
+a(S'100005850366263'
+S'Rajkumar Dasare'
+tp51
+a(S'100000776837279'
+S'Dheeraj Singh'
+tp52
+a(S'100006235176898'
+S'\\u092d\\u0917\\u0935\\u093e \\u092f\\u094b\\u0917\\u0940'
+tp53
+a(S'100000274341080'
+S'Awadhesh Mishra'
+tp54
+a(S'100002272893734'
+S'Nirmal Prajapati'
+tp55
+a(S'100002730518562'
+S'Pawan Mishra'
+tp56
+a(S'100002949301230'
+S'\\u0906\\u0932\\u094b\\u0915 \\u092d\\u093e\\u0930\\u0924\\u0940\\u092f'
+tp57
+a(S'100004867260905'
+S'Jai Maa Kali'
+tp58
+a(S'100003849002431'
+S'Sang Didi'
+tp59
+a(S'100003063109177'
+S'Alok Pandey Pandey'
+tp60
+a(S'100002632790388'
+S'\\u0938\\u0902\\u0915\\u0932\\u094d\\u092a\\u093f\\u0924 \\u0909\\u0928\\u094d\\u092e\\u0947\\u0937'
+tp61
+a(S'100006726639787'
+S'Sunil Singh'
+tp62
+a(S'100004569635231'
+S'Hindu Sena'
+tp63
+a(S'100004041289585'
+S'Abhishek Vyas'
+tp64
+a(S'100001997404205'
+S'Aditya Chetan'
+tp65
+a(S'100005480343670'
+S'Prasit Pansakul'
+tp66
+a(S'100005103061670'
+S'\\u092e\\u0947\\u0930\\u093e \\u092e\\u0939\\u093e\\u0928 \\u092d\\u093e\\u0930\\u0924'
+tp67
+a(S'100001073281850'
+S'Ravindra Kumar Dwivedi'
+tp68
+a(S'100001558582951'
+S'Anoop K Srivastava'
+tp69
+a(S'100003524442541'
+S'Jai Sainath'
+tp70
+a(S'100005627018298'
+S'Swati Hindu'
+tp71
+a(S'100004474832580'
+S'Shaurya Rajpoot'
+tp72
+a(S'1831206269'
+S'Syed Nazrul'
+tp73
+a(S'100002677310793'
+S'Hindu Yuvajana Shakti'
+tp74
+a(S'100005884204642'
+S'Prince Pranjul Tiwari'
+tp75
+a(S'100004648480140'
+S'MG Rss'
+tp76
+a(S'100002925385932'
+S'Hare Krishna'
+tp77
+a(S'100005636653284'
+S'\\u092f\\u094b\\u0926\\u094d\\u0927\\u093e \\u092a\\u094d\\u0930\\u0924\\u093f\\u0937\\u094d\\u091f\\u093e\\u0928'
+tp78
+a(S'100000638691892'
+S'\\u0939\\u0947\\u092e\\u0928\\u094d\\u0924 \\u0935\\u094d\\u092f\\u093e\\u0938'
+tp79
+a(S'100000682831395'
+S'Aditya Srivastava'
+tp80
+a(S'100005046520733'
+S'Pulak Vashishtha'
+tp81
+a(S'100005441017993'
+S'Jai Hind Hindu'
+tp82
+a(S'100002775916899'
+S'Sonal Shukla'
+tp83
+a(S'100005060912383'
+S'Gaytri Gaushala'
+tp84
+a(S'100001365695518'
+S'Arun Sharma'
+tp85
+a(S'100004338552727'
+S'Krishna Ki Meera'
+tp86
+a(S'100001129442572'
+S'Samar Khan'
+tp87
+a(S'100002354707441'
+S'Navlesh Pandey'
+tp88
+a(S'100003937361232'
+S'\\u0936\\u094d\\u0930\\u0940\\u0930\\u093e\\u092e\\u0939\\u093f\\u0902\\u0926\\u0941 \\u0905\\u0930\\u094d\\u092a\\u093f\\u0924 \\u091a\\u094c\\u0930\\u0938\\u093f\\u092f\\u093e'
+tp89
+a(S'100000683414659'
+S'Ruchika Tripathi'
+tp90
+a(S'100004589251650'
+S'\\u0938\\u0928\\u093e\\u0924\\u0928 \\u0927\\u0930\\u094d\\u092e \\u0906\\u0930\\u094d\\u092f\\u093e\\u0935\\u0930\\u094d\\u0924 \\u092d\\u093e\\u0930\\u0924'
+tp91
+a(S'1172925899'
+S'Amit Baranwal'
+tp92
+a(S'100001931589106'
+S'Ritesh Shahi'
+tp93
+a(S'100005143921458'
+S'Maa Kali JI'
+tp94
+a(S'632753457'
+S'Anupam Srivastava'
+tp95
+a(S'100000962099303'
+S'Sarvesh Singh'
+tp96
+a(S'100001840006570'
+S'Anita Gupta'
+tp97
+a(S'100004315661929'
+S'T.n. Mishra'
+tp98
+a(S'100001784566345'
+S'Markandey Gupta'
+tp99
+a(S'100005812536519'
+S'Bjp Ayodhya Nagar Govindpura'
+tp100
+a(S'100003628381821'
+S'Dipak Mishra'
+tp101
+a(S'100002482921057'
+S'Piyush Dwivedi'
+tp102
+a(S'100005880450027'
+S'\\u092c\\u0947\\u091f\\u0940 \\u092c\\u091a\\u093e\\u0913 \\u0926\\u094b\\u0938\\u094d\\u0924\\u094b\\u0902 \\u0927\\u0940\\u0930\\u0947\\u0928'
+tp103
+a(S'100004272759780'
+S'Pardeep Sagar'
+tp104
+a(S'100001846012339'
+S'Amit Lall'
+tp105
+a(S'100002451982139'
+S'Desh Premi'
+tp106
+a(S'100005448512084'
+S'Ashutosh Tiwari'
+tp107
+a(S'100005450347122'
+S'Dakhi Sanitary Home'
+tp108
+a(S'100007416394891'
+S'Sandeep Yadav'
+tp109
+a(S'100003477034644'
+S'Shri Shri Golok Dham'
+tp110
+a(S'100004107336375'
+S'Sunil Tripathi'
+tp111
+a(S'100002961304115'
+S'Veerendra Kumar'
+tp112
+a(S'100005701661553'
+S'Gau Seva Sansthan'
+tp113
+a(S'100001778002368'
+S'Abhishek Mishra'
+tp114
+a(S'100001278785193'
+S'Praneeta Singh Sharma'
+tp115
+a(S'100002250493919'
+S'Praveen Sahu'
+tp116
+a(S'100001217920588'
+S'Pathak Anupam'
+tp117
+a(S'100001300274777'
+S'Mayank Rai'
+tp118
+a(S'100005355729823'
+S'\\u092f\\u094b\\u0917\\u0940 \\u0915\\u092e\\u0932 \\u0905\\u0935\\u0924\\u093e\\u0930 \\u0930\\u093e\\u0923\\u093e'
+tp119
+a(S'100000585500633'
+S'Mayank Shandilya'
+tp120
+a(S'100001354392025'
+S'Vishal Rai'
+tp121
+a(S'100005465289169'
+S'Hindutva Unity'
+tp122
+a(S'100004419937574'
+S'Rekha Dua'
+tp123
+a(S'100005934540079'
+S'Sarfarosh Hindustani'
+tp124
+a(S'100001635771608'
+S'Upendra Kumar'
+tp125
+a(S'100002378173184'
+S'Narpat Singh'
+tp126
+a(S'100003486249464'
+S'Tripathi Deepak Tripathi'
+tp127
+a(S'1003997546'
+S'Tiger Mishra'
+tp128
+a(S'100005669621398'
+S'Vidrohi Yuva'
+tp129
+a(S'100004490460073'
+S'\\u092d\\u093e\\u0930\\u0924 \\u0939\\u093f\\u0902\\u0926\\u0941\\u0938\\u094d\\u0924\\u093e\\u0928\\u0940'
+tp130
+a(S'100005394514726'
+S'Hindu Religon Development Foun'
+tp131
+a(S'100007712051167'
+S'Geetha Maharaj'
+tp132
+a(S'100005770902787'
+S'\\u091c\\u093f\\u0932\\u093e \\u0928\\u0935\\u0940\\u0928 \\u0936\\u093e\\u0939\\u0926\\u0930\\u093e \\u092d\\u093e\\u091c\\u092a\\u093e'
+tp133
+a(S'100003885854712'
+S'Abvp Rss Bjp'
+tp134
+a(S'100001327471545'
+S'Anamika Singh'
+tp135
+a(S'100002289980320'
+S'Apoorva Upadhyay'
+tp136
+a(S'674873638'
+S'Milind Vyas'
+tp137
+a(S'100005069024373'
+S'Bjp Allahabad'
+tp138
+a(S'100002245684149'
+S'Vikas Singh'
+tp139
+a(S'100005624853094'
+S'Anjali Deshmukh'
+tp140
+a(S'100003331347380'
+S'Vickey Mishra'
+tp141
+a(S'100005615413774'
+S'Rss Karingannoor Shakka'
+tp142
+a(S'100003083047198'
+S'Susheel Singh'
+tp143
+a(S'100005646578784'
+S'Ramprasad Panchal'
+tp144
+a(S'100005790634581'
+S'Dharma Samsthapan'
+tp145
+a(S'100002074488851'
+S'Victor Solanki'
+tp146
+a(S'100004080529541'
+S'Upadhyay Urmila'
+tp147
+a(S'100000665890793'
+S'Mahesh Mishra'
+tp148
+a(S'100005165161859'
+S'Narender Modi Rk Puram'
+tp149
+a(S'100001004005496'
+S'Anand Pandey'
+tp150
+a(S'100004874196163'
+S'Gajendra Shaw'
+tp151
+a(S'100005932590031'
+S'\\u0936\\u093f\\u0935\\u0938\\u0947\\u0928\\u093e \\u0939\\u093f\\u0902\\u0917\\u094b\\u0932\\u0940 \\u091c\\u093f\\u0932\\u094d\\u0939\\u093e'
+tp152
+a(S'100001633180064'
+S'Alkesh Sharma'
+tp153
+a(S'100005895723211'
+S'Milan Singh'
+tp154
+a(S'100004658910980'
+S'Akhil Bharat Hindu Mahasabha'
+tp155
+a(S'100003519953529'
+S'Ganesh Prajapati'
+tp156
+a(S'100005433373865'
+S'Kaushal Kumar Mishra'
+tp157
+a(S'100005482233917'
+S'Ashish Vashistha'
+tp158
+a(S'100004519604004'
+S'Rama Rao Yedida'
+tp159
+a(S'100001567226723'
+S'Ashutosh Tripathi'
+tp160
+a(S'100003087964149'
+S'\\u0915\\u0932\\u092e \\u0915\\u093e \\u0938\\u093f\\u092a\\u093e\\u0939\\u0940'
+tp161
+a(S'100000530659871'
+S'Satyam Srivastava'
+tp162
+a(S'100005061554162'
+S'Jai Mata Shero Wali'
+tp163
+a(S'100003086308274'
+S'Akash Tripathi'
+tp164
+a(S'100005715399099'
+S'Sanjay Kumar'
+tp165
+a(S'100001780478729'
+S'\\u0932\\u0932\\u093f\\u0924 \\u0939\\u093f\\u0902\\u0926\\u0942'
+tp166
+a(S'100003100169130'
+S'Shree Anil U. Pandey'
+tp167
+a(S'1762753569'
+S'Anurag Mishra'
+tp168
+a(S'100005528941768'
+S'\\u0935\\u0940\\u0930 \\u0939\\u093f\\u0928\\u094d\\u0926\\u0942'
+tp169
+a(S'100003787663531'
+S'Hindu Hindustani'
+tp170
+a(S'100000899642351'
+S'Gyanendra Singh'
+tp171
+a(S'100003205427244'
+S'Alok Singh'
+tp172
+a(S'1001091148'
+S'Donna Melchionne'
+tp173
+a(S'100003392327417'
+S'Parshuram Sena Neemuch'
+tp174
+a(S'100004771359055'
+S'\\u0939\\u093f\\u0902\\u0926\\u0942 \\u0930\\u093e\\u0937\\u094d\\u091f\\u094d\\u0930'
+tp175
+a(S'100002500645200'
+S'Shrinivas Gone'
+tp176
+a(S'100005285972117'
+S'Sita Shukla'
+tp177
+a(S'100000339780878'
+S'Niraj Kumar Talwar'
+tp178
+a(S'100000803057639'
+S'Anand Singh'
+tp179
+a(S'100005728478434'
+S'Aditya Uppadike'
+tp180
+a(S'100002100003572'
+S'Ankita Srivastava'
+tp181
+a(S'100004181673742'
+S'Charan Paduka'
+tp182
+a(S'100000931585342'
+S'Archana Pathak Dubey'
+tp183
+a(S'100003683466636'
+S'Munesh Dahiya'
+tp184
+a(S'100002751651384'
+S'\\u0938\\u0902\\u0938\\u094d\\u0915\\u0943\\u0924\\u093f \\u0930\\u0915\\u094d\\u0937\\u0915 \\u0938\\u0902\\u0918'
+tp185
+a(S'100003145945518'
+S'Anuj Pandey'
+tp186
+a(S'100003307348517'
+S'Sai Sevak'
+tp187
+a(S'100005446741539'
+S'\\u0936\\u094d\\u0930\\u0940 \\u0930\\u093e\\u0927\\u093e-\\u0930\\u093e\\u0928\\u0940 \\u0926\\u093f\\u0935\\u094d\\u092f \\u092a\\u094d\\u0930\\u0947\\u092e'
+tp188
+a(S'100005700877860'
+S'Ram Ka Naam'
+tp189
+a(S'100005768198087'
+S'Pinky Jayveer Khatri'
+tp190
+a(S'100002580104638'
+S'\\u091c\\u094d\\u091e\\u093e\\u0928\\u0947\\u0928\\u094d\\u0926\\u094d\\u0930 \\u092a\\u094d\\u0930\\u0915\\u093e\\u0936 \\u0905\\u0917\\u094d\\u0928\\u093f\\u0939\\u094b\\u0924\\u094d\\u0930\\u0940'
+tp191
+a(S'100004988894085'
+S'Shailesh Choudhary'
+tp192
+a(S'100005442603000'
+S'Suman Sahni'
+tp193
+a(S'100005849250649'
+S'\\u092d\\u093e\\u0930\\u0924 \\u0938\\u094d\\u0935\\u093e\\u092d\\u093f\\u092e\\u093e\\u0928 \\u0938\\u093f\\u0932\\u0935\\u093e\\u0938\\u093e'
+tp194
+a(S'100002499705413'
+S'Ayushman Kumar'
+tp195
+a(S'100000168349629'
+S'Vivek Pandey'
+tp196
+a(S'100005751821642'
+S'Ananya Sharma'
+tp197
+a(S'100004181443859'
+S'Rajiv Kumar'
+tp198
+a(S'100005801980313'
+S'Liladhar Laxmansing'
+tp199
+a(S'100004392613410'
+S'Sapna Apte'
+tp200
+a(S'100004190863752'
+S'Swati Sukla'
+tp201
+a(S'100006653172213'
+S'Ashish Yadav'
+tp202
+a(S'100004948929330'
+S'Siva Mala'
+tp203
+a(S'100000796145446'
+S'Girish Mishra'
+tp204
+a(S'100004455573733'
+S'Adesh Kumar Dwivedi'
+tp205
+a(S'100005408886473'
+S'Shashi Kant Tiwari'
+tp206
+a(S'100004763052559'
+S'Vinay Dubey'
+tp207
+a(S'100003087541473'
+S'Vaishali Patil'
+tp208
+a(S'100002082172719'
+S'Manish Nayyar'
+tp209
+a(S'100002072632423'
+S'Ashish Choubey'
+tp210
+a(S'100001879693092'
+S'Ashish Pandey'
+tp211
+a(S'100002288951953'
+S'Atul Mishra'
+tp212
+a(S'100005494234029'
+S"Hemant'gandhi Lords'idols N Religeons"
+tp213
+a(S'100000141713302'
+S'Subho Chatterjee'
+tp214
+a(S'100004902480610'
+S'Shivani Mehta'
+tp215
+a(S'100004161755331'
+S'Mata Rani Mehar Karo'
+tp216
+a(S'100004475555965'
+S'Bipul Dubey'
+tp217
+a(S'100004736563301'
+S'Satish Mandiwal'
+tp218
+a(S'100002136136943'
+S'Nagendra Pandey'
+tp219
+a(S'100002725746550'
+S'Rahul Yadav'
+tp220
+a(S'100000445274633'
+S'Dinesh Tripathi'
+tp221
+a(S'100005740833806'
+S'Hinduvahini Champapet'
+tp222
+a(S'100000280374252'
+S'Anand Upadhyay'
+tp223
+a(S'100002022351659'
+S'Manisha Tripathi'
+tp224
+a(S'100003572013906'
+S'\\u092d\\u0917\\u0935\\u093e \\u0906\\u0924\\u0902\\u0915\\u0935\\u093e\\u0926\\u0940'
+tp225
+a(S'1168434382'
+S'Piyush Parihar'
+tp226
+a(S'100005182625521'
+S'Rashtra Khabar'
+tp227
+a(S'100000235962205'
+S'Vivek Madaan'
+tp228
+a(S'100001785194564'
+S'Abhishek Ojha'
+tp229
+a(S'100004362152849'
+S'Aparna Kadakkal'
+tp230
+a(S'100003978583277'
+S'Shalini Sharma'
+tp231
+a(S'100004476721364'
+S'Mathaji Sanjeevini Peetam'
+tp232
+a(S'100004552023875'
+S'Om Sai'
+tp233
+a(S'100002661681864'
+S'Kamlesh Singh'
+tp234
+a(S'100000817577264'
+S'Manoj Sharma'
+tp235
+a(S'100001518246389'
+S'Brij Kant Tripathi'
+tp236
+a(S'100004624813283'
+S'Bengal Tiger'
+tp237
+a(S'100001661681304'
+S'MetroWings Plc'
+tp238
+a(S'100005832731833'
+S'Jagannath Mishra'
+tp239
+a(S'100005815722654'
+S'Surekha Nagarkar'
+tp240
+a(S'100005713094320'
+S'Rahul Vyas'
+tp241
+a(S'100002184042451'
+S'Rebekka Ram'
+tp242
+a(S'100000191900990'
+S'Akansha Singh'
+tp243
+a(S'100003184204622'
+S'Neha Sharma'
+tp244
+a(S'100004011744495'
+S'Rajiv Singh'
+tp245
+a(S'100002988789322'
+S'Pramjeet Gandhi'
+tp246
+a(S'100005784493125'
+S'Musalmano Ka Jeeja'
+tp247
+a(S'100003583096070'
+S'Kanda Samy'
+tp248
+a(S'100001682338834'
+S'Kundan Singh'
+tp249
+a(S'100003332101521'
+S'Kumar Vineet Rai'
+tp250
+a(S'100003279254857'
+S'Pankaj Mishra'
+tp251
+a(S'100005755655661'
+S'Chatrapati Shivaji'
+tp252
+a(S'100004977823930'
+S'Ram Charan'
+tp253
+a(S'100002490381675'
+S'Rohit Jain'
+tp254
+a(S'100005777953896'
+S'Shanmukha Kumar'
+tp255
+a(S'100002808114365'
+S'Nishi Dwivedi'
+tp256
+a(S'100005825292399'
+S'Mahesh Upadhyay'
+tp257
+a(S'100000487831632'
+S'Rajeev Jha'
+tp258
+a(S'100002990812265'
+S'Vipul Dave'
+tp259
+a(S'100005048945748'
+S'Anmol Vachan'
+tp260
+a(S'100005764154496'
+S'Shashi Kumar'
+tp261
+a(S'100003393463345'
+S'Manoj Upadhyay'
+tp262
+a(S'100003881300653'
+S'Rss Salem'
+tp263
+a(S'100002538751008'
+S'Sonam Singh'
+tp264
+a(S'100005064129853'
+S'Jay Bhole'
+tp265
+a(S'100005931812669'
+S'Sampadak Smitamisra'
+tp266
+a(S'100005800867837'
+S'Amol Patil'
+tp267
+a(S'100005784457770'
+S'Bharatiya Janatha'
+tp268
+a(S'100005046338831'
+S'Hindu Jagran Manch Brajprant'
+tp269
+a(S'100002527148574'
+S'\\u0917\\u094c \\u0930\\u0915\\u094d\\u0937\\u093e \\u0926\\u0932 \\u0909\\u0915\\u0932\\u093e\\u0928\\u093e'
+tp270
+a(S'100003002357518'
+S'Naveen Chary'
+tp271
+a(S'100001897012885'
+S'Amit Kumar'
+tp272
+a(S'100006768790189'
+S'Payal Rastogi'
+tp273
+a(S'100004350133383'
+S'Shree RadheyRani Samiti'
+tp274
+a(S'100003201861529'
+S'Ashish Tiwari'
+tp275
+a(S'100002554018211'
+S'Rajnish Kashyap'
+tp276
+a(S'100002165220302'
+S'Pooja Pandey'
+tp277
+a(S'100004185282316'
+S'Suchitra Mitra'
+tp278
+a(S'100001715073964'
+S'Vijay Yadav'
+tp279
+a(S'695134153'
+S'Shanti Bhushan Pathak'
+tp280
+a(S'100006543511809'
+S'Abhay Srivastava'
+tp281
+a(S'100000494513040'
+S'\\u0936\\u094b\\u092d\\u093f\\u0924 \\u0905\\u0917\\u094d\\u0930\\u0935\\u093e\\u0932'
+tp282
+a(S'100004942952639'
+S'Shubhangi Upadhyay'
+tp283
+a(S'100002416086400'
+S'Rashid Ansari'
+tp284
+a(S'100002940340776'
+S'Shanti Sai Darshan Dwarika'
+tp285
+a(S'100001380917676'
+S'\\u092e\\u0902\\u0917\\u0947\\u0936 \\u092a\\u0930\\u093e\\u0924\\u0947'
+tp286
+a(S'100005167063450'
+S'Sevamurti Sai Maa'
+tp287
+a(S'100001784127138'
+S'Chalo Amarnath Yatra'
+tp288
+a(S'100002533881766'
+S'Tapan Ghosh'
+tp289
+a(S'100005970374439'
+S'Pranjal Chaturvedi Rss'
+tp290
+a(S'100005662442720'
+S'Shardha Bhakti'
+tp291
+a(S'100000233051876'
+S'Vikas Mishra'
+tp292
+a(S'100002452991918'
+S'Raksha Pandey'
+tp293
+a(S'100000068873976'
+S'Raj J Trivedi'
+tp294
+a(S'100005702795493'
+S'\\u092e\\u0939\\u0947\\u0936 \\u092e\\u0930\\u093e\\u0920\\u093e'
+tp295
+a(S'100004406774491'
+S'Desh Bhakt'
+tp296
+a(S'100002533394267'
+S'Rajesh Aggarwal'
+tp297
+a(S'100004785721194'
+S'Praveen Ahire'
+tp298
+a(S'100004086182223'
+S'Vijeesh Radhakrishnan'
+tp299
+a(S'100000255737355'
+S'Vineet Kumar Rai'
+tp300
+a(S'100005631904984'
+S'Shri Vrindavandham'
+tp301
+a(S'100005858970594'
+S'Deepak Hegde'
+tp302
+a(S'100005438346940'
+S'Jai Shree Ram'
+tp303
+a(S'100003557327469'
+S'Yuva Bharat'
+tp304
+a(S'100003850713720'
+S'Vijay Shukla'
+tp305
+a(S'100001588944586'
+S'Krishna Mati Devi Dasi'
+tp306
+a(S'100002246572543'
+S'Vandana Baranwal'
+tp307
+a(S'100002790670961'
+S'\\u092a\\u0902. \\u0930\\u094b\\u0939\\u093f\\u0924 \\u0936\\u0930\\u094d\\u092e\\u093e \\u091c\\u094d\\u092f\\u094b\\u0924\\u093f\\u0930\\u094d\\u0935\\u093f\\u0926'
+tp308
+a(S'100005358519303'
+S'Jai Baba Ki'
+tp309
+a(S'100005842381623'
+S'Shastri Pawnesh'
+tp310
+a(S'100000710821212'
+S'Pavan Makwana'
+tp311
+a(S'1034046228'
+S'Ruhi Srivastava'
+tp312
+a(S'100000663159758'
+S'Navneet Mishra'
+tp313
+a(S'100005604164238'
+S'Vivekanand Sakha Rss'
+tp314
+a(S'100002835469588'
+S'Shree Dwarika Dhish'
+tp315
+a(S'100004649941978'
+S'Seema Vashisht'
+tp316
+a(S'100001287213048'
+S'Pandit Anshuman'
+tp317
+a(S'100002497787517'
+S'Aap Ki Bandana Kumari'
+tp318
+a(S'100001939160160'
+S'Mohit Verma'
+tp319
+a(S'100003718087664'
+S'\\u0935\\u093f\\u0926\\u0930\\u094d\\u092d \\u0930\\u093e\\u091c\\u094d\\u092f \\u0939\\u0928\\u0941\\u092e\\u093e\\u0928 \\u0938\\u0947\\u0928\\u093e'
+tp320
+a(S'100005668329578'
+S'Khatu Shyam'
+tp321
+a(S'100005403913596'
+S'\\u0938\\u094d\\u0935\\u0926\\u0947\\u0936\\u0940 \\u091a\\u093f\\u0915\\u093f\\u0924\\u094d\\u0938\\u093e'
+tp322
+a(S'100000689228042'
+S'Allahabad Shehar'
+tp323
+a(S'1370724260'
+S'Yeshawant Singh Thakur'
+tp324
+a(S'100003706669320'
+S'Reena Rai'
+tp325
+a(S'100002861964021'
+S'Ram Prakash Upadhyay'
+tp326
+a(S'100003972264824'
+S'Anil Nishant'
+tp327
+a(S'100002445022514'
+S'Sandeep Pandey'
+tp328
+a(S'100003918923046'
+S'Samrat Rathore'
+tp329
+a(S'100000465843329'
+S'Ashish Mishra'
+tp330
+a(S'100005739006180'
+S'Amrit Hindu'
+tp331
+a(S'100003406901242'
+S'Manoranjan Bharat'
+tp332
+a(S'100004253863776'
+S'Manoj Sharma'
+tp333
+a(S'100005811936524'
+S'Ayushi Upadhyay'
+tp334
+a(S'100003101572361'
+S'Anil Kannan Kans'
+tp335
+a(S'100004423061222'
+S'Rahul Chandra'
+tp336
+a(S'100004453423992'
+S'Jai Hindutva'
+tp337
+a(S'100005380651454'
+S'Saheed Srbjeet Singh'
+tp338
+a(S'100003476663502'
+S'Jay Maa Mahakali'
+tp339
+a(S'100006188767907'
+S'Nupur Dixit'
+tp340
+a(S'100003538941167'
+S'Blessing Appeal'
+tp341
+a(S'100001537771500'
+S'Pushpendra Kumar Singh'
+tp342
+a(S'100003222940141'
+S'Guru Maa Rokmani'
+tp343
+a(S'1848470194'
+S'Rajesh Rathod'
+tp344
+a(S'100005194440042'
+S'Kaifi Anees'
+tp345
+a(S'100001800075085'
+S'Santosh Kumar'
+tp346
+a(S'100006430013360'
+S'Ashish Srivastava'
+tp347
+a(S'100003535338332'
+S'Jitendra Seth'
+tp348
+a(S'100003348272797'
+S'Abhinash Patel'
+tp349
+a(S'100005783343268'
+S'\\u0928\\u0930\\u0947\\u0936 \\u092c\\u091c\\u0930\\u0902\\u0917\\u0940'
+tp350
+a(S'100003172300674'
+S'Lalit Kumar Sharma'
+tp351
+a(S'100003080656232'
+S'Rss Katras'
+tp352
+a(S'100005725512219'
+S'Namo Modiji'
+tp353
+a(S'100000084058571'
+S'Turbaan Singh'
+tp354
+a(S'100004611847169'
+S'\\u091c\\u094d\\u0935\\u0932\\u0902\\u0924 \\u0939\\u093f\\u0902\\u0926\\u0941\\u0924\\u094d\\u0935'
+tp355
+a(S'100004947933626'
+S'Suruchi Sharma Singer'
+tp356
+a(S'100003095680258'
+S'Sandhya Tiwari'
+tp357
+a(S'100005819473572'
+S'SasthaBrothers Poolanthara'
+tp358
+a(S'100005621383551'
+S'Vijay Rana'
+tp359
+a(S'100002220430790'
+S'Sunil Maddheshiya'
+tp360
+a(S'100008276869012'
+S'Satendra Kumar'
+tp361
+a(S'100002694241674'
+S'Satish Sharma'
+tp362
+a(S'100003997976010'
+S'Hindutva Vijay'
+tp363
+a(S'100002702838745'
+S'Shikha Srivastava'
+tp364
+a(S'100004326525141'
+S'Seema Sharma'
+tp365
+a(S'100005246280410'
+S'India Shining'
+tp366
+a(S'100005815780338'
+S'Sreedurga Sakha Vatanappilly'
+tp367
+a(S'100005803239152'
+S'Hindu Dharma Samrakshanam'
+tp368
+a(S'100005761748860'
+S'Raavi Panday'
+tp369
+a(S'100000003377847'
+S'Mozammil Kamran'
+tp370
+a(S'100005834560054'
+S'KavalloorBhadra Bhagavathy Temple'
+tp371
+a(S'100002944588655'
+S'Dilip Maske'
+tp372
+a(S'100005763990344'
+S'Puspanjali P. Sharma'
+tp373
+a(S'100004525681213'
+S'\\u0906\\u0930\\u094d\\u092f \\u0930\\u093e\\u0918\\u0935\\u0947\\u0928\\u094d\\u0926\\u094d\\u0930'
+tp374
+a(S'100005064183842'
+S'Gayatri Mahabigyan'
+tp375
+a(S'100003330042962'
+S'Girdhar Singh Gogali'
+tp376
+a(S'100005342830324'
+S'Devo Ke Dev Mahadev'
+tp377
+a(S'100001327495065'
+S'Jay Ram Mishra'
+tp378
+a(S'100005767350388'
+S'Aim Change'
+tp379
+a(S'100004793049363'
+S'Krishna Pandit'
+tp380
+a(S'100002367044560'
+S'Sheetal Mathur'
+tp381
+a(S'100005281538122'
+S'\\u0928\\u093f\\u0935\\u0947\\u0926\\u093f\\u0924\\u093e \\u0938\\u093f\\u0902\\u0939 \\u091b\\u094b\\u0915\\u0930'
+tp382
+a(S'100001400348013'
+S'Rajnish Kashyap'
+tp383
+a(S'100004069478783'
+S'\\u0930\\u093e\\u0915\\u0947\\u0936 \\u0915\\u0941\\u092e\\u093e\\u0930'
+tp384
+a(S'100002416311859'
+S'\\u0906\\u0930\\u094d\\u092f \\u0938\\u092e\\u093e\\u091c \\u092b\\u0947\\u0938\\u092c\\u0941\\u0915'
+tp385
+a(S'100004864418628'
+S'Shambhu Nath Pandey'
+tp386
+a(S'100005349223504'
+S'\\u0917\\u094c \\u0930\\u0915\\u094d\\u0937\\u093e \\u0926\\u0932 \\u0915\\u0930\\u0928\\u093e\\u0932'
+tp387
+a(S'100004466468633'
+S'Select Modi Save Bharath'
+tp388
+a(S'100003627322657'
+S'Sanjay Pandey'
+tp389
+a(S'100003673246388'
+S'Akshay Shah'
+tp390
+a(S'100004947877461'
+S'Maa Vaishnavi'
+tp391
+a(S'1685745382'
+S'Vipin Kumar'
+tp392
+a(S'100002634338021'
+S'\\u0d06\\u0d36\\u0d3e \\u0d28\\u0d28\\u0d4d\\u0d26\\u0d28\\u0d02'
+tp393
+a(S'100004521310187'
+S'Uddesh Kumar Gupta'
+tp394
+a(S'100004208011085'
+S'Praveen Kannan Ekarool'
+tp395
+a(S'100003489498139'
+S'\\u0938\\u093e\\u0930\\u093f\\u0915\\u093e \\u092d\\u093e\\u0930\\u0924\\u0940\\u092f'
+tp396
+a(S'100005867077149'
+S'Prakash Meena'
+tp397
+a(S'100005726138318'
+S'\\u0939\\u093f\\u0902\\u0926\\u0935\\u0940 \\u0938\\u094d\\u0935\\u0930\\u093e\\u091c\\u094d\\u092f \\u0938\\u0947\\u0928\\u093e'
+tp398
+a(S'100004747144965'
+S'Chakrapani Chaturvedi CP'
+tp399
+a(S'100001197959169'
+S'Vishal Yadav'
+tp400
+a(S'100005375738525'
+S'Durgesh Sen'
+tp401
+a(S'100001412241707'
+S'Ankur Srivastava'
+tp402
+a(S'100002330180877'
+S'Virendra Shukla'
+tp403
+a(S'100004329814196'
+S'Shivbodh Chandra Mishra'
+tp404
+a(S'100004365934217'
+S'Nanua Chaprasi'
+tp405
+a(S'100002632024547'
+S'Madhuri Karade'
+tp406
+a(S'100003546072770'
+S'Shambo Mahadeva'
+tp407
+a(S'100003092056489'
+S'\\u092e\\u0928\\u0940\\u0936 \\u0936\\u093f\\u0935\\u0939\\u0930\\u0947'
+tp408
+a(S'100007806278768'
+S'Seema Dwivediupadhyay'
+tp409
+a(S'100002646010150'
+S'Ahmad Mustafa'
+tp410
+a(S'100005896027161'
+S'Satyam Shivam Sundram'
+tp411
+a(S'100000961127311'
+S'Krishna Meera'
+tp412
+a(S'100003765160476'
+S'Om Dharmin'
+tp413
+a(S'100000194289671'
+S'Amit Kumar Tripathi'
+tp414
+a(S'100005756131443'
+S'Nagrik Shakti Manch'
+tp415
+a(S'100000132307279'
+S'Durgesh Singh'
+tp416
+a(S'100000674465839'
+S'Abhay Pratap Singh'
+tp417
+a(S'100004291752818'
+S'Veena Hindusthan'
+tp418
+a(S'100003285890997'
+S'Rakesh Sharma'
+tp419
+a(S'100002804816433'
+S'Omprakash Tripathi'
+tp420
+a(S'100004933512936'
+S'\\u092a\\u0941\\u0937\\u094d\\u0915\\u0930 \\u092e\\u093f\\u0936\\u094d\\u0930\\u093e'
+tp421
+a(S'100002128844033'
+S'Sudheer Nishad'
+tp422
+a(S'100005356332850'
+S'Jai Hind Rashtra'
+tp423
+a(S'100001734277162'
+S'Abhishek Dwivedi'
+tp424
+a(S'100004383127669'
+S'\\u092c\\u091c\\u0930\\u0902\\u0917 \\u0926\\u0932- \\u092b\\u0947\\u0938\\u092c\\u0942\\u0915 \\u0936\\u093e\\u0916\\u093e'
+tp425
+a(S'100005709372604'
+S'Arya Bhat'
+tp426
+a(S'100002922658251'
+S'Bjp Telugu'
+tp427
+a(S'100005849831912'
+S'Indra Puri'
+tp428
+a(S'100001983448061'
+S'Gaurav Mohan Pandey'
+tp429
+a(S'100004649980293'
+S'Satyendra Bahadur Singh'
+tp430
+a(S'100002115935490'
+S'Mahendra Kumar'
+tp431
+a(S'100002371545457'
+S'Dinesh Singh Rajpurohit'
+tp432
+a(S'100003239730995'
+S'Ajay Jai Mata Di'
+tp433
+a(S'100005762852240'
+S'\\u091c\\u092f \\u092e\\u093e\\u0924\\u093e \\u0915\\u0940'
+tp434
+a(S'100001469340617'
+S'Anand Pratap Singh'
+tp435
+a(S'100002255982211'
+S'\\u0939\\u093f\\u0902\\u0926\\u0942 \\u0930\\u093e\\u0937\\u094d\\u091f\\u094d\\u0930'
+tp436
+a(S'100002190275751'
+S'Jitendra Vishwakarma'
+tp437
+a(S'100003572695432'
+S'Sai Ka Bhakt'
+tp438
+a(S'100005619758316'
+S'Munna Bhai Acharya'
+tp439
+a(S'100004473480566'
+S'\\u092e\\u0941\\u0915\\u0947\\u0936 \\u0935\\u0936\\u093f\\u0937\\u094d\\u0920'
+tp440
+a(S'100006119767111'
+S'Akash Bijlani'
+tp441
+a(S'100001682581610'
+S'Adhigam Mishra'
+tp442
+a(S'100003683853854'
+S'Murugan Networld'
+tp443
+a(S'100002643580929'
+S'Satya Narayana'
+tp444
+a(S'100005624401744'
+S'Hindustani Bhartiya'
+tp445
+a(S'100000438529359'
+S'Ritu Raj Pandey'
+tp446
+a(S'100005332903467'
+S'Sapna Soda'
+tp447
+a(S'100003225857730'
+S'Bhanu Pratap Singh'
+tp448
+a(S'100005756441748'
+S'Bittu Sharma'
+tp449
+a(S'100004968030731'
+S'Geetha Maharaj'
+tp450
+a(S'100002987902784'
+S'Satish Enterpris'
+tp451
+a(S'100003674748268'
+S'Jitender Kumar Yadav'
+tp452
+a(S'100005442578725'
+S'Tirupati Tirumalla'
+tp453
+a(S'100005612855356'
+S'Birava Hari'
+tp454
+a(S'1720318114'
+S'Ek Bhartiya'
+tp455
+a(S'100006882463787'
+S'Ibrahim Ali'
+tp456
+a(S'100003020297712'
+S'\\u0936\\u093e\\u0932\\u093f\\u0928\\u0940 \\u0930\\u093e\\u0920\\u094c\\u0921\\u093c \\u092d\\u093e\\u0930\\u0924\\u0940\\u092f'
+tp457
+a(S'100004792566743'
+S'Siva Temple Aickarakonam'
+tp458
+a(S'100005755299228'
+S'Vignesh Kumar'
+tp459
+a(S'100005622722924'
+S'\\u0936\\u093f\\u0935\\u0938\\u0947\\u0928\\u093e \\u0932\\u0916\\u0928\\u090a \\u0909. \\u092a\\u094d\\u0930.'
+tp460
+a(S'100002310215625'
+S'Radha Sham'
+tp461
+a(S'100002196319496'
+S'Raghu Deshpande'
+tp462
+a(S'100002129997365'
+S'Vijay Kumar'
+tp463
+a(S'100000693961571'
+S'Nicky Nik'
+tp464
+a(S'100005760632258'
+S'Kamini Singhania'
+tp465
+a(S'100005566923404'
+S'Makhan Mishri'
+tp466
+a(S'100003811870724'
+S'\\u0938\\u0928\\u094d\\u0926\\u0940\\u092a \\u092e\\u094c\\u0930\\u094d\\u092f'
+tp467
+a(S'100002853312946'
+S'Parul Sai'
+tp468
+a(S'100000816678815'
+S'Dayal Smishra'
+tp469
+a(S'100005591015826'
+S'Shrikant Jadhav'
+tp470
+a(S'100001329958784'
+S'Chandrakant Thorat'
+tp471
+a(S'100002849841904'
+S'Rahul Kesarwani'
+tp472
+a(S'100005649543220'
+S'Yuwa Jan Jagriti Samiti'
+tp473
+a(S'100003883066694'
+S'Hindustani Veer GoldenBirds'
+tp474
+a(S'100002528096352'
+S'Anil Yadav'
+tp475
+a(S'100004327505153'
+S'\\u0939\\u093f\\u0902\\u0926\\u0942 \\u0938\\u0928\\u093e\\u0924\\u0928 \\u0927\\u0930\\u094d\\u092e'
+tp476
+a(S'100004107285899'
+S'Shubhashish Shukla'
+tp477
+a(S'100005726170586'
+S'\\u0930\\u093f\\u0924\\u0947\\u0936 \\u092e\\u094b\\u0926\\u0940'
+tp478
+a(S'100000467475109'
+S'Punit Prem Gautam'
+tp479
+a(S'100001774300041'
+S'Simran Chhabra'
+tp480
+a(S'100001329005312'
+S'Er Pradeep Gautam'
+tp481
+a(S'100005545747585'
+S'Shreya Dwivedi'
+tp482
+a(S'100005860083461'
+S'Rajat Mishra'
+tp483
+a(S'100005882104671'
+S'Rss Bjp'
+tp484
+a(S'100002572983699'
+S'Kapil Kumar'
+tp485
+a(S'100002891296111'
+S'Nitesh Kumar Pandey'
+tp486
+a(S'100005804196356'
+S'Ravi Mishra'
+tp487
+a(S'100000563967065'
+S'\\u0935\\u0940\\u0930 \\u092d\\u094b\\u0917\\u094d\\u092f \\u0935\\u0938\\u0941\\u0902\\u0927\\u0930\\u093e'
+tp488
+a(S'100001798476193'
+S'\\u092a\\u093e\\u0923\\u094d\\u0921\\u0947\\u092f \\u092b\\u093c\\u0942\\u0932\\u091a\\u0928\\u094d\\u0926\\u094d\\u0930'
+tp489
+a(S'100005181731565'
+S'Jai Manimahesh Kailash'
+tp490
+a(S'100002092096607'
+S'Durgesh Upadhyay'
+tp491
+a(S'100004135984030'
+S'Abhishek Pandey'
+tp492
+a(S'100005645978223'
+S'Ram Hinduwadi'
+tp493
+a(S'100005327080294'
+S'Lalitakumari Devidasi'
+tp494
+a(S'100000976934239'
+S'Prakash Solanki'
+tp495
+a(S'100000559781647'
+S'DrAmit Mishra Vairagi'
+tp496
+a(S'100002359743417'
+S"Manoj Tiwari 'Mridul'"
+tp497
+a(S'100005832632419'
+S'\\u0930\\u093e\\u091c \\u092d\\u093e\\u0930\\u0924\\u0940'
+tp498
+a(S'100004678451343'
+S'\\u0936\\u0939\\u0940\\u0926 \\u092d\\u0917\\u0924 \\u0938\\u093f\\u0902\\u0939'
+tp499
+a(S'100008204555458'
+S'Dipika Sharma'
+tp500
+a(S'100004129719667'
+S'Rudra Pratap'
+tp501
+a(S'100003370560059'
+S'Bikash Prasad Singh'
+tp502
+a(S'100005452388077'
+S'\\u0930\\u093e\\u091c\\u0947 \\u0917\\u094d\\u0930\\u0941\\u092a \\u0921\\u094b\\u0923\\u0917\\u093e\\u0902\\u0935'
+tp503
+a(S'100005724090718'
+S'Kanha Ji'
+tp504
+a(S'100002423642585'
+S'Akash Sharma'
+tp505
+a(S'100005895006491'
+S'\\u092d\\u093e\\u0930\\u0924\\u0940\\u092f \\u091c\\u0928\\u0924\\u093e \\u092a\\u093e\\u0930\\u094d\\u091f\\u0940'
+tp506
+a(S'1421183013'
+S'Ashtami Tyagi'
+tp507
+a(S'100000256852690'
+S'Pankaj Priydarshi'
+tp508
+a(S'100004199411205'
+S'Ved Vani'
+tp509
+a(S'100003789399457'
+S'\\u092e\\u0939\\u093e\\u0915\\u093e\\u0932 \\u0938\\u0947\\u0935\\u093f\\u0915\\u093e'
+tp510
+a(S'100004030840905'
+S'Sankat Mochan'
+tp511
+a(S'100002631362743'
+S'Sarvan Bhati'
+tp512
+a(S'100003825007823'
+S'Bhagwati Hindustani'
+tp513
+a(S'100003751864165'
+S'Ravichandran Tdamk'
+tp514
+a(S'100003666409225'
+S'Naga Temple Shivarajapura'
+tp515
+a(S'100003474350240'
+S'Atul Anand Singh'
+tp516
+a(S'100003230097936'
+S'Om Namah Shivah'
+tp517
+a(S'100000812414762'
+S'Sunit Pandey'
+tp518
+a(S'100003175281186'
+S'Ritesh Tiwari'
+tp519
+a(S'100003365420116'
+S'Chirag Pathak'
+tp520
+a(S'100000698481005'
+S'Manini Dasi'
+tp521
+a(S'100004180924107'
+S'Samar Khan'
+tp522
+a(S'100000665170522'
+S'Manoj Sharma'
+tp523
+a(S'652181510'
+S'Prashansha Sharma'
+tp524
+a(S'100003318272151'
+S'Ashish Shrivastav'
+tp525
+a(S'100003186433578'
+S'Ashutosh Pandey'
+tp526
+a(S'100001618876747'
+S'Ashish Srivastava'
+tp527
+a(S'100005818566556'
+S'Shri Hari Mandir Sabha'
+tp528
+a(S'1154401886'
+S'Vivek Agarwal'
+tp529
+a(S'100003306976857'
+S'Praveen Kumar'
+tp530
+a(S'100004238940265'
+S'Jai Shree Krishna'
+tp531
+a(S'100002874665009'
+S'Axiom Landbase'
+tp532
+a(S'100003300935768'
+S'Ved Prakash Mani'
+tp533
+a(S'100003307316352'
+S'Mega Hr'
+tp534
+a(S'100005795442548'
+S'Hindu Sena'
+tp535
+a(S'100002880114207'
+S'Sweta Agrawal'
+tp536
+a(S'1817834080'
+S'Dilip Kumar Yadav'
+tp537
+a(S'100002443955767'
+S'Bhadra Dhokai'
+tp538
+a(S'100004984444446'
+S'Pranay Tiwari'
+tp539
+a(S'100002249278997'
+S'Ganesh Naik'
+tp540
+a(S'100003325008541'
+S'\\u0939\\u0930\\u093f \\u0913\\u0909\\u092e \\u0924\\u0924\\u094d\\u0938\\u0924\\u094d'
+tp541
+a(S'100003713041180'
+S'\\u0930\\u093e\\u0939\\u0941\\u0932 \\u0939\\u093f\\u0902\\u0926\\u0941\\u0938\\u094d\\u0924\\u093e\\u0928\\u0940'
+tp542
+a(S'100002877987518'
+S'Satakshi Suman'
+tp543
+a(S'100007872932932'
+S'Akash Kumar'
+tp544
+a(S'100006680072226'
+S'Anjaana Pandit'
+tp545
+a(S'100005725694346'
+S'\\u0938\\u0930\\u094d\\u0935\\u091c\\u0928 \\u0938\\u0947\\u0935\\u093e'
+tp546
+a(S'100002971179479'
+S'Rudhra Sena'
+tp547
+a(S'100000857947193'
+S'\\u0936\\u093f\\u0935\\u0938\\u0948\\u0928\\u093f\\u0915 \\u092d\\u0917\\u0935\\u093e \\u092e\\u0941\\u0902\\u092c\\u0908\\u0915\\u0930'
+tp548
+a(S'100002997245409'
+S'Vrajraj Gaushala'
+tp549
+a(S'100002513740720'
+S'Prabhakar Goswami'
+tp550
+a(S'100000802923372'
+S'Rahul Kesarwani'
+tp551
+a(S'100003012691729'
+S'Akhil Bhartiya Brahman Mahasabha'
+tp552
+a(S'100001727375607'
+S'Vivek Singh Rajput'
+tp553
+a(S'100000171053189'
+S'Prashun Srivastava'
+tp554
+a(S'100005717795458'
+S'Hindu Cheruvanchery'
+tp555
+a(S'100002478412545'
+S'Ravindra Kesharwani'
+tp556
+a(S'100005810315382'
+S'Sunidhi Krishnan'
+tp557
+a(S'100003383881280'
+S'Umesh Upadhyay'
+tp558
+a(S'100006771848015'
+S'Ishwar Chand'
+tp559
+a(S'100003301721043'
+S'Anil Kumar Dubey'
+tp560
+a(S'100005742281796'
+S'Kalpana Joshi'
+tp561
+a(S'100003329056104'
+S'\\u0926\\u0940\\u092a\\u0915 \\u0906\\u0928\\u0928\\u094d\\u0926'
+tp562
+a(S'100003230940012'
+S'Chaudhary Poonam Hariom'
+tp563
+a(S'100000930764709'
+S'Sumitra Devi Dasi'
+tp564
+a(S'579669987'
+S'Gaurang Dubey'
+tp565
+a(S'100005279613486'
+S'Ravi Shanker Choubey'
+tp566
+a(S'609938516'
+S'Ankur Chopra'
+tp567
+a(S'100005407086183'
+S'Sai Baba'
+tp568
+a(S'100003170949433'
+S'Avdhesh Yadav'
+tp569
+a(S'100000440306465'
+S'Ashish Mishra'
+tp570
+a(S'100003877674465'
+S'Nanthini Rani'
+tp571
+a(S'100001721891978'
+S'Satyendra Shukla'
+tp572
+a(S'100003547158364'
+S'\\u0926\\u0941\\u0930\\u094d\\u0917\\u093e \\u0935\\u093e\\u0939\\u093f\\u0928\\u0940'
+tp573
+a(S'100001582629770'
+S'Vishal Tiwari'
+tp574
+a(S'100000466782243'
+S'\\u0905\\u0902\\u0915\\u0941\\u0930 \\u092c\\u091c\\u0930\\u0902\\u0917\\u0940'
+tp575
+a(S'100003397202380'
+S'Pranav Bhartiya'
+tp576
+a(S'100005245297260'
+S'\\u0915\\u091f\\u094d\\u091f\\u0930 \\u0939\\u093f\\u0928\\u094d\\u0926\\u0941 \\u0932\\u0916\\u0928\\u090a'
+tp577
+a(S'100005567683243'
+S'Jai Bholenath'
+tp578
+a(S'100001890360927'
+S'\\u092f\\u0941\\u0935\\u093e \\u092c\\u091c\\u0930\\u0902\\u0917 \\u092e\\u0902\\u0921\\u0932 \\u092d\\u094b\\u092a\\u093e\\u0932'
+tp579
+a(S'100004018617578'
+S'Anil BeBo'
+tp580
+a(S'100005733433619'
+S'Darshan D Gowda'
+tp581
+a(S'100001500975904'
+S'\\u0939\\u0930\\u0940\\u0936 \\u091c\\u094b\\u0936\\u0940'
+tp582
+a(S'100000937817718'
+S'Vijay Shukla'
+tp583
+a(S'100002361406722'
+S'Zubair Ahmad'
+tp584
+a(S'100003147183323'
+S'Bhagwa Bharat'
+tp585
+a(S'100003005877994'
+S'Bireshwar Paul'
+tp586
+a(S'100004761695442'
+S'Venkatesh Gupta'
+tp587
+a(S'100005589884538'
+S'Akinchan Bharat'
+tp588
+a(S'100003041082569'
+S'Ritesh Shahi'
+tp589
+a(S'100007351661043'
+S'Rupesh Dubey'
+tp590
+a(S'100005870079574'
+S'Gitanjali Mishra'
+tp591
+a(S'100004392609407'
+S'Rinki Gupta'
+tp592
+a(S'100005575274103'
+S'Alka Alka'
+tp593
+a(S'100003451465927'
+S'Gurpreet Singh'
+tp594
+a(S'100003250813891'
+S'Anju Singh'
+tp595
+a(S'100003589714521'
+S'Shobha Tiwari'
+tp596
+a(S'100001914325788'
+S'Subhash Tiwari'
+tp597
+a(S'100005062273276'
+S'Santosh Shukla'
+tp598
+a(S'100002211957995'
+S'Prakash Patil'
+tp599
+a(S'100002442091499'
+S'Rajan Rai'
+tp600
+a(S'100004027056561'
+S'Anjali Upadhyay Bhagwat Prawakta'
+tp601
+a(S'1568981644'
+S'Ashvani Jaiswal'
+tp602
+a(S'100005336705462'
+S'Aman Verma'
+tp603
+a(S'100003068560425'
+S'Chandan Arya'
+tp604
+a(S'100005358664856'
+S'Hare Krishna India'
+tp605
+a(S'100003325631618'
+S'Pankaj Kumar Dubey'
+tp606
+a(S'100004775555354'
+S'Manoj Atre'
+tp607
+a(S'100003334062343'
+S'Shri Radhe'
+tp608
+a(S'100001998109159'
+S'\\u0930\\u093e\\u0927\\u093f\\u0915\\u093e \\u0939\\u093f\\u0928\\u094d\\u0926\\u0941\\u0938\\u094d\\u0924\\u093e\\u0928\\u0940'
+tp609
+a(S'100003629115689'
+S'Numero Astro'
+tp610
+a(S'100002660564706'
+S'Anita Verma Seth'
+tp611
+a(S'100000197223458'
+S'Prasoon Sharma'
+tp612
+a(S'100004103809945'
+S'Chaudharyudaybhan Singh'
+tp613
+a(S'100001724020171'
+S'Suparna Dubey'
+tp614
+a(S'100004133049683'
+S'Usha Marothiya'
+tp615
+a(S'100003388471333'
+S'Sri Krishna Godham-koraon'
+tp616
+a(S'100001400519063'
+S'\\u0930\\u094b\\u092e\\u0940 \\u092a\\u0902\\u0921\\u093f\\u0924 \\u0916\\u093e\\u0928\\u0915'
+tp617
+a(S'100004162544065'
+S'Sashastra Kranti Dal'
+tp618
+a(S'100003941528855'
+S'\\u0939\\u093f\\u0928\\u094d\\u0926\\u0942 \\u0936\\u0947\\u0930\\u0928\\u0940 \\u092e\\u0947\\u0928\\u0915\\u093e'
+tp619
+a(S'100005834192537'
+S'Vicky King'
+tp620
+a(S'100005786562573'
+S'Anuj K Sharma'
+tp621
+a(S'100004014107092'
+S'Veena Sharma'
+tp622
+a(S'100000891288169'
+S'Rss Prakash Kesavan'
+tp623
+a(S'100005855310576'
+S'Deepchand Kunjam'
+tp624
+a(S'100000651794036'
+S'R.s. Jothivelan'
+tp625
+a(S'100005094698712'
+S'Hind Navnirman Sena'
+tp626
+a(S'100005415936753'
+S'Krantikari Rudra'
+tp627
+a(S'100003199980327'
+S'\\u0936\\u094d\\u0930\\u0940 \\u0930\\u093e\\u092e \\u0930\\u093e\\u091c\\u094d\\u092f \\u0917\\u094d\\u0930\\u0941\\u092a'
+tp628
+a(S'100005536565669'
+S'Sunil Singh'
+tp629
+a(S'100005021741299'
+S'\\u0939\\u093f\\u0928\\u094d\\u0926\\u0942 \\u0939\\u093f\\u0928\\u094d\\u0926\\u0940 \\u0939\\u093f\\u0928\\u094d\\u0926\\u0941\\u0938\\u094d\\u0924\\u093e\\u0928\\u0940'
+tp630
+a(S'100001920964085'
+S'\\u0935\\u0930\\u0941\\u0923 \\u092a\\u093e\\u0923\\u094d\\u0921\\u0947\\u092f \\u092d\\u093e\\u091c\\u092a\\u093e\\u0938\\u0902\\u0935\\u093e\\u0926\\u092a\\u094d\\u0930\\u0915\\u094b\\u0937\\u094d\\u0920'
+tp631
+a(S'100005469550408'
+S'Radhe Krishna'
+tp632
+a(S'100005827352381'
+S'Chetan Kalbhor'
+tp633
+a(S'100004419693316'
+S'Sachin Mani Tripathi'
+tp634
+a(S'100001160698721'
+S'Awneesh Pathak'
+tp635
+a(S'100005796661059'
+S'Sangh Parivar India'
+tp636
+a(S'100005456077299'
+S'\\u0935\\u0948\\u092d\\u0935 \\u0915\\u092c\\u0921\\u093c\\u0935\\u093e\\u0932'
+tp637
+a(S'100002667935968'
+S'Sanjay Sharma'
+tp638
+a(S'100005404362190'
+S'Bajrang Dal Mungaoli'
+tp639
+a(S'100005774830110'
+S'Bhagya Nagar'
+tp640
+a(S'100002823701962'
+S'Girijesh Pandey'
+tp641
+a(S'100005072894228'
+S'\\u0930\\u093e\\u0927\\u0947 \\u0930\\u093e\\u0927\\u0947'
+tp642
+a(S'100002319591144'
+S'Muzaffar Ali'
+tp643
+a(S'100002318310876'
+S'Rishi Chaturvedi'
+tp644
+a(S'100004904227104'
+S'Yuva Sena Devarjan'
+tp645
+a(S'100001702979230'
+S'Rabia Chaudhry'
+tp646
+a(S'100005781788165'
+S'Ravi Chanderesan Varma'
+tp647
+a(S'100005690797161'
+S'Gramin Shiksha Sansthan'
+tp648
+a(S'100001362992947'
+S'D KAy Verma'
+tp649
+a(S'100004774417150'
+S'Shivsena'
+tp650
+a(S'100004501688551'
+S'Jayakrishnan Appus'
+tp651
+a(S'100003765341809'
+S'Shahnwaz Ahmed'
+tp652
+a(S'1420952589'
+S'Shanti Bhushan Pathak'
+tp653
+a(S'100002127073483'
+S'Brajesh Kumar'
+tp654
+a(S'100002180793118'
+S'Ashish Kumar Pal'
+tp655
+a(S'1519681035'
+S'Muhammad Sami Ullah'
+tp656
+a(S'100003224100129'
+S'Shri Shirdi Sai'
+tp657
+a(S'100001698952006'
+S'Rajeev Kumar Rai'
+tp658
+a(S'100003661641116'
+S'Mithilesh Sharma'
+tp659
+a(S'100005213766602'
+S'Radha Rani Maharani'
+tp660
+a(S'100002529356284'
+S'Ritesh Kumar'
+tp661
+a(S'100003877631347'
+S'Umesh Pal'
+tp662
+a(S'100003554227167'
+S'Anil Pradhan'
+tp663
+asS'id'
+p664
+S'100000779015270'
+p665
+s.

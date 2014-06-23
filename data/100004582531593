@@ -1,0 +1,90 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100001639593401'
+S'Ajeet Singh'
+tp4
+a(S'100003278334563'
+S'Naresh Kumar'
+tp5
+a(S'100007150419079'
+S'Sonu Saini'
+tp6
+a(S'100004093667522'
+S'Manish Kumar'
+tp7
+a(S'100004656583564'
+S'Akash Kumar'
+tp8
+a(S'100003167497863'
+S'Arun Kumar'
+tp9
+a(S'100005088794441'
+S'Sandeep Kumar'
+tp10
+a(S'100002390946110'
+S'Rohit Sharma'
+tp11
+a(S'100002437565294'
+S'Naveen Kumar'
+tp12
+a(S'100003733061352'
+S'Sanjay Kumar'
+tp13
+a(S'100004582531593'
+p14
+S'Pinky Gautam'
+tp15
+a(S'100004086511802'
+S'Rihan Khan'
+tp16
+a(S'1536190310'
+S'Pankaj Gupta'
+tp17
+a(S'100002452319135'
+S'Naveen Singh'
+tp18
+a(S'100005308718949'
+S'Ravinder Kumar'
+tp19
+a(S'100006673651219'
+S'Amit Yadav'
+tp20
+a(S'100007122701440'
+S'Mirza Ali'
+tp21
+a(S'100005080471809'
+S'Swati Sharma'
+tp22
+a(S'100001840522869'
+p23
+S'Mohit Gupta'
+tp24
+a(S'100005377059629'
+S'Rahul Soni'
+tp25
+a(S'100005692861146'
+S'Ashok Kumar'
+tp26
+a(S'100005179830388'
+S'Sukhvinder Singh'
+tp27
+a(S'100005680868868'
+S'Sanju Mehar'
+tp28
+a(S'100007325707402'
+S'Darshan Kumar'
+tp29
+a(S'100003396249248'
+S'Faisal Khan'
+tp30
+asS'id'
+p31
+S'100004582531593'
+p32
+sS'name'
+p33
+S'Pinky Gautam'
+p34
+s.

@@ -1,0 +1,43 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100004991896888'
+S'Kanika Sharma'
+tp4
+a(S'100006773283942'
+S'Deep Arora'
+tp5
+a(S'100007919611399'
+S'Rahul Singh'
+tp6
+a(S'100004540299944'
+S'Rishi Kumar'
+tp7
+a(S'100008290666262'
+S'Ashish Kumar'
+tp8
+a(S'100008086540503'
+S'Aman Saini'
+tp9
+a(S'100001196924337'
+S'Raj Malhotra'
+tp10
+a(S'100004358624333'
+S'Ashish Singh'
+tp11
+a(S'100008249255730'
+S'Jashneet Singh'
+tp12
+a(S'100003099784334'
+S'Shreya Gulati'
+tp13
+asS'id'
+p14
+S'100003099784334'
+p15
+sS'name'
+p16
+S'Shreya Gulati'
+p17
+s.

@@ -1,0 +1,304 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100000280478123'
+S'Akanksha Gupta'
+tp4
+a(S'100000225145314'
+S'Madhur Jasrapuria'
+tp5
+a(S'1061018729'
+S'Aayush Anand'
+tp6
+a(S'100002201995578'
+S'Jayant Lamba'
+tp7
+a(S'636228170'
+S'Rishabh Mehra'
+tp8
+a(S'1396994337'
+S'Shradha Gupta'
+tp9
+a(S'1796842182'
+S'Nitya Jain'
+tp10
+a(S'1514002542'
+S'Shivika Vikram'
+tp11
+a(S'682730213'
+S'Sana Gupta'
+tp12
+a(S'639419664'
+S'Aparajita Amar'
+tp13
+a(S'100003959722031'
+S'Ashvatth Verma'
+tp14
+a(S'661243707'
+S'Simran Geetu Monga'
+tp15
+a(S'100000441788185'
+S'Prateek Kher'
+tp16
+a(S'783389487'
+S'Ankita Jain'
+tp17
+a(S'1525332658'
+S'Gautam Miglani'
+tp18
+a(S'1198272211'
+S'Abhishek Goel'
+tp19
+a(S'100000889110212'
+S'Priyal Seth'
+tp20
+a(S'1201355406'
+S'Suraj Gambhir'
+tp21
+a(S'696679802'
+S'Eshu Jain'
+tp22
+a(S'1658671515'
+S'Nimish Arora'
+tp23
+a(S'620560993'
+S'Anjalee Beri'
+tp24
+a(S'537646047'
+S'Karan Budhiraja'
+tp25
+a(S'1774150145'
+S'Aditya Srivastava'
+tp26
+a(S'100002551385367'
+S'Devika Rajpal'
+tp27
+a(S'1249359240'
+S'Aarushi Talwar'
+tp28
+a(S'501130343'
+S'Vedika Mohan'
+tp29
+a(S'518728058'
+S'Siddharth Rawat'
+tp30
+a(S'739745640'
+S'Dhruv Sachdeva'
+tp31
+a(S'1609890614'
+S'Kalyani Kulkarni'
+tp32
+a(S'1255002658'
+S'Sidhant Suri'
+tp33
+a(S'611222708'
+S'Kashish Khandelwal'
+tp34
+a(S'577475095'
+S'Suhavini Singh'
+tp35
+a(S'100000021019992'
+S'Rishab Kapoor'
+tp36
+a(S'100002407738417'
+S'Aparajita Misra'
+tp37
+a(S'100001986474129'
+S'Raj Upadhyay'
+tp38
+a(S'1088535399'
+S'Kashika Kapur'
+tp39
+a(S'513458609'
+S'Akhil Bhusry'
+tp40
+a(S'100001220914047'
+S'Akshita Verma'
+tp41
+a(S'707142372'
+S'Atishay Jain'
+tp42
+a(S'1252008896'
+S'Anoop Jain'
+tp43
+a(S'100002333803207'
+S'Preeti Mohan'
+tp44
+a(S'100004090594472'
+S'Ishita Prakash'
+tp45
+a(S'1821390780'
+S'Ritik Suneja'
+tp46
+a(S'1276047444'
+S'Arth Gupta'
+tp47
+a(S'597809277'
+S'Shivam Goyal'
+tp48
+a(S'619616072'
+S'Akshit Jain'
+tp49
+a(S'1364102023'
+S'Anubhav Gupta'
+tp50
+a(S'1836279808'
+S'Ishaan Singhal'
+tp51
+a(S'543172596'
+S'Avantika Sood'
+tp52
+a(S'100000086592779'
+S'Pallavi Seth'
+tp53
+a(S'100001056588732'
+S'Aashmita Ajit'
+tp54
+a(S'617073404'
+S'Apoorvi Jain'
+tp55
+a(S'795730460'
+S'Tanisha Gujral'
+tp56
+a(S'100000294600237'
+S'Naini Jain'
+tp57
+a(S'100000486283356'
+S'RagiNi Khullar'
+tp58
+a(S'100000937195402'
+S'Jatin Arora'
+tp59
+a(S'1660306605'
+S'Avi Agarwal'
+tp60
+a(S'532178527'
+S'Jatin Masrani'
+tp61
+a(S'1257245491'
+S'Suhasini Gour'
+tp62
+a(S'1663209459'
+S'Gaurav Ramani'
+tp63
+a(S'1100078467'
+S'Radhika Singhal'
+tp64
+a(S'1330520358'
+S'Vishesh Gupta'
+tp65
+a(S'1343647414'
+S'Raghav Narain Bali'
+tp66
+a(S'526603586'
+S'Archit Kalra'
+tp67
+a(S'1161012981'
+S'Chinmay Handa'
+tp68
+a(S'1039994126'
+S'Divyansh Gupta'
+tp69
+a(S'1834393816'
+S'Kaaran Bhasin'
+tp70
+a(S'1076940578'
+S'Rijul Rajesh'
+tp71
+a(S'100000874323075'
+S'Mitasha Johari'
+tp72
+a(S'743581411'
+S'Mahita Walia'
+tp73
+a(S'591727103'
+S'Disha Sukhija'
+tp74
+a(S'1411592136'
+S'Divya Malik'
+tp75
+a(S'100000887649372'
+S'Abhishek Dwivedi'
+tp76
+a(S'520833794'
+S'Ananya Goel'
+tp77
+a(S'1366887816'
+S'Srishti Jain'
+tp78
+a(S'100000666721624'
+S'Harsh Sondhi'
+tp79
+a(S'100000032993256'
+S'Mahir Kalra'
+tp80
+a(S'100000202512853'
+S'Ayush Jain'
+tp81
+a(S'827865645'
+S'Pranav Singh Aggarwal'
+tp82
+a(S'1175523751'
+S'Supriya Bansal'
+tp83
+a(S'100000593874132'
+S'Hitanksha Ranbir Jain'
+tp84
+a(S'1471124070'
+S'Mochak Soni'
+tp85
+a(S'818943483'
+S'Ishaan Kalra'
+tp86
+a(S'701882121'
+S'Isha Sen'
+tp87
+a(S'1526844116'
+S'Kamakshi Gupta'
+tp88
+a(S'522553214'
+S'Udit Mundhra'
+tp89
+a(S'747985185'
+S'Manoj Jain'
+tp90
+a(S'100001137433816'
+S'Ishaan Narang'
+tp91
+a(S'646649455'
+S'Ishita Mehrotra'
+tp92
+a(S'586324119'
+S'Niyatti Mehra'
+tp93
+a(S'594937433'
+S'Vasvee Sharma'
+tp94
+a(S'100001950578419'
+S'Nikita Gill'
+tp95
+a(S'1160888031'
+S'Ankit Mohindra'
+tp96
+a(S'502002935'
+S'Siya Khanna'
+tp97
+a(S'1330368640'
+S'Manish Gupta'
+tp98
+a(S'100000172391239'
+S'Aarushi Kessar'
+tp99
+a(S'1165984302'
+S'Shivish Soni'
+tp100
+asS'id'
+p101
+S'100000097581461'
+p102
+sS'name'
+p103
+S'Devansh Jain'
+p104
+s.

@@ -1,0 +1,259 @@
+(dp1
+S'name'
+p2
+S'Floyd Gonsalves'
+p3
+sS'current_class'
+p4
+S'india'
+p5
+sS'home_class'
+p6
+Vpuraniks hometown, ghodbandar road, sai nagar, anand nagar, thane west, thane, maharashtra 400615, india
+p7
+sS'home_text'
+p8
+VMumbai, Maharashtra, India\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D25.252200685563%252C%2B55.279083251953%26name%3DDubai%252C%2BUnited%2BArab%2BEmirates%26mkt%3Den-IN&h=1AQGfxi4H&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D18.975000641097%252C%2B72.825622558594%26name%3DMumbai%252C%2BMaharashtra%252C%2BIndia%26mkt%3Den-IN&h=hAQFnqTm6&s=1
+p13
+sS'current_text'
+p14
+VDubai, United Arab Emirates\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'1577405317'
+S'Priya Nair'
+tp18
+a(S'100001711112014'
+S'Samantha Fernandes'
+tp19
+a(S'1734742641'
+S'Ashwin Nayampally'
+tp20
+a(S'1368625882'
+S'Ivy Lasrado'
+tp21
+a(S'1268808348'
+S'Vaishali Lall'
+tp22
+a(S'100000006227850'
+S'Amalia Pinto Rebelo Nazareth'
+tp23
+a(S'1320279158'
+S'Vernon Marshall'
+tp24
+a(S'1109305108'
+S'Tino Pironti'
+tp25
+a(S'674382680'
+S'Lorella Jacinto'
+tp26
+a(S'1320790561'
+S'Babuprakash Kalathil'
+tp27
+a(S'100000166686945'
+S'Anita Francisca Magus'
+tp28
+a(S'583827689'
+S'Claudius De Sales'
+tp29
+a(S'1717672146'
+S'Sabita Prabhudesai'
+tp30
+a(S'100004422001805'
+S'Lyndon Dsouza'
+tp31
+a(S'753558063'
+S'Blasco Andrade'
+tp32
+a(S'683950906'
+S'John Soares'
+tp33
+a(S'1169397399'
+S'Cosmos Noronha'
+tp34
+a(S'100000784251365'
+S'Ruth Mirium Fernandes'
+tp35
+a(S'1394733976'
+S'Arvind Menezes'
+tp36
+a(S'100001125271672'
+S'Serena Dsouza'
+tp37
+a(S'806875057'
+S'Neil Pereira'
+tp38
+a(S'528098046'
+S'Samir Chadha'
+tp39
+a(S'563070522'
+S'Neville Gomes'
+tp40
+a(S'705578504'
+S'Asif Karmali'
+tp41
+a(S'587515428'
+S'Gina Fernandes'
+tp42
+a(S'1138017428'
+S'George Fernandes'
+tp43
+a(S'100000022721772'
+S'Leona Marshall'
+tp44
+a(S'100000921435852'
+S"Gregory D'silva"
+tp45
+a(S'634897371'
+S'Succour Heredia'
+tp46
+a(S'691068015'
+S'Navin Somaya'
+tp47
+a(S'675686233'
+S"Anisha D'Souza Andrade"
+tp48
+a(S'1737966230'
+S'Tyrone Souza'
+tp49
+a(S'1176998712'
+S'Hemant Kudrimoti'
+tp50
+a(S'100000202622162'
+S'Evita Pereira'
+tp51
+a(S'1100211695'
+S'Placita Soares'
+tp52
+a(S'642466643'
+S'David Pinto'
+tp53
+a(S'1204603512'
+S'Charlotte Gonsalves'
+tp54
+a(S'521787104'
+S'Edric George'
+tp55
+a(S'1322897293'
+S'Prashant Pagi'
+tp56
+a(S'520127334'
+S'Irina Cordo'
+tp57
+a(S'528877680'
+S'Sharon Jennifer Pereira'
+tp58
+a(S'792643831'
+S'Clarion Pereira'
+tp59
+a(S'100001361316974'
+S'Roger Attlee'
+tp60
+a(S'520597740'
+S'Mario Garcia'
+tp61
+a(S'100000276065228'
+S'Mandar Kanvinde'
+tp62
+a(S'750410114'
+S'Mildred Fernandes'
+tp63
+a(S'1116695732'
+S"Mark D'Souza"
+tp64
+a(S'684303312'
+S"Vijay D'Souza"
+tp65
+a(S'835878135'
+S"Jeevan D'Mello"
+tp66
+a(S'570873928'
+S'Sanjeev Mendes'
+tp67
+a(S'655723384'
+S'Danny Hector Fernandes'
+tp68
+a(S'1275185908'
+S'Leroy Sampy'
+tp69
+a(S'100001532533982'
+S'Nirmala Singh'
+tp70
+a(S'100000095003203'
+S'Lily Desouza'
+tp71
+a(S'100002699011021'
+S'CloverBrian Pereira'
+tp72
+a(S'100000559512135'
+S'Sarath Chandran Vijayan Sarala'
+tp73
+a(S'742608615'
+S'Dawson J Pereira'
+tp74
+a(S'694522165'
+S'Mario Gregory Virgil Quadros'
+tp75
+a(S'1138579948'
+S'Neil Gonsalves'
+tp76
+a(S'100002034086776'
+S'Shahnaz Nensey'
+tp77
+a(S'100000525999517'
+S'Larry Jacinto'
+tp78
+a(S'100000666113791'
+S'Dirk Gonsalves'
+tp79
+a(S'100000345249317'
+S'Andre Drego'
+tp80
+a(S'1025683036'
+S'Umesh Bandodkar'
+tp81
+a(S'643073248'
+S'Pankaj Sharma'
+tp82
+a(S'709217064'
+S'Richard F.a'
+tp83
+a(S'657035213'
+S'Philip Jocelyn Fernandes'
+tp84
+a(S'687753850'
+S'Beverley Ann Franco'
+tp85
+a(S'748288628'
+S'Savio Lobo'
+tp86
+a(S'1727741790'
+S'Darryl Baptista'
+tp87
+a(S'616754288'
+S'Neil Gomes'
+tp88
+a(S'100000113843342'
+S'Vanessa Juana Pereira'
+tp89
+a(S'100001647060379'
+S'Freddy Ferrao'
+tp90
+a(S'100000359251353'
+S'Earl Alphonso'
+tp91
+asS'id'
+p92
+S'100002918115972'
+p93
+s.

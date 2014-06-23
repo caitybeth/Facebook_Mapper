@@ -1,0 +1,37 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100004099674790'
+S'Jorge Romero'
+tp4
+a(S'100008153136728'
+S'Fernanda Roriguez'
+tp5
+a(S'100004270532546'
+S'Enrique Bernardez'
+tp6
+a(S'100004007567457'
+S'Alberto Garcia'
+tp7
+a(S'100004386552373'
+S'Omar Garrido'
+tp8
+a(S'100005092174035'
+S'Leonardo Chomiak'
+tp9
+a(S'100003212575350'
+p10
+S'Estela Abao'
+tp11
+a(S'100004447414991'
+S'Juanmr Bernardez-Romero'
+tp12
+asS'id'
+p13
+g10
+sS'name'
+p14
+S'Estela Abao'
+p15
+s.

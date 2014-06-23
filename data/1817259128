@@ -1,0 +1,277 @@
+(dp1
+S'name'
+p2
+S'M Naveed Butt'
+p3
+sS'current_class'
+p4
+S'pakistan'
+p5
+sS'home_class'
+p6
+Vlahore, pakistan
+p7
+sS'home_text'
+p8
+VLahore, Pakistan\u000aHometown
+p9
+sS'current_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D31.549700669186%252C%2B74.343109130859%26name%3DLahore%252C%2BPakistan%26mkt%3Den-IN&h=0AQGn4dP7&s=1
+p11
+sS'home_link'
+p12
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D31.549700669186%252C%2B74.343109130859%26name%3DLahore%252C%2BPakistan%26mkt%3Den-IN&h=KAQGljQ83&s=1
+p13
+sS'current_text'
+p14
+VLahore, Pakistan\u000aCurrent City
+p15
+sS'friends'
+p16
+(lp17
+(S'100000995851489'
+S'Adnan Javed'
+tp18
+a(S'661752440'
+S'Mujtaba Smart'
+tp19
+a(S'100002871453526'
+S'Tauqeer Butt'
+tp20
+a(S'100003850370757'
+S'Mawaz Khan'
+tp21
+a(S'100003499421719'
+S'Nadim Hassan'
+tp22
+a(S'100006435187159'
+S'Waqas Ahmed'
+tp23
+a(S'100000308694646'
+S'Irfan Fani'
+tp24
+a(S'100000010725354'
+S'Yasir Ali'
+tp25
+a(S'100006482770766'
+S'Mudassir Sonu'
+tp26
+a(S'100002222719123'
+S'Ali Butt'
+tp27
+a(S'100002981174264'
+S'Rehan Butt'
+tp28
+a(S'100002261706398'
+S'Muhammad Ali Ibrahim'
+tp29
+a(S'100006873301317'
+S'Qadeer Billa'
+tp30
+a(S'100003136532014'
+S'Moazzam Shah Jee'
+tp31
+a(S'100002935320766'
+S'Khalid Khan'
+tp32
+a(S'100001993194236'
+S'Faisal Ali Ali'
+tp33
+a(S'100002232679687'
+S'Rashadbhatti Mahmood'
+tp34
+a(S'1336897500'
+S'Mansoor Rafiq'
+tp35
+a(S'100002822120817'
+S'Ajaz Ali'
+tp36
+a(S'746221527'
+S'Amber Ahmed'
+tp37
+a(S'100002459746889'
+S'Juni BaBa'
+tp38
+a(S'100003183562817'
+S'Junaid Ahmad'
+tp39
+a(S'100000069351229'
+S'Shaukat Ali'
+tp40
+a(S'1788786855'
+S'Imran Ali'
+tp41
+a(S'100002754298563'
+S'Qaiser Ali'
+tp42
+a(S'100000130983549'
+S'Salman Chaudhary'
+tp43
+a(S'100001938145130'
+S'Ghulam Abbas Sajan'
+tp44
+a(S'1650711505'
+S'Muhammad Farooq Ali'
+tp45
+a(S'658442116'
+S'Tauseef Mubarak'
+tp46
+a(S'100000781682595'
+S'Nasir Ahmed'
+tp47
+a(S'558560547'
+S"Sana'a Durrani"
+tp48
+a(S'100003028429711'
+S'Wahid Jamshed'
+tp49
+a(S'100005096940125'
+S'Mn Naeem Fabrication Prodcation'
+tp50
+a(S'100001174919050'
+S'Mian Sunny Ahsan'
+tp51
+a(S'717186990'
+S'M. Asif Memon'
+tp52
+a(S'100002328604909'
+S'Rana Asif'
+tp53
+a(S'100001184962814'
+S'Rana Shahzad'
+tp54
+a(S'1074810935'
+S'Aamir Meer'
+tp55
+a(S'100002657109991'
+S'Naveed Umer'
+tp56
+a(S'100002971682681'
+S'Aasma Salman'
+tp57
+a(S'570923294'
+S'Arsalan Baig'
+tp58
+a(S'100004054684023'
+S'Fazeel Ahmed'
+tp59
+a(S'1173460835'
+S'Imran Ahmad'
+tp60
+a(S'100002350275634'
+S'Iftikhar Ahmad'
+tp61
+a(S'100006315543106'
+S'Hammad Butt'
+tp62
+a(S'100000140060572'
+S'Usman Bin Azeem'
+tp63
+a(S'100003174515208'
+S'Nadeem Butt'
+tp64
+a(S'100000877533759'
+S'Mfs Butt'
+tp65
+a(S'1614246652'
+S'Muhammad Abbas'
+tp66
+a(S'100007890360025'
+S'Imran Butt'
+tp67
+a(S'100003101758703'
+S'Sulman Butt'
+tp68
+a(S'1849142719'
+S'Absar Haider Khan'
+tp69
+a(S'100001240368807'
+S'Zahid Jamshaid'
+tp70
+a(S'100001351947012'
+S'Hadi Chughtai'
+tp71
+a(S'100000508841371'
+S'Ali Raza'
+tp72
+a(S'1373118657'
+S'Irfan Jamil'
+tp73
+a(S'100003192221954'
+S'Mian Ali Warsii'
+tp74
+a(S'622092766'
+S'Waleed Faheem'
+tp75
+a(S'100000048592875'
+S'Sufiyan Khalid'
+tp76
+a(S'100006577562073'
+S'Mubashar Lala'
+tp77
+a(S'100002551839676'
+S'Younas Khan'
+tp78
+a(S'100001724887331'
+S'Khalid Tai'
+tp79
+a(S'100000812435817'
+S'Buddy Smart'
+tp80
+a(S'100001264754773'
+S'Kashif Ejaz'
+tp81
+a(S'100002702758100'
+S'Malik Zahid'
+tp82
+a(S'1195736924'
+S'Qaiser Sarwar'
+tp83
+a(S'100004100270437'
+S'Furqan Ahmed'
+tp84
+a(S'100002513604614'
+S'Anas Pitafi'
+tp85
+a(S'1078547953'
+S'Usama Bin Azeem'
+tp86
+a(S'100000266493565'
+S'Khani Gul'
+tp87
+a(S'100000403459360'
+S'Aamir Shaukat'
+tp88
+a(S'100004427203790'
+S'Wahid Wahid'
+tp89
+a(S'100005684672492'
+S'Mona Butt'
+tp90
+a(S'100000901900513'
+S'Fahad Jamshaid'
+tp91
+a(S'100001006398239'
+S'Hasnain Raza'
+tp92
+a(S'100000947455274'
+S'Mian Ateeq'
+tp93
+a(S'100003746647327'
+S'Arman Butt'
+tp94
+a(S'100000163055273'
+S'Tariq Bin Zaheer Zaheer'
+tp95
+a(S'100006944709735'
+S'Ansa Butt'
+tp96
+a(S'100001472996003'
+S'Mudassar Manzoor'
+tp97
+asS'id'
+p98
+S'1817259128'
+p99
+s.

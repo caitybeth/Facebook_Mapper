@@ -1,0 +1,391 @@
+(dp1
+S'friends'
+p2
+(lp3
+(S'100001633430922'
+S'Bilal Lali'
+tp4
+a(S'100002682566587'
+S'Khan Waziristani'
+tp5
+a(S'100007576414202'
+S'Shakir Wazir'
+tp6
+a(S'100005198262325'
+S'Safi Ullah Wazir'
+tp7
+a(S'100002514451483'
+S'Ishtihar Khan'
+tp8
+a(S'100007528053228'
+S'Abdul Samad Khan'
+tp9
+a(S'100007006747215'
+S'Musharaf Wazir'
+tp10
+a(S'1805003975'
+S'Myami Wazir'
+tp11
+a(S'100001188705258'
+S'Muhammad Noor Khan'
+tp12
+a(S'100000924117669'
+S'Manar Sliman'
+tp13
+a(S'100006865831089'
+S'Shahid Khan Pardesi'
+tp14
+a(S'100006984194087'
+S'Sawadin Wazir'
+tp15
+a(S'100007443456932'
+S'\\u00c4m\\u00ecr \\u00d9ll\\u00e4h W\\u00e4z\\u00ecr'
+tp16
+a(S'100001416157637'
+S'Kamal Sharma'
+tp17
+a(S'100001817609205'
+S'Wahab Gul Hmc'
+tp18
+a(S'100001407946354'
+S'Soona Atif'
+tp19
+a(S'100007849241833'
+S'Ashraf Zoi Ashraf Zoi'
+tp20
+a(S'100005945973056'
+S'Rasool Rehman Wazir'
+tp21
+a(S'100003289986568'
+S'Razmak Gmi'
+tp22
+a(S'100001087017021'
+S'Abdur Rehman'
+tp23
+a(S'100001793738793'
+S'Zain Dawar'
+tp24
+a(S'100005653623384'
+S'Khalid Waxir'
+tp25
+a(S'100002472184040'
+S'Nahida Khatun'
+tp26
+a(S'100003192576251'
+S'Ankit Sharma'
+tp27
+a(S'100005518565820'
+S'Saher Malik'
+tp28
+a(S'100006479405398'
+S'Rauf Armani Wazir'
+tp29
+a(S'100007756980426'
+S'Javied Lucky'
+tp30
+a(S'100001286275183'
+S'Khalil Wazir'
+tp31
+a(S'100007412023698'
+S'Jamal SaaJan Wazir'
+tp32
+a(S'1329182921'
+S'Wahab Khan'
+tp33
+a(S'100001240196571'
+S'Muhammad Zubair'
+tp34
+a(S'100001909796383'
+S'Abdul Sathar Hosangadi'
+tp35
+a(S'100006892421692'
+S'Bakht Muhammad Wazir'
+tp36
+a(S'100008120531894'
+S'Sidqque Khan Masood'
+tp37
+a(S'100005040193293'
+S'Waqas Swati'
+tp38
+a(S'100006738392379'
+S'Sher Ullah'
+tp39
+a(S'100000642072081'
+S'Ahmad Shah'
+tp40
+a(S'100001939025959'
+S'Faisal Sahil'
+tp41
+a(S'100008345471638'
+S'Zal Zala Wazir'
+tp42
+a(S'100002035825263'
+S'Faisalsahil Khan'
+tp43
+a(S'100004317070775'
+S'Gul Sheer'
+tp44
+a(S'100007142828445'
+S'ShaHid Nawaz Peshawrian'
+tp45
+a(S'100002454262213'
+S'Ayaz Khan'
+tp46
+a(S'100006043683942'
+S'Rizwan Wazir'
+tp47
+a(S'100005624441348'
+S'Safir Ullah Tanha Wazir'
+tp48
+a(S'100007550770756'
+S'Sufyan Wazir'
+tp49
+a(S'100001252711203'
+S'Icha Chan'
+tp50
+a(S'1404238210'
+S'Sher Nawaz'
+tp51
+a(S'100007301235765'
+S'Abdur Razaq Wazir'
+tp52
+a(S'100000543637273'
+S'Ayaz Wazir'
+tp53
+a(S'100004928431528'
+S'Abdullah Khan'
+tp54
+a(S'100001740138072'
+S'Kiki Rizki'
+tp55
+a(S'100006580323296'
+S'Hakim Masoom M\\u00ee\\u00e2m\\u00ee'
+tp56
+a(S'100001559996169'
+S'Sadaf Khan'
+tp57
+a(S'100000312567246'
+S'Samad Razmak'
+tp58
+a(S'100004838773266'
+S'Asif Kamal Wazir'
+tp59
+a(S'100000480597852'
+S'Farooq Afridi'
+tp60
+a(S'100005065144008'
+S'Mohammad Haleem Afghan'
+tp61
+a(S'100001574116687'
+S'Marjerese Bulabog'
+tp62
+a(S'100007647614284'
+S'Wali Ullah Majnoon Wazir'
+tp63
+a(S'100006819039493'
+S'Aamir Rabbani'
+tp64
+a(S'100002085311776'
+S'Mena Mangal'
+tp65
+a(S'100006891961112'
+S'Saif Hassan'
+tp66
+a(S'100000041669043'
+S'Sohail Ahmad'
+tp67
+a(S'100005626870131'
+S'Shahsawar Khan Wazir'
+tp68
+a(S'100001634664122'
+S'Aroula Afnan Khan'
+tp69
+a(S'100007068104591'
+S'Syed Hassan'
+tp70
+a(S'100002002938143'
+S'Hazaratullah Afridi'
+tp71
+a(S'100002687000994'
+S'Amir Muhammad'
+tp72
+a(S'100006439028904'
+S'Afzal Haq'
+tp73
+a(S'100007071433104'
+S'Red Angle'
+tp74
+a(S'100006831760057'
+S'Dilabbas Khan'
+tp75
+a(S'100001515571501'
+S'Aneeqa Khan'
+tp76
+a(S'100008272201778'
+S'Monirkhan Sayed'
+tp77
+a(S'100007766493848'
+S'Nasir Kamal Waziristani'
+tp78
+a(S'100006715268886'
+S'Azmat Wazar'
+tp79
+a(S'100004302012267'
+S'Afghan Zalmay'
+tp80
+a(S'100001146481365'
+S'Engrsaif Rehman'
+tp81
+a(S'100001024619114'
+S'Hussain Ahmad'
+tp82
+a(S'100007284186375'
+S'Farman Khan'
+tp83
+a(S'100001558064239'
+S'Abdul Basit Jadoon'
+tp84
+a(S'100006129783959'
+S'Abid Miamii'
+tp85
+a(S'100003585990492'
+S'Fazal Mabood'
+tp86
+a(S'100007236041730'
+S'Sher Ullah Wazir'
+tp87
+a(S'100003598339357'
+S'Shafqat Mumtaz'
+tp88
+a(S'100006165583148'
+S'Zahid Nawaz'
+tp89
+a(S'100001862763393'
+S'Akram Ullah'
+tp90
+a(S'100001007104484'
+S'Khalid Masuad'
+tp91
+a(S'100001147382360'
+S'Raza Khan'
+tp92
+a(S'100004491602988'
+S'Muhammad Wali'
+tp93
+a(S'100004783304617'
+S'Mustafa Mustafa Wazir'
+tp94
+a(S'100002558887695'
+S'Khurshid Wazir'
+tp95
+a(S'100003306013611'
+S'Faisal Sahil'
+tp96
+a(S'100007827099720'
+S'Shahid Usman'
+tp97
+a(S'100006431857303'
+S'Anwar Khan'
+tp98
+a(S'100008360230965'
+S'Gulazar Easakhan'
+tp99
+a(S'100007845996080'
+S'\\u0639\\u0637\\u0627\\u0621 \\u0627\\u0644\\u0644\\u06c1 \\u0648\\u0632\\u06cc\\u0631'
+tp100
+a(S'1126947231'
+S'Allauddin Khan Razmian'
+tp101
+a(S'100006604601712'
+S'Yousaf Wazir'
+tp102
+a(S'100007602132799'
+S'Shamim Alam Wazir'
+tp103
+a(S'100002447359362'
+S'Falak Nawaz'
+tp104
+a(S'1612740715'
+S'Noor Kamal'
+tp105
+a(S'100003689006193'
+S'\\u0645\\u0631\\u064a\\u0645 \\u0627\\u0644\\u062e\\u0627\\u0644\\u062f\\u064a'
+tp106
+a(S'100005659873566'
+S'Rakhamzad Khan'
+tp107
+a(S'100000103130951'
+S'Masoom Hurmaz Dawar'
+tp108
+a(S'100002543486894'
+S'G M Dawar Khan'
+tp109
+a(S'100001735484342'
+S'Kamal Khan'
+tp110
+a(S'100000564324132'
+S'Khaliq Noor Wazir'
+tp111
+a(S'100003123678805'
+S'Fareed Ullah'
+tp112
+a(S'100006669156723'
+S'Khamosh Wazir'
+tp113
+a(S'100007516093399'
+S'Omerkhan Khan'
+tp114
+a(S'100003558199915'
+S'Naimat Ullah'
+tp115
+a(S'100005506360597'
+S'Kamran Ullah'
+tp116
+a(S'100001684159737'
+S'Zarka Raheem'
+tp117
+a(S'100000311237371'
+S'Safina Orakzai'
+tp118
+a(S'100001940664457'
+S'Shazeya Zaib'
+tp119
+a(S'100000568757108'
+S'Jamshaid Noor'
+tp120
+a(S'100005656113478'
+S'Myami Durzanda'
+tp121
+a(S'100002639632656'
+S'Rasool Rehman Wazir'
+tp122
+a(S'100003618870420'
+S'Rauf Khan'
+tp123
+a(S'100003595720201'
+S'Ali Show'
+tp124
+a(S'100005362354628'
+S'Abdul Sallam Abdul Salam'
+tp125
+a(S'100007802411927'
+S'S Ayaz Waziristani'
+tp126
+a(S'100007472823651'
+S'Israr Khan Myami'
+tp127
+a(S'100000230098674'
+S'Zahid Nawaz'
+tp128
+a(S'100002549055409'
+S'Shah Faisal'
+tp129
+asS'id'
+p130
+S'100001755079493'
+p131
+sS'name'
+p132
+S'Noorullah Wz'
+p133
+s.

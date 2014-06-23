@@ -1,0 +1,89 @@
+(dp1
+S'name'
+p2
+S'Salman Ali'
+p3
+sS'current_class'
+p4
+Vlondon, uk
+p5
+sS'home_text'
+p6
+VSouthall, Slough, United Kingdom\u000aHometown
+p7
+sS'current_link'
+p8
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D51.507199912582%252C%2B-0.12771606445312%26name%3DLondon%252C%2BUnited%2BKingdom%26mkt%3Den-IN&h=SAQHWfQhG&s=1
+p9
+sS'home_link'
+p10
+Vhttps://www.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D51.500000673014%252C%2B-0.36666870117188%26name%3DSouthall%252C%2BSlough%252C%2BUnited%2BKingdom%26mkt%3Den-IN&h=AAQGtNztp&s=1
+p11
+sS'current_text'
+p12
+VLondon, United Kingdom\u000aCurrent City
+p13
+sS'friends'
+p14
+(lp15
+(S'100006760560220'
+p16
+S'Ali Khan Khan'
+tp17
+a(S'100003022273976'
+p18
+S'Hassan Khan'
+tp19
+a(S'1074820552'
+p20
+S'Rabia Zeeshan'
+tp21
+a(S'782147860'
+p22
+S'Hamza Khalid'
+tp23
+a(S'100000820534370'
+p24
+S'Imran Nomi'
+tp25
+a(S'100005353843326'
+p26
+S'Benew Ben'
+tp27
+a(S'100000988251454'
+p28
+S'Sohail Khan'
+tp29
+a(S'100007577742430'
+p30
+S'Gold Saab'
+tp31
+a(g16
+S'Ali Khan Khan'
+tp32
+a(g18
+S'Hassan Khan'
+tp33
+a(g24
+S'Imran Nomi'
+tp34
+a(g20
+S'Rabia Zeeshan'
+tp35
+a(g26
+S'Benew Ben'
+tp36
+a(g22
+S'Hamza Khalid'
+tp37
+a(g30
+S'Gold Saab'
+tp38
+a(g28
+S'Sohail Khan'
+tp39
+asS'id'
+p40
+S'100008061848543'
+p41
+s.
